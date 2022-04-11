@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03.机器学习八股文/00.Machine Learning General/11. Gradient Descent (Best Explanation).md",
+            "file": "03.机器学习八股文/03.Neural Network/01.Gradient Descent (Best Explanation).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "least square",
+                "query": "leetcode-note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.机器学习八股文/00.Machine Learning General/11. Gradient Descent (Best Explanation).md",
+                "file": "03.机器学习八股文/03.Neural Network/01.Gradient Descent (Best Explanation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b8010c343e62502e",
   "lastOpenFiles": [
-    "03.机器学习八股文/00.Machine Learning General/11. Gradient Descent (Best Explanation).md",
+    "03.机器学习八股文/03.Neural Network/01.Gradient Descent (Best Explanation).md",
+    "03.机器学习八股文/03.Neural Network/00.Neural Network Intro.md",
+    "03.机器学习八股文/04.FudanNLP/01.Task 2 - CNN and RNN on Sentiment Analysis.md",
+    "Excalidraw/Drawing 2022-04-11 00.29.20.excalidraw.md",
+    "03.机器学习八股文/03.Neural Network/01.The Chain Rule.md",
     "03.机器学习八股文/01.Machine Learning Models/01.Linear Regression.md",
     "03.机器学习八股文/00.Machine Learning General/01.ML General.md",
-    "03.机器学习八股文/04.PyTorch 101/00.Graph in PyTorch.md",
+    "03.机器学习八股文/05.PyTorch 101/00.Graph in PyTorch.md",
     "公式.md",
-    "03.机器学习八股文/03.FudanNLP/01.Task 2 - CNN and RNN on Sentiment Analysis.md",
-    "03.机器学习八股文/03.FudanNLP/00.Task 1 - Sentiment Analysis.md",
-    "03.机器学习八股文/01.Machine Learning Models/03.Logistic Regression.md",
-    "03.机器学习八股文/00.Machine Learning General/06.Classification Metric.md",
-    "03.机器学习八股文/Untitled.md"
+    "03.机器学习八股文/04.FudanNLP/00.Task 1 - Sentiment Analysis.md"
   ]
 }
