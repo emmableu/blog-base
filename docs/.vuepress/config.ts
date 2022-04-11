@@ -99,7 +99,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: '/img/panda.png',
+      avatar: 'https://raw.githubusercontent.com/emmableu/image/master/202204101726398.png',
       name: 'Emma Wang',
       slogan: '',
     },
