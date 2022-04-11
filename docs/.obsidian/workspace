@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "55462c50ebb32f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8010c343e62502e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "03.机器学习八股文/03.FudanNLP/01.Task 2 - CNN and RNN on Sentiment Analysis.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9adfab398d92ccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fec4e01ea34812ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f2df8a3887a3e5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4562edfae0101fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230
+  },
+  "right": {
+    "id": "22c68facfa6d562e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c1330998e9ffa1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "727d242b4da1486d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03.机器学习八股文/03.FudanNLP/01.Task 2 - CNN and RNN on Sentiment Analysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b8010c343e62502e",
+  "lastOpenFiles": [
+    "03.机器学习八股文/03.FudanNLP/01.Task 2 - CNN and RNN on Sentiment Analysis.md",
+    "03.机器学习八股文/03.FudanNLP/00.Task 1 - Sentiment Analysis.md",
+    "03.机器学习八股文/01.Machine Learning Models/03.Logistic Regression.md",
+    "03.机器学习八股文/01.Machine Learning Models/01.Linear Regression.md",
+    "03.机器学习八股文/00.Machine Learning General/06.Classification Metric.md",
+    "03.机器学习八股文/Untitled.md",
+    "01.leetcode/02.leetcode problems/07.07-Reverse Integer.md",
+    "01.leetcode/02.leetcode problems/10.10-Regular Expression Matching.md",
+    "01.leetcode/02.leetcode problems/05.05-Longest Palindromic Substring (Medium).md",
+    "01.leetcode/02.leetcode problems/04.04-Median of Two Sorted Arrays (Hard).md"
+  ]
+}

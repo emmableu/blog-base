@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "d51d70b08b529f62",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c459708e08bac87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "231.1-Two Sum (Easy).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64bd0c9525ad8dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "be231629176cd51d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf5f08242f53b1da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "578d62f0d4615613",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5abf2e961fcd991a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d68c2ac2eedf6e0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec91b5693af6ac90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "231.1-Two Sum (Easy).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9c459708e08bac87",
+  "lastOpenFiles": [
+    "231.1-Two Sum (Easy).md",
+    "33.71-Simplify Path (Medium).md",
+    "Untitled.md",
+    "152.597-Friend Requests I- Overall Acceptance Rate (Easy).md",
+    "109.1091-Shortest Path in Binary Matrix (Medium).md",
+    "11.560-Subarray Sum Equals K (Medium).md",
+    "08.973-K Closest Points to Origin (Medium).md",
+    "03.1762-Buildings With an Ocean View (Medium).md",
+    "02.680-Valid Palindrome II (Easy).md"
+  ]
+}

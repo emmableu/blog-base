@@ -26,5 +26,8 @@
     "vuepress-plugin-zooming": "^1.1.7",
     "vuepress-theme-vdoing": "^1.10.4",
     "yamljs": "^0.3.0"
+  },
+  "dependencies": {
+    "v-dialogs": "^2.1.4"
   }
 }
