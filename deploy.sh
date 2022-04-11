@@ -5,7 +5,7 @@ set -e
 
 git add .
 git commit -m 'updated'
-git push  master
+git push origin master
 
 # 生成静态文件
 npm run build
