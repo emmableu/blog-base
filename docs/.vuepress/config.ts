@@ -5,7 +5,8 @@ import { VdoingThemeConfig } from 'vuepress-theme-vdoing/types'
 import dayjs from 'dayjs'
 import baiduCode from './config/baiduCode' // 百度统计hm码
 import htmlModules from './config/htmlModules' // 自定义插入的html块
-import markdownItKatex from "markdown-it-katex"
+// markdown-it-latex2img is the only solution that works, see this github issue:https://github.com/xugaoyi/vuepress-theme-vdoing/issues/513
+import markdownItLatex from "markdown-it-latex2img"
 
 
 export default defineConfig4CustomTheme<VdoingThemeConfig>({
@@ -245,8 +246,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
   markdown: {
     lineNumbers: true,
     extendMarkdown: (md) => {
-      md.set({ breaks: true });
-      md.use(markdownItKatex);
+      md.use(markdownItLatex);
     },
   }
 })

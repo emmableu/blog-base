@@ -45,7 +45,6 @@
     "stylus-loader": "^3.0.2",
     "vuepress-plugin-container": "^2.0.2",
     "vuepress-plugin-smooth-scroll": "^0.0.3",
-    "@maginapp/vuepress-plugin-katex": "^1.0.11"
   },
   "devDependencies": {
     "@vuepress/types": "^1.9.5"
