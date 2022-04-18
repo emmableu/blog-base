@@ -2,7 +2,10 @@
 
 # 确保脚本抛出遇到的错误
 set -e
-
+if [ -f docs/Excalidraw/*.md ]; then
+  mv docs/Excalidraw/*.md ../Excalidraw
+fi
+rm -i -f docs/Excalidraw/*
 git add .
 git commit -m 'updated'
 git push origin master

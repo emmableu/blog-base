@@ -210,12 +210,12 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     },
 
     // 放大图片
-    'vuepress-plugin-zooming': {
-      selector: '.theme-vdoing-content img:not(.no-zoom)', // not排除class是no-zoom的图片
-      options: {
-        bgColor: 'rgba(0,0,0,0.6)',
-      },
-    },
+    // 'vuepress-plugin-zooming': {
+    //   selector: '.theme-vdoing-content img:not(.no-zoom)', // not排除class是no-zoom的图片
+    //   options: {
+    //     bgColor: 'rgba(0,0,0,0.6)',
+    //   },
+    // },
 
     // 评论区
     // 'vuepress-plugin-comment': {
