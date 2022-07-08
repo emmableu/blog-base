@@ -1,0 +1,481 @@
+number,title,tag,difficulty,frequency
+1293,Shortest Path in a Grid with Obstacles Elimination,Array[DELIM]Breadth-First Search[DELIM]Matrix,Hard,1
+818,Race Car,Dynamic Programming,Hard,2
+2096,"Step-By-Step Directions From a Binary Tree Node to Another[DELIM]_2096"" href=""/problems/step-by-step-directions-from-a-binary-tree-node-to-another?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,3
+366,"Find Leaves of Binary Tree[DELIM]_366"" href=""/problems/find-leaves-of-binary-tree?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,4
+2128,Remove All Ones With Row and Column Flips,Array[DELIM]Math[DELIM]Bit Manipulation[DELIM]Matrix,Medium,5
+2158,Amount of New Area Painted Each Day,Array[DELIM]Segment Tree[DELIM]Ordered Set,Hard,6
+2115,Find All Possible Recipes from Given Supplies,Array[DELIM]Hash Table[DELIM]String[DELIM]Graph[DELIM]Topological Sort,Medium,7
+2034,Stock Price Fluctuation,Hash Table[DELIM]Design[DELIM]Heap (Priority Queue)[DELIM]Data Stream[DELIM]Ordered Set,Medium,8
+539,Minimum Time Difference,Array[DELIM]Math[DELIM]String[DELIM]Sorting,Medium,9
+150,"Evaluate Reverse Polish Notation[DELIM]_150"" href=""/problems/evaluate-reverse-polish-notation?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Math[DELIM]Stack,Medium,10
+1937,Maximum Number of Points with Cost,Array[DELIM]Dynamic Programming,Medium,11
+1048,Longest String Chain,Array[DELIM]Hash Table[DELIM]Two Pointers[DELIM]String[DELIM]Dynamic Programming,Medium,12
+359,Logger Rate Limiter,Hash Table[DELIM]Design,Easy,13
+2013,Detect Squares,Array[DELIM]Hash Table[DELIM]Design[DELIM]Counting,Medium,14
+2178,Maximum Split of Positive Even Integers,Math[DELIM]Greedy,Medium,15
+843,Guess the Word,Array[DELIM]Math[DELIM]String[DELIM]Interactive[DELIM]Game Theory,Hard,16
+1146,Snapshot Array,Array[DELIM]Hash Table[DELIM]Binary Search[DELIM]Design,Medium,17
+1610,Maximum Number of Visible Points,Array[DELIM]Math[DELIM]Geometry[DELIM]Sliding Window[DELIM]Sorting,Hard,18
+833,Find And Replace in String,Array[DELIM]String[DELIM]Sorting,Medium,19
+528,"Random Pick with Weight[DELIM]_528"" href=""https://labuladong.github.io/article/?qno=528"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Math[DELIM]Binary Search[DELIM]Prefix Sum[DELIM]Randomized,Medium,20
+2135,Count Words Obtained After Adding a Letter,Array[DELIM]Hash Table[DELIM]String[DELIM]Bit Manipulation[DELIM]Sorting,Medium,21
+68,Text Justification,Array[DELIM]String[DELIM]Simulation,Hard,22
+715,Range Module,Design[DELIM]Segment Tree[DELIM]Ordered Set,Hard,23
+777,Swap Adjacent in LR String,Two Pointers[DELIM]String,Medium,24
+552,Student Attendance Record II,Dynamic Programming,Hard,25
+489,Robot Room Cleaner,Backtracking[DELIM]Interactive,Hard,26
+1554,Strings Differ by One Character,Hash Table[DELIM]String[DELIM]Rolling Hash[DELIM]Hash Function,Medium,27
+329,Longest Increasing Path in a Matrix,Array[DELIM]Dynamic Programming[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph[DELIM]Topological Sort[DELIM]Memoization[DELIM]Matrix,Hard,28
+1423,Maximum Points You Can Obtain from Cards,Array[DELIM]Sliding Window[DELIM]Prefix Sum,Medium,29
+778,Swim in Rising Water,Array[DELIM]Binary Search[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Heap (Priority Queue)[DELIM]Matrix,Hard,30
+939,Minimum Area Rectangle,Array[DELIM]Hash Table[DELIM]Math[DELIM]Geometry[DELIM]Sorting,Medium,31
+2162,Minimum Cost to Set Cooking Time,Math[DELIM]Enumeration,Medium,32
+1240,Tiling a Rectangle with the Fewest Squares,Dynamic Programming[DELIM]Backtracking,Hard,33
+2018,Check if Word Can Be Placed In Crossword,Array[DELIM]Matrix[DELIM]Enumeration,Medium,34
+975,Odd Even Jump,Array[DELIM]Dynamic Programming[DELIM]Stack[DELIM]Monotonic Stack[DELIM]Ordered Set,Hard,35
+1996,The Number of Weak Characters in the Game,Array[DELIM]Stack[DELIM]Greedy[DELIM]Sorting[DELIM]Monotonic Stack,Medium,36
+720,Longest Word in Dictionary,Array[DELIM]Hash Table[DELIM]String[DELIM]Trie[DELIM]Sorting,Medium,37
+1376,Time Needed to Inform All Employees,Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search,Medium,38
+419,Battleships in a Board,Array[DELIM]Depth-First Search[DELIM]Matrix,Medium,39
+1397,Find All Good Strings,String[DELIM]Dynamic Programming[DELIM]String Matching,Hard,40
+642,Design Search Autocomplete System,String[DELIM]Design[DELIM]Trie[DELIM]Data Stream,Hard,41
+1055,Shortest Way to Form String,String[DELIM]Dynamic Programming[DELIM]Greedy,Medium,42
+792,Number of Matching Subsequences,Hash Table[DELIM]String[DELIM]Trie[DELIM]Sorting,Medium,43
+794,Valid Tic-Tac-Toe State,Array[DELIM]String,Medium,44
+729,My Calendar I,Binary Search[DELIM]Design[DELIM]Segment Tree[DELIM]Ordered Set,Medium,45
+1284,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,Array[DELIM]Bit Manipulation[DELIM]Breadth-First Search[DELIM]Matrix,Hard,46
+388,Longest Absolute File Path,String[DELIM]Stack[DELIM]Depth-First Search,Medium,47
+1631,"Path With Minimum Effort[DELIM]_1631"" href=""https://labuladong.github.io/article/?qno=1631"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Heap (Priority Queue)[DELIM]Matrix,Medium,48
+900,RLE Iterator,Array[DELIM]Design[DELIM]Counting[DELIM]Iterator,Medium,49
+2007,Find Original Array From Doubled Array,Array[DELIM]Hash Table[DELIM]Greedy[DELIM]Sorting,Medium,50
+2242,Maximum Score of a Node Sequence,Array[DELIM]Graph[DELIM]Sorting[DELIM]Enumeration,Hard,51
+1632,Rank Transform of a Matrix,Array[DELIM]Greedy[DELIM]Union Find[DELIM]Graph[DELIM]Topological Sort[DELIM]Matrix,Hard,52
+759,Employee Free Time,Array[DELIM]Sorting[DELIM]Heap (Priority Queue),Hard,53
+562,Longest Line of Consecutive One in Matrix,Array[DELIM]Dynamic Programming[DELIM]Matrix,Medium,54
+1820,Maximum Number of Accepted Invitations,Array[DELIM]Backtracking[DELIM]Matrix,Medium,55
+652,"Find Duplicate Subtrees[DELIM]_652"" href=""https://labuladong.github.io/article/?qno=652"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,56
+839,Similar String Groups,Array[DELIM]String[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find,Hard,57
+253,"Meeting Rooms II[DELIM]_253"" href=""https://labuladong.github.io/article/?qno=253"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers[DELIM]Greedy[DELIM]Sorting[DELIM]Heap (Priority Queue),Medium,58
+1345,Jump Game IV,Array[DELIM]Hash Table[DELIM]Breadth-First Search,Hard,59
+418,Sentence Screen Fitting,String[DELIM]Dynamic Programming[DELIM]Simulation,Medium,60
+1218,Longest Arithmetic Subsequence of Given Difference,Array[DELIM]Hash Table[DELIM]Dynamic Programming,Medium,61
+1088,Confusing Number II,Math[DELIM]Backtracking,Hard,62
+1352,"Product of the Last K Numbers[DELIM]_1352"" href=""/problems/product-of-the-last-k-numbers?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Math[DELIM]Design[DELIM]Queue[DELIM]Data Stream,Medium,63
+317,Shortest Distance from All Buildings,Array[DELIM]Breadth-First Search[DELIM]Matrix,Hard,64
+1834,"Single-Threaded CPU[DELIM]_1834"" href=""/problems/single-threaded-cpu?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Sorting[DELIM]Heap (Priority Queue),Medium,65
+593,Valid Square,Math[DELIM]Geometry,Medium,66
+726,Number of Atoms,Hash Table[DELIM]String[DELIM]Stack[DELIM]Sorting,Hard,67
+274,H-Index,Array[DELIM]Sorting[DELIM]Counting Sort,Medium,68
+1275,Find Winner on a Tic Tac Toe Game,Array[DELIM]Hash Table[DELIM]Matrix[DELIM]Simulation,Easy,69
+2188,Minimum Time to Finish the Race,Array[DELIM]Dynamic Programming,Hard,70
+1101,The Earliest Moment When Everyone Become Friends,Array[DELIM]Union Find,Medium,71
+302,Smallest Rectangle Enclosing Black Pixels,Array[DELIM]Binary Search[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Matrix,Hard,72
+1825,Finding MK Average,Design[DELIM]Queue[DELIM]Heap (Priority Queue)[DELIM]Ordered Set,Hard,73
+224,"Basic Calculator[DELIM]_224"" href=""https://labuladong.github.io/article/?qno=224"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Math[DELIM]String[DELIM]Stack[DELIM]Recursion,Hard,74
+1606,Find Servers That Handled Most Number of Requests,Array[DELIM]Greedy[DELIM]Heap (Priority Queue)[DELIM]Ordered Set,Hard,75
+56,"Merge Intervals[DELIM]_56"" href=""https://labuladong.github.io/article/?qno=56"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Sorting,Medium,76
+920,Number of Music Playlists,Math[DELIM]Dynamic Programming[DELIM]Combinatorics,Hard,77
+394,Decode String,String[DELIM]Stack[DELIM]Recursion,Medium,78
+551,Student Attendance Record I,String,Easy,79
+1882,Process Tasks Using Servers,Array[DELIM]Heap (Priority Queue),Medium,80
+756,Pyramid Transition Matrix,Bit Manipulation[DELIM]Depth-First Search[DELIM]Breadth-First Search,Medium,81
+428,Serialize and Deserialize N-ary Tree,String[DELIM]Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search,Hard,82
+202,Happy Number,Hash Table[DELIM]Math[DELIM]Two Pointers,Easy,83
+772,"Basic Calculator III[DELIM]_772"" href=""https://labuladong.github.io/article/?qno=772"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Math[DELIM]String[DELIM]Stack[DELIM]Recursion,Hard,84
+499,The Maze III,Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph[DELIM]Heap (Priority Queue)[DELIM]Shortest Path,Hard,85
+2277,Closest Node to Path in Tree,Array[DELIM]Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search,Hard,86
+524,Longest Word in Dictionary through Deleting,Array[DELIM]Two Pointers[DELIM]String[DELIM]Sorting,Medium,87
+1277,Count Square Submatrices with All Ones,Array[DELIM]Dynamic Programming[DELIM]Matrix,Medium,88
+549,"Binary Tree Longest Consecutive Sequence II[DELIM]_549"" href=""/problems/binary-tree-longest-consecutive-sequence-ii?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,89
+1102,Path With Maximum Minimum Value,Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Heap (Priority Queue)[DELIM]Matrix,Medium,90
+427,Construct Quad Tree,Array[DELIM]Divide and Conquer[DELIM]Tree[DELIM]Matrix,Medium,91
+471,Encode String with Shortest Length,String[DELIM]Dynamic Programming,Hard,92
+1592,Rearrange Spaces Between Words,String,Easy,93
+420,Strong Password Checker,String[DELIM]Greedy[DELIM]Heap (Priority Queue),Hard,94
+2092,Find All People With Secret,Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Graph[DELIM]Sorting,Hard,95
+358,Rearrange String k Distance Apart,Hash Table[DELIM]String[DELIM]Greedy[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Counting,Hard,96
+2184,Number of Ways to Build Sturdy Brick Wall,Array[DELIM]Dynamic Programming[DELIM]Bit Manipulation[DELIM]Bitmask,Medium,97
+2250,Count Number of Rectangles Containing Each Point,Array[DELIM]Binary Search[DELIM]Binary Indexed Tree[DELIM]Sorting,Medium,98
+930,Binary Subarrays With Sum,Array[DELIM]Hash Table[DELIM]Sliding Window[DELIM]Prefix Sum,Medium,99
+947,Most Stones Removed with Same Row or Column,Depth-First Search[DELIM]Union Find[DELIM]Graph,Medium,100
+425,Word Squares,Array[DELIM]String[DELIM]Backtracking[DELIM]Trie,Hard,101
+692,Top K Frequent Words,Hash Table[DELIM]String[DELIM]Trie[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Bucket Sort[DELIM]Counting,Medium,102
+1477,Find Two Non-overlapping Sub-arrays Each With Target Sum,Array[DELIM]Hash Table[DELIM]Binary Search[DELIM]Dynamic Programming[DELIM]Sliding Window,Medium,103
+444,Sequence Reconstruction,Array[DELIM]Graph[DELIM]Topological Sort,Medium,104
+353,"Design Snake Game[DELIM]_353"" href=""/problems/design-snake-game?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Design[DELIM]Queue[DELIM]Matrix,Medium,105
+1000,Minimum Cost to Merge Stones,Array[DELIM]Dynamic Programming,Hard,106
+1229,Meeting Scheduler,Array[DELIM]Two Pointers[DELIM]Sorting,Medium,107
+1948,Delete Duplicate Folders in System,Array[DELIM]Hash Table[DELIM]String[DELIM]Trie[DELIM]Hash Function,Hard,108
+636,Exclusive Time of Functions,Array[DELIM]Stack,Medium,109
+631,Design Excel Sum Formula,Graph[DELIM]Design[DELIM]Topological Sort,Hard,110
+1263,Minimum Moves to Move a Box to Their Target Location,Array[DELIM]Breadth-First Search[DELIM]Heap (Priority Queue)[DELIM]Matrix,Hard,111
+753,Cracking the Safe,Depth-First Search[DELIM]Graph[DELIM]Eulerian Circuit,Hard,112
+722,Remove Comments,Array[DELIM]String,Medium,113
+1499,Max Value of Equation,Array[DELIM]Queue[DELIM]Sliding Window[DELIM]Heap (Priority Queue)[DELIM]Monotonic Queue,Hard,114
+2271,Maximum White Tiles Covered by a Carpet,Array[DELIM]Binary Search[DELIM]Greedy[DELIM]Sorting[DELIM]Prefix Sum,Medium,115
+847,Shortest Path Visiting All Nodes,Dynamic Programming[DELIM]Bit Manipulation[DELIM]Breadth-First Search[DELIM]Graph[DELIM]Bitmask,Hard,116
+299,Bulls and Cows,Hash Table[DELIM]String[DELIM]Counting,Medium,117
+1514,"Path with Maximum Probability[DELIM]_1514"" href=""https://labuladong.github.io/article/?qno=1514"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Graph[DELIM]Heap (Priority Queue)[DELIM]Shortest Path,Medium,118
+410,"Split Array Largest Sum[DELIM]_410"" href=""https://labuladong.github.io/article/?qno=410"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search[DELIM]Dynamic Programming[DELIM]Greedy,Hard,119
+447,Number of Boomerangs,Array[DELIM]Hash Table[DELIM]Math,Medium,120
+1153,String Transforms Into Another String,Hash Table[DELIM]String,Hard,121
+1506,Find Root of N-Ary Tree,Hash Table[DELIM]Bit Manipulation[DELIM]Tree[DELIM]Depth-First Search,Medium,122
+679,24 Game,Array[DELIM]Math[DELIM]Backtracking,Hard,123
+57,Insert Interval,Array,Medium,124
+354,"Russian Doll Envelopes[DELIM]_354"" href=""https://labuladong.github.io/article/?qno=354"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search[DELIM]Dynamic Programming[DELIM]Sorting,Hard,125
+1110,"Delete Nodes And Return Forest[DELIM]_1110"" href=""/problems/delete-nodes-and-return-forest?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,126
+1597,Build Binary Expression Tree From Infix Expression,String[DELIM]Stack[DELIM]Tree[DELIM]Binary Tree,Hard,127
+807,Max Increase to Keep City Skyline,Array[DELIM]Greedy[DELIM]Matrix,Medium,128
+1570,Dot Product of Two Sparse Vectors,Array[DELIM]Hash Table[DELIM]Two Pointers[DELIM]Design,Medium,129
+465,Optimal Account Balancing,Array[DELIM]Dynamic Programming[DELIM]Backtracking[DELIM]Bit Manipulation[DELIM]Bitmask,Hard,130
+267,Palindrome Permutation II,Hash Table[DELIM]String[DELIM]Backtracking,Medium,131
+1197,Minimum Knight Moves,Breadth-First Search,Medium,132
+871,Minimum Number of Refueling Stops,Array[DELIM]Dynamic Programming[DELIM]Greedy[DELIM]Heap (Priority Queue),Hard,133
+560,"Subarray Sum Equals K[DELIM]_560"" href=""/problems/subarray-sum-equals-k?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Hash Table[DELIM]Prefix Sum,Medium,134
+239,"Sliding Window Maximum[DELIM]_239"" href=""https://labuladong.github.io/article/?qno=239"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Queue[DELIM]Sliding Window[DELIM]Heap (Priority Queue)[DELIM]Monotonic Queue,Hard,135
+62,"Unique Paths[DELIM]_62"" href=""/problems/unique-paths?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Math[DELIM]Dynamic Programming[DELIM]Combinatorics,Medium,136
+2174,Remove All Ones With Row and Column Flips II,Array[DELIM]Bit Manipulation[DELIM]Breadth-First Search[DELIM]Matrix,Medium,137
+296,Best Meeting Point,Array[DELIM]Math[DELIM]Sorting[DELIM]Matrix,Hard,138
+2132,Stamping the Grid,Array[DELIM]Greedy[DELIM]Matrix[DELIM]Prefix Sum,Hard,139
+951,"Flip Equivalent Binary Trees[DELIM]_951"" href=""/problems/flip-equivalent-binary-trees?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,140
+2235,Add Two Integers,Math,Easy,141
+398,"Random Pick Index[DELIM]_398"" href=""https://labuladong.github.io/article/?qno=398"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]Math[DELIM]Reservoir Sampling[DELIM]Randomized,Medium,142
+407,Trapping Rain Water II,Array[DELIM]Breadth-First Search[DELIM]Heap (Priority Queue)[DELIM]Matrix,Hard,143
+743,"Network Delay Time[DELIM]_743"" href=""https://labuladong.github.io/article/?qno=743"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph[DELIM]Heap (Priority Queue)[DELIM]Shortest Path,Medium,144
+1793,Maximum Score of a Good Subarray,Array[DELIM]Two Pointers[DELIM]Binary Search[DELIM]Stack[DELIM]Monotonic Stack,Hard,145
+731,My Calendar II,Binary Search[DELIM]Design[DELIM]Segment Tree[DELIM]Ordered Set,Medium,146
+269,Alien Dictionary,Array[DELIM]String[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph[DELIM]Topological Sort,Hard,147
+2187,Minimum Time to Complete Trips,Array[DELIM]Binary Search,Medium,148
+341,"Flatten Nested List Iterator[DELIM]_341"" href=""https://labuladong.github.io/article/?qno=341"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Stack[DELIM]Tree[DELIM]Depth-First Search[DELIM]Design[DELIM]Queue[DELIM]Iterator,Medium,149
+1,Two Sum,Array[DELIM]Hash Table,Easy,150
+727,Minimum Window Subsequence,String[DELIM]Dynamic Programming[DELIM]Sliding Window,Hard,151
+300,"Longest Increasing Subsequence[DELIM]_300"" href=""https://labuladong.github.io/article/?qno=300"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search[DELIM]Dynamic Programming,Medium,152
+399,Evaluate Division,Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Graph[DELIM]Shortest Path,Medium,153
+1167,Minimum Cost to Connect Sticks,Array[DELIM]Greedy[DELIM]Heap (Priority Queue),Medium,154
+2224,Minimum Number of Operations to Convert Time,String[DELIM]Greedy,Easy,155
+1504,Count Submatrices With All Ones,Array[DELIM]Dynamic Programming[DELIM]Stack[DELIM]Matrix[DELIM]Monotonic Stack,Medium,156
+213,"House Robber II[DELIM]_213"" href=""https://labuladong.github.io/article/?qno=213"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming,Medium,157
+278,First Bad Version,Binary Search[DELIM]Interactive,Easy,158
+200,"Number of Islands[DELIM]_200"" href=""https://labuladong.github.io/article/?qno=200"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Matrix,Medium,159
+1647,Minimum Deletions to Make Character Frequencies Unique,String[DELIM]Greedy[DELIM]Sorting,Medium,160
+990,"Satisfiability of Equality Equations[DELIM]_990"" href=""https://labuladong.github.io/article/?qno=990"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]String[DELIM]Union Find[DELIM]Graph,Medium,161
+315,"Count of Smaller Numbers After Self[DELIM]_315"" href=""https://labuladong.github.io/article/?qno=315"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search[DELIM]Divide and Conquer[DELIM]Binary Indexed Tree[DELIM]Segment Tree[DELIM]Merge Sort[DELIM]Ordered Set,Hard,162
+161,One Edit Distance,Two Pointers[DELIM]String,Medium,163
+393,UTF-8 Validation,Array[DELIM]Bit Manipulation,Medium,164
+71,"Simplify Path[DELIM]_71"" href=""/problems/simplify-path?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Stack,Medium,165
+250,"Count Univalue Subtrees[DELIM]_250"" href=""/problems/count-univalue-subtrees?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,166
+1004,"Max Consecutive Ones III[DELIM]_1004"" href=""/problems/max-consecutive-ones-iii?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search[DELIM]Sliding Window[DELIM]Prefix Sum,Medium,167
+809,Expressive Words,Array[DELIM]Two Pointers[DELIM]String,Medium,168
+417,Pacific Atlantic Water Flow,Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Matrix,Medium,169
+1642,Furthest Building You Can Reach,Array[DELIM]Greedy[DELIM]Heap (Priority Queue),Medium,170
+346,"Moving Average from Data Stream[DELIM]_346"" href=""/problems/moving-average-from-data-stream?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Design[DELIM]Queue[DELIM]Data Stream,Easy,171
+803,Bricks Falling When Hit,Array[DELIM]Union Find[DELIM]Matrix,Hard,172
+210,"Course Schedule II[DELIM]_210"" href=""https://labuladong.github.io/article/?qno=210"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph[DELIM]Topological Sort,Medium,173
+1509,Minimum Difference Between Largest and Smallest Value in Three Moves,Array[DELIM]Greedy[DELIM]Sorting,Medium,174
+832,Flipping an Image,Array[DELIM]Two Pointers[DELIM]Matrix[DELIM]Simulation,Easy,175
+130,"Surrounded Regions[DELIM]_130"" href=""https://labuladong.github.io/article/?qno=130"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Matrix,Medium,176
+146,"LRU Cache[DELIM]_146"" href=""https://labuladong.github.io/article/?qno=146"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]Linked List[DELIM]Design[DELIM]Doubly-Linked List,Medium,177
+886,"Possible Bipartition[DELIM]_886"" href=""https://labuladong.github.io/article/?qno=886"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Graph,Medium,178
+490,The Maze,Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph,Medium,179
+312,"Burst Balloons[DELIM]_312"" href=""https://labuladong.github.io/article/?qno=312"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming,Hard,180
+1331,Rank Transform of an Array,Array[DELIM]Hash Table[DELIM]Sorting,Easy,181
+1091,Shortest Path in Binary Matrix,Array[DELIM]Breadth-First Search[DELIM]Matrix,Medium,182
+695,"Max Area of Island[DELIM]_695"" href=""https://labuladong.github.io/article/?qno=695"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Matrix,Medium,183
+1244,Design A Leaderboard,Hash Table[DELIM]Design[DELIM]Sorting,Medium,184
+1438,"Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit[DELIM]_1438"" href=""/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Queue[DELIM]Sliding Window[DELIM]Heap (Priority Queue)[DELIM]Ordered Set[DELIM]Monotonic Queue,Medium,185
+158,Read N Characters Given read4 II - Call Multiple Times,String[DELIM]Simulation[DELIM]Interactive,Hard,186
+752,"Open the Lock[DELIM]_752"" href=""https://labuladong.github.io/article/?qno=752"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Hash Table[DELIM]String[DELIM]Breadth-First Search,Medium,187
+1237,Find Positive Integer Solution for a Given Equation,Math[DELIM]Two Pointers[DELIM]Binary Search[DELIM]Interactive,Medium,188
+31,Next Permutation,Array[DELIM]Two Pointers,Medium,189
+1740,Find Distance in a Binary Tree,Hash Table[DELIM]Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Tree,Medium,190
+4,Median of Two Sorted Arrays,Array[DELIM]Binary Search[DELIM]Divide and Conquer,Hard,191
+827,Making A Large Island,Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Matrix,Hard,192
+934,Shortest Bridge,Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Matrix,Medium,193
+285,"Inorder Successor in BST[DELIM]_285"" href=""/problems/inorder-successor-in-bst?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Search Tree[DELIM]Binary Tree,Medium,194
+894,"All Possible Full Binary Trees[DELIM]_894"" href=""/problems/all-possible-full-binary-trees?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Dynamic Programming[DELIM]Tree[DELIM]Recursion[DELIM]Memoization[DELIM]Binary Tree,Medium,195
+307,Range Sum Query - Mutable,Array[DELIM]Design[DELIM]Binary Indexed Tree[DELIM]Segment Tree,Medium,196
+247,Strobogrammatic Number II,Array[DELIM]String[DELIM]Recursion,Medium,197
+659,"Split Array into Consecutive Subsequences[DELIM]_659"" href=""https://labuladong.github.io/article/?qno=659"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Hash Table[DELIM]Greedy[DELIM]Heap (Priority Queue),Medium,198
+1074,Number of Submatrices That Sum to Target,Array[DELIM]Hash Table[DELIM]Matrix[DELIM]Prefix Sum,Hard,199
+1986,Minimum Number of Work Sessions to Finish the Tasks,Array[DELIM]Dynamic Programming[DELIM]Backtracking[DELIM]Bit Manipulation[DELIM]Bitmask,Medium,200
+43,"Multiply Strings[DELIM]_43"" href=""https://labuladong.github.io/article/?qno=43"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Math[DELIM]String[DELIM]Simulation,Medium,201
+384,"Shuffle an Array[DELIM]_384"" href=""https://labuladong.github.io/article/?qno=384"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Math[DELIM]Randomized,Medium,202
+162,"Find Peak Element[DELIM]_162"" href=""/problems/find-peak-element?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search,Medium,203
+208,"Implement Trie (Prefix Tree)[DELIM]_208"" href=""https://labuladong.github.io/article/?qno=208"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]String[DELIM]Design[DELIM]Trie,Medium,204
+13,Roman to Integer,Hash Table[DELIM]Math[DELIM]String,Easy,205
+5,"Longest Palindromic Substring[DELIM]_5"" href=""https://labuladong.github.io/article/?qno=5"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Dynamic Programming,Medium,206
+564,Find the Closest Palindrome,Math[DELIM]String,Hard,207
+673,Number of Longest Increasing Subsequence,Array[DELIM]Dynamic Programming[DELIM]Binary Indexed Tree[DELIM]Segment Tree,Medium,208
+702,Search in a Sorted Array of Unknown Size,Array[DELIM]Binary Search[DELIM]Interactive,Medium,209
+815,Bus Routes,Array[DELIM]Hash Table[DELIM]Breadth-First Search,Hard,210
+1428,Leftmost Column with at Least a One,Array[DELIM]Binary Search[DELIM]Matrix[DELIM]Interactive,Medium,211
+424,"Longest Repeating Character Replacement[DELIM]_424"" href=""/problems/longest-repeating-character-replacement?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]String[DELIM]Sliding Window,Medium,212
+272,Closest Binary Search Tree Value II,Two Pointers[DELIM]Stack[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Search Tree[DELIM]Heap (Priority Queue)[DELIM]Binary Tree,Hard,213
+400,Nth Digit,Math[DELIM]Binary Search,Medium,214
+362,"Design Hit Counter[DELIM]_362"" href=""/problems/design-hit-counter?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Hash Table[DELIM]Binary Search[DELIM]Design[DELIM]Queue,Medium,215
+849,Maximize Distance to Closest Person,Array,Medium,216
+53,"Maximum Subarray[DELIM]_53"" href=""https://labuladong.github.io/article/?qno=53"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Divide and Conquer[DELIM]Dynamic Programming,Medium,217
+348,Design Tic-Tac-Toe,Array[DELIM]Hash Table[DELIM]Design[DELIM]Matrix,Medium,218
+530,"Minimum Absolute Difference in BST[DELIM]_530"" href=""/problems/minimum-absolute-difference-in-bst?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Search Tree[DELIM]Binary Tree,Easy,219
+954,Array of Doubled Pairs,Array[DELIM]Hash Table[DELIM]Greedy[DELIM]Sorting,Medium,220
+486,"Predict the Winner[DELIM]_486"" href=""https://labuladong.github.io/article/?qno=486"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Math[DELIM]Dynamic Programming[DELIM]Recursion[DELIM]Game Theory,Medium,221
+959,Regions Cut By Slashes,Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Graph,Medium,222
+1944,"Number of Visible People in a Queue[DELIM]_1944"" href=""/problems/number-of-visible-people-in-a-queue?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Stack[DELIM]Monotonic Stack,Hard,223
+3,"Longest Substring Without Repeating Characters[DELIM]_3"" href=""https://labuladong.github.io/article/?qno=3"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]String[DELIM]Sliding Window,Medium,224
+1296,Divide Array in Sets of K Consecutive Numbers,Array[DELIM]Hash Table[DELIM]Greedy[DELIM]Sorting,Medium,225
+405,Convert a Number to Hexadecimal,Math[DELIM]Bit Manipulation,Easy,226
+212,Word Search II,Array[DELIM]String[DELIM]Backtracking[DELIM]Trie[DELIM]Matrix,Hard,227
+211,"Design Add and Search Words Data Structure[DELIM]_211"" href=""https://labuladong.github.io/article/?qno=211"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Depth-First Search[DELIM]Design[DELIM]Trie,Medium,228
+949,Largest Time for Given Digits,String[DELIM]Enumeration,Medium,229
+389,Find the Difference,Hash Table[DELIM]String[DELIM]Bit Manipulation[DELIM]Sorting,Easy,230
+375,Guess Number Higher or Lower II,Math[DELIM]Dynamic Programming[DELIM]Game Theory,Medium,231
+1673,Find the Most Competitive Subsequence,Array[DELIM]Stack[DELIM]Greedy[DELIM]Monotonic Stack,Medium,232
+233,Number of Digit One,Math[DELIM]Dynamic Programming[DELIM]Recursion,Hard,233
+85,Maximal Rectangle,Array[DELIM]Dynamic Programming[DELIM]Stack[DELIM]Matrix[DELIM]Monotonic Stack,Hard,234
+1854,Maximum Population Year,Array[DELIM]Counting,Easy,235
+289,Game of Life,Array[DELIM]Matrix[DELIM]Simulation,Medium,236
+355,"Design Twitter[DELIM]_355"" href=""https://labuladong.github.io/article/?qno=355"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]Linked List[DELIM]Design[DELIM]Heap (Priority Queue),Medium,237
+370,"Range Addition[DELIM]_370"" href=""https://labuladong.github.io/article/?qno=370"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Prefix Sum,Medium,238
+349,Intersection of Two Arrays,Array[DELIM]Hash Table[DELIM]Two Pointers[DELIM]Binary Search[DELIM]Sorting,Easy,239
+37,"Sudoku Solver[DELIM]_37"" href=""https://labuladong.github.io/article/?qno=37"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Backtracking[DELIM]Matrix,Hard,240
+282,Expression Add Operators,Math[DELIM]String[DELIM]Backtracking,Hard,241
+207,"Course Schedule[DELIM]_207"" href=""https://labuladong.github.io/article/?qno=207"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph[DELIM]Topological Sort,Medium,242
+1901,Find a Peak Element II,Array[DELIM]Binary Search[DELIM]Matrix,Medium,243
+460,"LFU Cache[DELIM]_460"" href=""https://labuladong.github.io/article/?qno=460"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]Linked List[DELIM]Design[DELIM]Doubly-Linked List,Hard,244
+415,Add Strings,Math[DELIM]String[DELIM]Simulation,Easy,245
+1129,Shortest Path with Alternating Colors,Breadth-First Search[DELIM]Graph,Medium,246
+304,"Range Sum Query 2D - Immutable[DELIM]_304"" href=""https://labuladong.github.io/article/?qno=304"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Design[DELIM]Matrix[DELIM]Prefix Sum,Medium,247
+665,Non-decreasing Array,Array,Medium,248
+542,01 Matrix,Array[DELIM]Dynamic Programming[DELIM]Breadth-First Search[DELIM]Matrix,Medium,249
+708,Insert into a Sorted Circular Linked List,Linked List,Medium,250
+38,Count and Say,String,Medium,251
+64,"Minimum Path Sum[DELIM]_64"" href=""https://labuladong.github.io/article/?qno=64"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming[DELIM]Matrix,Medium,252
+1026,"Maximum Difference Between Node and Ancestor[DELIM]_1026"" href=""/problems/maximum-difference-between-node-and-ancestor?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,253
+1855,Maximum Distance Between a Pair of Values,Array[DELIM]Two Pointers[DELIM]Binary Search[DELIM]Greedy,Medium,254
+332,Reconstruct Itinerary,Depth-First Search[DELIM]Graph[DELIM]Eulerian Circuit,Hard,255
+188,"Best Time to Buy and Sell Stock IV[DELIM]_188"" href=""https://labuladong.github.io/article/?qno=188"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming,Hard,256
+286,Walls and Gates,Array[DELIM]Breadth-First Search[DELIM]Matrix,Medium,257
+889,"Construct Binary Tree from Preorder and Postorder Traversal[DELIM]_889"" href=""https://labuladong.github.io/article/?qno=889"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Hash Table[DELIM]Divide and Conquer[DELIM]Tree[DELIM]Binary Tree,Medium,258
+1007,Minimum Domino Rotations For Equal Row,Array[DELIM]Greedy,Medium,259
+2103,Rings and Rods,Hash Table[DELIM]String,Easy,260
+380,"Insert Delete GetRandom O(1)[DELIM]_380"" href=""https://labuladong.github.io/article/?qno=380"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Hash Table[DELIM]Math[DELIM]Design[DELIM]Randomized,Medium,261
+222,"Count Complete Tree Nodes[DELIM]_222"" href=""https://labuladong.github.io/article/?qno=222"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Binary Search[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,262
+1268,Search Suggestions System,Array[DELIM]String[DELIM]Trie,Medium,263
+34,"Find First and Last Position of Element in Sorted Array[DELIM]_34"" href=""https://labuladong.github.io/article/?qno=34"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search,Medium,264
+378,Kth Smallest Element in a Sorted Matrix,Array[DELIM]Binary Search[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Matrix,Medium,265
+249,Group Shifted Strings,Array[DELIM]Hash Table[DELIM]String,Medium,266
+588,Design In-Memory File System,Hash Table[DELIM]String[DELIM]Design[DELIM]Trie,Hard,267
+845,Longest Mountain in Array,Array[DELIM]Two Pointers[DELIM]Dynamic Programming[DELIM]Enumeration,Medium,268
+918,"Maximum Sum Circular Subarray[DELIM]_918"" href=""/problems/maximum-sum-circular-subarray?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Divide and Conquer[DELIM]Dynamic Programming[DELIM]Queue[DELIM]Monotonic Queue,Medium,269
+1095,Find in Mountain Array,Array[DELIM]Binary Search[DELIM]Interactive,Hard,270
+72,"Edit Distance[DELIM]_72"" href=""https://labuladong.github.io/article/?qno=72"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Dynamic Programming,Hard,271
+10,"Regular Expression Matching[DELIM]_10"" href=""https://labuladong.github.io/article/?qno=10"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Dynamic Programming[DELIM]Recursion,Hard,272
+690,Employee Importance,Hash Table[DELIM]Depth-First Search[DELIM]Breadth-First Search,Medium,273
+707,Design Linked List,Linked List[DELIM]Design,Medium,274
+109,"Convert Sorted List to Binary Search Tree[DELIM]_109"" href=""/problems/convert-sorted-list-to-binary-search-tree?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Divide and Conquer[DELIM]Tree[DELIM]Binary Search Tree[DELIM]Binary Tree,Medium,275
+2131,Longest Palindrome by Concatenating Two Letter Words,Array[DELIM]Hash Table[DELIM]String[DELIM]Greedy[DELIM]Counting,Medium,276
+365,Water and Jug Problem,Math[DELIM]Depth-First Search[DELIM]Breadth-First Search,Medium,277
+23,"Merge k Sorted Lists[DELIM]_23"" href=""https://labuladong.github.io/article/?qno=23"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Divide and Conquer[DELIM]Heap (Priority Queue)[DELIM]Merge Sort,Hard,278
+241,"Different Ways to Add Parentheses[DELIM]_241"" href=""https://labuladong.github.io/article/?qno=241"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Math[DELIM]String[DELIM]Dynamic Programming[DELIM]Recursion[DELIM]Memoization,Medium,279
+658,Find K Closest Elements,Array[DELIM]Two Pointers[DELIM]Binary Search[DELIM]Sorting[DELIM]Heap (Priority Queue),Medium,280
+846,Hand of Straights,Array[DELIM]Hash Table[DELIM]Greedy[DELIM]Sorting,Medium,281
+297,"Serialize and Deserialize Binary Tree[DELIM]_297"" href=""https://labuladong.github.io/article/?qno=297"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Design[DELIM]Binary Tree,Hard,282
+216,"Combination Sum III[DELIM]_216"" href=""https://labuladong.github.io/article/?qno=216"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Backtracking,Medium,283
+336,Palindrome Pairs,Array[DELIM]Hash Table[DELIM]String[DELIM]Trie,Hard,284
+935,Knight Dialer,Dynamic Programming,Medium,285
+54,"Spiral Matrix[DELIM]_54"" href=""https://labuladong.github.io/article/?qno=54"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Matrix[DELIM]Simulation,Medium,286
+875,"Koko Eating Bananas[DELIM]_875"" href=""https://labuladong.github.io/article/?qno=875"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search,Medium,287
+164,Maximum Gap,Array[DELIM]Sorting[DELIM]Bucket Sort[DELIM]Radix Sort,Hard,288
+459,Repeated Substring Pattern,String[DELIM]String Matching,Easy,289
+2311,Longest Binary Subsequence Less Than or Equal to K,String[DELIM]Dynamic Programming[DELIM]Greedy[DELIM]Memoization,Medium,290
+45,"Jump Game II[DELIM]_45"" href=""https://labuladong.github.io/article/?qno=45"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming[DELIM]Greedy,Medium,291
+29,Divide Two Integers,Math[DELIM]Bit Manipulation,Medium,292
+1122,Relative Sort Array,Array[DELIM]Hash Table[DELIM]Sorting[DELIM]Counting Sort,Easy,293
+487,Max Consecutive Ones II,Array[DELIM]Dynamic Programming[DELIM]Sliding Window,Medium,294
+662,"Maximum Width of Binary Tree[DELIM]_662"" href=""/problems/maximum-width-of-binary-tree?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Tree,Medium,295
+408,Valid Word Abbreviation,Two Pointers[DELIM]String,Easy,296
+215,"Kth Largest Element in an Array[DELIM]_215"" href=""https://labuladong.github.io/article/?qno=215"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Divide and Conquer[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Quickselect,Medium,297
+703,"Kth Largest Element in a Stream[DELIM]_703"" href=""/problems/kth-largest-element-in-a-stream?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Design[DELIM]Binary Search Tree[DELIM]Heap (Priority Queue)[DELIM]Binary Tree[DELIM]Data Stream,Easy,298
+48,"Rotate Image[DELIM]_48"" href=""https://labuladong.github.io/article/?qno=48"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Math[DELIM]Matrix,Medium,299
+968,"Binary Tree Cameras[DELIM]_968"" href=""/problems/binary-tree-cameras?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Dynamic Programming[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Hard,300
+545,Boundary of Binary Tree,Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,301
+1207,Unique Number of Occurrences,Array[DELIM]Hash Table,Easy,302
+124,"Binary Tree Maximum Path Sum[DELIM]_124"" href=""/problems/binary-tree-maximum-path-sum?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Dynamic Programming[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Hard,303
+337,"House Robber III[DELIM]_337"" href=""https://labuladong.github.io/article/?qno=337"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Dynamic Programming[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,304
+1730,Shortest Path to Get Food,Array[DELIM]Breadth-First Search[DELIM]Matrix,Medium,305
+914,X of a Kind in a Deck of Cards,Array[DELIM]Hash Table[DELIM]Math[DELIM]Counting[DELIM]Number Theory,Easy,306
+686,Repeated String Match,String[DELIM]String Matching,Medium,307
+1305,"All Elements in Two Binary Search Trees[DELIM]_1305"" href=""/problems/all-elements-in-two-binary-search-trees?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Search Tree[DELIM]Sorting[DELIM]Binary Tree,Medium,308
+1706,Where Will the Ball Fall,Array[DELIM]Dynamic Programming[DELIM]Depth-First Search[DELIM]Matrix[DELIM]Simulation,Medium,309
+721,Accounts Merge,Array[DELIM]String[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find,Medium,310
+9,Palindrome Number,Math,Easy,311
+128,Longest Consecutive Sequence,Array[DELIM]Hash Table[DELIM]Union Find,Medium,312
+42,"Trapping Rain Water[DELIM]_42"" href=""https://labuladong.github.io/article/?qno=42"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers[DELIM]Dynamic Programming[DELIM]Stack[DELIM]Monotonic Stack,Hard,313
+1160,Find Words That Can Be Formed by Characters,Array[DELIM]Hash Table[DELIM]String,Easy,314
+117,"Populating Next Right Pointers in Each Node II[DELIM]_117"" href=""/problems/populating-next-right-pointers-in-each-node-ii?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Tree,Medium,315
+787,"Cheapest Flights Within K Stops[DELIM]_787"" href=""https://labuladong.github.io/article/?qno=787"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Dynamic Programming[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph[DELIM]Heap (Priority Queue)[DELIM]Shortest Path,Medium,316
+261,"Graph Valid Tree[DELIM]_261"" href=""https://labuladong.github.io/article/?qno=261"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Graph,Medium,317
+14,Longest Common Prefix,String,Easy,318
+485,Max Consecutive Ones,Array,Easy,319
+965,"Univalued Binary Tree[DELIM]_965"" href=""/problems/univalued-binary-tree?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Tree,Easy,320
+1155,Number of Dice Rolls With Target Sum,Dynamic Programming,Medium,321
+2185,Counting Words With a Given Prefix,Array[DELIM]String,Easy,322
+41,First Missing Positive,Array[DELIM]Hash Table,Hard,323
+1525,Number of Good Ways to Split a String,String[DELIM]Dynamic Programming[DELIM]Bit Manipulation,Medium,324
+121,"Best Time to Buy and Sell Stock[DELIM]_121"" href=""https://labuladong.github.io/article/?qno=121"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming,Easy,325
+347,Top K Frequent Elements,Array[DELIM]Hash Table[DELIM]Divide and Conquer[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Bucket Sort[DELIM]Counting[DELIM]Quickselect,Medium,326
+91,"Decode Ways[DELIM]_91"" href=""/problems/decode-ways?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Dynamic Programming,Medium,327
+133,Clone Graph,Hash Table[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph,Medium,328
+60,Permutation Sequence,Math[DELIM]Recursion,Hard,329
+501,"Find Mode in Binary Search Tree[DELIM]_501"" href=""/problems/find-mode-in-binary-search-tree?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Search Tree[DELIM]Binary Tree,Easy,330
+556,Next Greater Element III,Math[DELIM]Two Pointers[DELIM]String,Medium,331
+981,Time Based Key-Value Store,Hash Table[DELIM]String[DELIM]Binary Search[DELIM]Design,Medium,332
+452,"Minimum Number of Arrows to Burst Balloons[DELIM]_452"" href=""https://labuladong.github.io/article/?qno=452"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Greedy[DELIM]Sorting,Medium,333
+1313,Decompress Run-Length Encoded List,Array,Easy,334
+828,Count Unique Characters of All Substrings of a Given String,Hash Table[DELIM]String[DELIM]Dynamic Programming,Hard,335
+49,"Group Anagrams[DELIM]_49"" href=""/problems/group-anagrams?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Hash Table[DELIM]String[DELIM]Sorting,Medium,336
+8,String to Integer (atoi),String,Medium,337
+101,"Symmetric Tree[DELIM]_101"" href=""/problems/symmetric-tree?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Tree,Easy,338
+373,Find K Pairs with Smallest Sums,Array[DELIM]Heap (Priority Queue),Medium,339
+15,"3Sum[DELIM]_15"" href=""https://labuladong.github.io/article/?qno=15"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers[DELIM]Sorting,Medium,340
+403,Frog Jump,Array[DELIM]Dynamic Programming,Hard,341
+1094,"Car Pooling[DELIM]_1094"" href=""https://labuladong.github.io/article/?qno=1094"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Simulation[DELIM]Prefix Sum,Medium,342
+498,Diagonal Traverse,Array[DELIM]Matrix[DELIM]Simulation,Medium,343
+1014,Best Sightseeing Pair,Array[DELIM]Dynamic Programming,Medium,344
+2,"Add Two Numbers[DELIM]_2"" href=""/problems/add-two-numbers?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Math[DELIM]Recursion,Medium,345
+46,"Permutations[DELIM]_46"" href=""https://labuladong.github.io/article/?qno=46"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Backtracking,Medium,346
+450,"Delete Node in a BST[DELIM]_450"" href=""https://labuladong.github.io/article/?qno=450"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Binary Search Tree[DELIM]Binary Tree,Medium,347
+173,"Binary Search Tree Iterator[DELIM]_173"" href=""/problems/binary-search-tree-iterator?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Stack[DELIM]Tree[DELIM]Design[DELIM]Binary Search Tree[DELIM]Binary Tree[DELIM]Iterator,Medium,348
+678,Valid Parenthesis String,String[DELIM]Dynamic Programming[DELIM]Stack[DELIM]Greedy,Medium,349
+236,"Lowest Common Ancestor of a Binary Tree[DELIM]_236"" href=""https://labuladong.github.io/article/?qno=236"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,350
+295,"Find Median from Data Stream[DELIM]_295"" href=""https://labuladong.github.io/article/?qno=295"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Two Pointers[DELIM]Design[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Data Stream,Hard,351
+169,Majority Element,Array[DELIM]Hash Table[DELIM]Divide and Conquer[DELIM]Sorting[DELIM]Counting,Easy,352
+474,Ones and Zeroes,Array[DELIM]String[DELIM]Dynamic Programming,Medium,353
+621,Task Scheduler,Array[DELIM]Hash Table[DELIM]Greedy[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Counting,Medium,354
+139,"Word Break[DELIM]_139"" href=""https://labuladong.github.io/article/?qno=139"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]String[DELIM]Dynamic Programming[DELIM]Trie[DELIM]Memoization,Medium,355
+17,"Letter Combinations of a Phone Number[DELIM]_17"" href=""/problems/letter-combinations-of-a-phone-number?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]String[DELIM]Backtracking,Medium,356
+187,"Repeated DNA Sequences[DELIM]_187"" href=""https://labuladong.github.io/article/?qno=187"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]String[DELIM]Bit Manipulation[DELIM]Sliding Window[DELIM]Rolling Hash[DELIM]Hash Function,Medium,357
+430,Flatten a Multilevel Doubly Linked List,Linked List[DELIM]Depth-First Search[DELIM]Doubly-Linked List,Medium,358
+1010,Pairs of Songs With Total Durations Divisible by 60,Array[DELIM]Hash Table[DELIM]Counting,Medium,359
+1302,"Deepest Leaves Sum[DELIM]_1302"" href=""/problems/deepest-leaves-sum?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Tree,Medium,360
+92,"Reverse Linked List II[DELIM]_92"" href=""https://labuladong.github.io/article/?qno=92"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List,Medium,361
+844,Backspace String Compare,Two Pointers[DELIM]String[DELIM]Stack[DELIM]Simulation,Easy,362
+20,"Valid Parentheses[DELIM]_20"" href=""https://labuladong.github.io/article/?qno=20"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Stack,Easy,363
+647,Palindromic Substrings,String[DELIM]Dynamic Programming,Medium,364
+1539,Kth Missing Positive Number,Array[DELIM]Binary Search,Easy,365
+113,"Path Sum II[DELIM]_113"" href=""/problems/path-sum-ii?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Backtracking[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Medium,366
+44,"Wildcard Matching[DELIM]_44"" href=""/problems/wildcard-matching?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Dynamic Programming[DELIM]Greedy[DELIM]Recursion,Hard,367
+205,Isomorphic Strings,Hash Table[DELIM]String,Easy,368
+16,"3Sum Closest[DELIM]_16"" href=""/problems/3sum-closest?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers[DELIM]Sorting,Medium,369
+463,Island Perimeter,Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Matrix,Easy,370
+986,"Interval List Intersections[DELIM]_986"" href=""https://labuladong.github.io/article/?qno=986"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers,Medium,371
+402,"Remove K Digits[DELIM]_402"" href=""/problems/remove-k-digits?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Stack[DELIM]Greedy[DELIM]Monotonic Stack,Medium,372
+7,Reverse Integer,Math,Medium,373
+1235,Maximum Profit in Job Scheduling,Array[DELIM]Binary Search[DELIM]Dynamic Programming[DELIM]Sorting,Hard,374
+51,"N-Queens[DELIM]_51"" href=""https://labuladong.github.io/article/?qno=51"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Backtracking,Hard,375
+2089,Find Target Indices After Sorting Array,Array[DELIM]Binary Search[DELIM]Sorting,Easy,376
+30,Substring with Concatenation of All Words,Hash Table[DELIM]String[DELIM]Sliding Window,Hard,377
+76,"Minimum Window Substring[DELIM]_76"" href=""https://labuladong.github.io/article/?qno=76"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]String[DELIM]Sliding Window,Hard,378
+50,"Pow(x, n)",Math[DELIM]Recursion,Medium,379
+63,"Unique Paths II[DELIM]_63"" href=""/problems/unique-paths-ii?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming[DELIM]Matrix,Medium,380
+252,Meeting Rooms,Array[DELIM]Sorting,Easy,381
+323,"Number of Connected Components in an Undirected Graph[DELIM]_323"" href=""https://labuladong.github.io/article/?qno=323"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Graph,Medium,382
+977,"Squares of a Sorted Array[DELIM]_977"" href=""/problems/squares-of-a-sorted-array?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers[DELIM]Sorting,Easy,383
+1929,Concatenation of Array,Array,Easy,384
+1143,"Longest Common Subsequence[DELIM]_1143"" href=""https://labuladong.github.io/article/?qno=1143"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Dynamic Programming,Medium,385
+131,Palindrome Partitioning,String[DELIM]Dynamic Programming[DELIM]Backtracking,Medium,386
+151,Reverse Words in a String,Two Pointers[DELIM]String,Medium,387
+122,"Best Time to Buy and Sell Stock II[DELIM]_122"" href=""https://labuladong.github.io/article/?qno=122"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming[DELIM]Greedy,Medium,388
+198,"House Robber[DELIM]_198"" href=""https://labuladong.github.io/article/?qno=198"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming,Medium,389
+140,"Word Break II[DELIM]_140"" href=""https://labuladong.github.io/article/?qno=140"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]String[DELIM]Dynamic Programming[DELIM]Backtracking[DELIM]Trie[DELIM]Memoization,Hard,390
+767,Reorganize String,Hash Table[DELIM]String[DELIM]Greedy[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Counting,Medium,391
+127,Word Ladder,Hash Table[DELIM]String[DELIM]Breadth-First Search,Hard,392
+334,Increasing Triplet Subsequence,Array[DELIM]Greedy,Medium,393
+763,Partition Labels,Hash Table[DELIM]Two Pointers[DELIM]String[DELIM]Greedy,Medium,394
+392,"Is Subsequence[DELIM]_392"" href=""https://labuladong.github.io/article/?qno=392"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Two Pointers[DELIM]String[DELIM]Dynamic Programming,Easy,395
+931,"Minimum Falling Path Sum[DELIM]_931"" href=""https://labuladong.github.io/article/?qno=931"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming[DELIM]Matrix,Medium,396
+138,Copy List with Random Pointer,Hash Table[DELIM]Linked List,Medium,397
+706,Design HashMap,Array[DELIM]Hash Table[DELIM]Linked List[DELIM]Design[DELIM]Hash Function,Easy,398
+589,"N-ary Tree Preorder Traversal[DELIM]_589"" href=""/problems/n-ary-tree-preorder-traversal?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Stack[DELIM]Tree[DELIM]Depth-First Search,Easy,399
+1047,Remove All Adjacent Duplicates In String,String[DELIM]Stack,Easy,400
+171,Excel Sheet Column Number,Math[DELIM]String,Easy,401
+1528,Shuffle String,Array[DELIM]String,Easy,402
+217,Contains Duplicate,Array[DELIM]Hash Table[DELIM]Sorting,Easy,403
+1249,Minimum Remove to Make Valid Parentheses,String[DELIM]Stack,Medium,404
+377,Combination Sum IV,Array[DELIM]Dynamic Programming,Medium,405
+973,K Closest Points to Origin,Array[DELIM]Math[DELIM]Divide and Conquer[DELIM]Geometry[DELIM]Sorting[DELIM]Heap (Priority Queue)[DELIM]Quickselect,Medium,406
+540,Single Element in a Sorted Array,Array[DELIM]Binary Search,Medium,407
+543,"Diameter of Binary Tree[DELIM]_543"" href=""https://labuladong.github.io/article/?qno=543"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Easy,408
+12,Integer to Roman,Hash Table[DELIM]Math[DELIM]String,Medium,409
+18,"4Sum[DELIM]_18"" href=""https://labuladong.github.io/article/?qno=18"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers[DELIM]Sorting,Medium,410
+493,"Reverse Pairs[DELIM]_493"" href=""https://labuladong.github.io/article/?qno=493"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search[DELIM]Divide and Conquer[DELIM]Binary Indexed Tree[DELIM]Segment Tree[DELIM]Merge Sort[DELIM]Ordered Set,Hard,411
+586,Customer Placing the Largest Number of Orders,Database,Easy,412
+1971,Find if Path Exists in Graph,Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph,Easy,413
+35,"Search Insert Position[DELIM]_35"" href=""/problems/search-insert-position?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search,Easy,414
+367,Valid Perfect Square,Math[DELIM]Binary Search,Easy,415
+189,Rotate Array,Array[DELIM]Math[DELIM]Two Pointers,Medium,416
+1365,How Many Numbers Are Smaller Than the Current Number,Array[DELIM]Hash Table[DELIM]Sorting[DELIM]Counting,Easy,417
+203,Remove Linked List Elements,Linked List[DELIM]Recursion,Easy,418
+279,Perfect Squares,Math[DELIM]Dynamic Programming[DELIM]Breadth-First Search,Medium,419
+322,"Coin Change[DELIM]_322"" href=""https://labuladong.github.io/article/?qno=322"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming[DELIM]Breadth-First Search,Medium,420
+740,Delete and Earn,Array[DELIM]Hash Table[DELIM]Dynamic Programming,Medium,421
+841,Keys and Rooms,Depth-First Search[DELIM]Breadth-First Search[DELIM]Graph,Medium,422
+257,"Binary Tree Paths[DELIM]_257"" href=""/problems/binary-tree-paths?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Backtracking[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Easy,423
+785,"Is Graph Bipartite?[DELIM]_785"" href=""https://labuladong.github.io/article/?qno=785"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Depth-First Search[DELIM]Breadth-First Search[DELIM]Union Find[DELIM]Graph,Medium,424
+66,Plus One,Array[DELIM]Math,Easy,425
+412,Fizz Buzz,Math[DELIM]String[DELIM]Simulation,Easy,426
+77,"Combinations[DELIM]_77"" href=""https://labuladong.github.io/article/?qno=77"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Backtracking,Medium,427
+134,"Gas Station[DELIM]_134"" href=""https://labuladong.github.io/article/?qno=134"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Greedy,Medium,428
+518,"Coin Change 2[DELIM]_518"" href=""https://labuladong.github.io/article/?qno=518"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming,Medium,429
+32,"Longest Valid Parentheses[DELIM]_32"" href=""/problems/longest-valid-parentheses?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Dynamic Programming[DELIM]Stack,Hard,430
+22,"Generate Parentheses[DELIM]_22"" href=""https://labuladong.github.io/article/?qno=22"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Dynamic Programming[DELIM]Backtracking,Medium,431
+144,"Binary Tree Preorder Traversal[DELIM]_144"" href=""https://labuladong.github.io/article/?qno=144"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Stack[DELIM]Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Easy,432
+1920,Build Array from Permutation,Array[DELIM]Simulation,Easy,433
+733,"Flood Fill[DELIM]_733"" href=""https://labuladong.github.io/article/?qno=733"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Matrix,Easy,434
+78,"Subsets[DELIM]_78"" href=""https://labuladong.github.io/article/?qno=78"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Backtracking[DELIM]Bit Manipulation,Medium,435
+33,"Search in Rotated Sorted Array[DELIM]_33"" href=""/problems/search-in-rotated-sorted-array?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search,Medium,436
+19,"Remove Nth Node From End of List[DELIM]_19"" href=""https://labuladong.github.io/article/?qno=19"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Two Pointers,Medium,437
+11,"Container With Most Water[DELIM]_11"" href=""https://labuladong.github.io/article/?qno=11"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers[DELIM]Greedy,Medium,438
+110,"Balanced Binary Tree[DELIM]_110"" href=""/problems/balanced-binary-tree?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Tree,Easy,439
+152,Maximum Product Subarray,Array[DELIM]Dynamic Programming,Medium,440
+167,"Two Sum II - Input Array Is Sorted[DELIM]_167"" href=""https://labuladong.github.io/article/?qno=167"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers[DELIM]Binary Search,Medium,441
+28,"Implement strStr()[DELIM]_28"" href=""https://labuladong.github.io/article/?qno=28"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Two Pointers[DELIM]String[DELIM]String Matching,Easy,442
+175,Combine Two Tables,Database,Easy,443
+136,"Single Number[DELIM]_136"" href=""https://labuladong.github.io/article/?qno=136"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Bit Manipulation,Easy,444
+338,Counting Bits,Dynamic Programming[DELIM]Bit Manipulation,Easy,445
+25,"Reverse Nodes in k-Group[DELIM]_25"" href=""https://labuladong.github.io/article/?qno=25"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Recursion,Hard,446
+61,Rotate List,Linked List[DELIM]Two Pointers,Medium,447
+231,"Power of Two[DELIM]_231"" href=""https://labuladong.github.io/article/?qno=231"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Math[DELIM]Bit Manipulation[DELIM]Recursion,Easy,448
+994,Rotting Oranges,Array[DELIM]Breadth-First Search[DELIM]Matrix,Medium,449
+103,"Binary Tree Zigzag Level Order Traversal[DELIM]_103"" href=""/problems/binary-tree-zigzag-level-order-traversal?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Breadth-First Search[DELIM]Binary Tree,Medium,450
+226,"Invert Binary Tree[DELIM]_226"" href=""https://labuladong.github.io/article/?qno=226"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Tree,Easy,451
+234,"Palindrome Linked List[DELIM]_234"" href=""https://labuladong.github.io/article/?qno=234"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Two Pointers[DELIM]Stack[DELIM]Recursion,Easy,452
+438,"Find All Anagrams in a String[DELIM]_438"" href=""https://labuladong.github.io/article/?qno=438"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]String[DELIM]Sliding Window,Medium,453
+572,"Subtree of Another Tree[DELIM]_572"" href=""/problems/subtree-of-another-tree?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]String Matching[DELIM]Binary Tree[DELIM]Hash Function,Easy,454
+206,"Reverse Linked List[DELIM]_206"" href=""https://labuladong.github.io/article/?qno=206"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Recursion,Easy,455
+104,"Maximum Depth of Binary Tree[DELIM]_104"" href=""https://labuladong.github.io/article/?qno=104"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Tree,Easy,456
+724,"Find Pivot Index[DELIM]_724"" href=""/problems/find-pivot-index?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Prefix Sum,Easy,457
+36,Valid Sudoku,Array[DELIM]Hash Table[DELIM]Matrix,Medium,458
+383,Ransom Note,Hash Table[DELIM]String[DELIM]Counting,Easy,459
+595,Big Countries,Database,Easy,460
+746,Min Cost Climbing Stairs,Array[DELIM]Dynamic Programming,Easy,461
+69,Sqrt(x),Math[DELIM]Binary Search,Easy,462
+55,"Jump Game[DELIM]_55"" href=""https://labuladong.github.io/article/?qno=55"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Dynamic Programming[DELIM]Greedy,Medium,463
+704,"Binary Search[DELIM]_704"" href=""https://labuladong.github.io/article/?qno=704"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Binary Search,Easy,464
+39,"Combination Sum[DELIM]_39"" href=""https://labuladong.github.io/article/?qno=39"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Backtracking,Medium,465
+70,"Climbing Stairs[DELIM]_70"" href=""/problems/climbing-stairs?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Math[DELIM]Dynamic Programming[DELIM]Memoization,Easy,466
+235,"Lowest Common Ancestor of a Binary Search Tree[DELIM]_235"" href=""https://labuladong.github.io/article/?qno=235"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Binary Search Tree[DELIM]Binary Tree,Easy,467
+100,"Same Tree[DELIM]_100"" href=""/problems/same-tree?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Depth-First Search[DELIM]Breadth-First Search[DELIM]Binary Tree,Easy,468
+27,"Remove Element[DELIM]_27"" href=""https://labuladong.github.io/article/?qno=27"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers,Easy,469
+238,"Product of Array Except Self[DELIM]_238"" href=""/problems/product-of-array-except-self?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Prefix Sum,Medium,470
+283,"Move Zeroes[DELIM]_283"" href=""https://labuladong.github.io/article/?qno=283"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers,Easy,471
+141,"Linked List Cycle[DELIM]_141"" href=""https://labuladong.github.io/article/?qno=141"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Hash Table[DELIM]Linked List[DELIM]Two Pointers,Easy,472
+102,"Binary Tree Level Order Traversal[DELIM]_102"" href=""/problems/binary-tree-level-order-traversal?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Tree[DELIM]Breadth-First Search[DELIM]Binary Tree,Medium,473
+125,Valid Palindrome,Two Pointers[DELIM]String,Easy,474
+876,"Middle of the Linked List[DELIM]_876"" href=""https://labuladong.github.io/article/?qno=876"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Two Pointers,Easy,475
+26,"Remove Duplicates from Sorted Array[DELIM]_26"" href=""https://labuladong.github.io/article/?qno=26"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Array[DELIM]Two Pointers,Easy,476
+242,Valid Anagram,Hash Table[DELIM]String[DELIM]Sorting,Easy,477
+21,"Merge Two Sorted Lists[DELIM]_21"" href=""https://labuladong.github.io/article/?qno=21"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Linked List[DELIM]Recursion,Easy,478
+509,"Fibonacci Number[DELIM]_509"" href=""https://labuladong.github.io/article/?qno=509"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",Math[DELIM]Dynamic Programming[DELIM]Recursion[DELIM]Memoization,Easy,479
+97,"Interleaving String[DELIM]_97"" href=""/problems/interleaving-string?show=1"" target=""_blank"" class=""button-4"" style=""font-weight: bold; float: right;",String[DELIM]Dynamic Programming,Medium,480

@@ -27,26 +27,33 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     // 导航配置
     nav: [
       { text: '首页', link: '/' },
-      {
-        text: 'leetcode',
-        link: '/leetcode/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
-      },
-      {
-        text: '脸家',
-        link: '/ls/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
-      },
-      {
-        text: '机器学习',
-        link: '/ml/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
-      },
-      {
-        text: '系统设计',
-        link: '/design/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
-      },
-      {
-        text: '标准差',
-        link: '/twosigma/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
-      },
+      { text: 'Google', link:'/google/'},
+
+      { text: 'Companies',
+        items: [
+          {
+            text: '脸家',
+            link: '/ls/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
+          },
+          {
+            text: '机器学习',
+            link: '/ml/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
+          },
+          {
+            text: '系统设计',
+            link: '/design/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
+          },
+          {
+            text: '标准差',
+            link: '/twosigma/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
+          },
+          {
+            text: '其它',
+            link: '/leetcode/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
+          },
+        ]
+    },
+
       {
         text: '索引',
         link: '/archives/',
