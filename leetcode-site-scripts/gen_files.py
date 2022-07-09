@@ -16,7 +16,8 @@ for i in df.index:
     id = df.at[i, 'number']
     id_filename_map[id] = file_name 
     
-# print(id_filename_map)
+print(id_filename_map)
+
 
     # f = open(f"/Users/wwang33/Documents/vuepress/Google - 03.Incomplete/{file_name}", "w")
     # f.write(f"tags: [{tags_name}]")
@@ -24,20 +25,28 @@ for i in df.index:
 
 
 import os, sys
+import shutil
 
 # Open a file
-path = '/Users/wwang33/Documents/vuepress/blog-base/docs/02.LS/02.LS - completed'
+path = '/Users/wwang33/Documents/vuepress/blog-base/docs/06.Google/02.Completed'
 dirs = os.listdir( path )
 
 # This would print all the files and directories
 cnt = 0
 for file in dirs:
-   if file.endswith("md"):
-        ls_id = file.split(".")[1].split("-")[0].strip()
-        if id in id_filename_map:
+    print(file)
+    if file.endswith("md"):
+        ls_id = int(file.split(".")[1].split("-")[0].strip())
+        print(ls_id)
+        if ls_id in id_filename_map:
             cnt += 1
             print(ls_id)
-            os.rename(f"{path}/{file}", f"/Users/wwang33/Documents/vuepress/Google - 03.Incomplete/{id_filename_map[id]}")
+            print(id_filename_map[ls_id])
+            try:
+                os.remove(f"/Users/wwang33/Documents/vuepress/Google - 03.Incomplete/{id_filename_map[ls_id]}")
+            except:
+                continue
+            # break
 
 print(cnt)
 
