@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/030.778 - Swim in Rising Water - Hard.md",
+            "file": "06.Google/02.Completed/159.200 - Number of Islands - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "脸家",
+                "query": "岛屿问题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/030.778 - Swim in Rising Water - Hard.md",
+                "file": "06.Google/02.Completed/159.200 - Number of Islands - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b8010c343e62502e",
   "lastOpenFiles": [
+    "06.Google/02.Completed/159.200 - Number of Islands - Medium.md",
     "06.Google/02.Completed/030.778 - Swim in Rising Water - Hard.md",
+    "06.Google/02.Completed/039.419 - Battleships in a Board - Medium.md",
+    "02.LS/02.LS - completed/173.463-Island Perimeter (Easy).md",
+    "02.LS/02.LS - completed/146.694-Number of Distinct Islands (Medium).md",
+    "02.LS/02.LS - completed/101.695-Max Area of Island (Medium).md",
+    "02.LS/02.LS - completed/10.827-Making A Large Island (Hard).md",
+    "06.Google/02.Completed/028.329 - Longest Increasing Path in a Matrix - Hard.md",
     "06.Google/02.Completed/001.1293 - Shortest Path in a Grid with Obstacles Elimination - Hard.md",
-    "index.md",
-    "03.机器学习八股文/05.PyTorch 101/100.PyTorch - Text Classification Using TorchText.md",
-    "().md",
-    "06.Google/00.Resources.md",
-    "03.机器学习八股文/05.PyTorch 101/1000.PyTorch - APIs.md",
-    "03.机器学习八股文/04.FudanNLP/01.Task 2 - CNN and RNN on Sentiment Analysis.md",
-    "03.机器学习八股文/04.FudanNLP/00.Task 1 - Sentiment Analysis.md",
-    "03.机器学习八股文/05.PyTorch 101/03.PyTorch - DataLoader.md"
+    "index.md"
   ]
 }
