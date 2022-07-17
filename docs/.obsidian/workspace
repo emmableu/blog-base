@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/008.2034 - Stock Price Fluctuation - Medium.md",
+            "file": "06.Google/02.Completed/009.539 - Minimum Time Difference - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/008.2034 - Stock Price Fluctuation - Medium.md",
+                "file": "06.Google/02.Completed/009.539 - Minimum Time Difference - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "b8010c343e62502e",
   "lastOpenFiles": [
+    "06.Google/02.Completed/009.539 - Minimum Time Difference - Medium.md",
+    "06.Google/02.Completed/010.150 - Evaluate Reverse Polish Notation - Medium.md",
     "06.Google/02.Completed/008.2034 - Stock Price Fluctuation - Medium.md",
     "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
     "06.Google/02.Completed/007.2115 - Find All Possible Recipes from Given Supplies - Medium.md",
@@ -96,8 +98,6 @@
     "06.Google/02.Completed/002.818 - Race Car - Hard.md",
     "06.Google/02.Completed/003.2096 - Step-By-Step Directions From a Binary Tree Node to Another - Medium.md",
     "06.Google/02.Completed/004.366 - Find Leaves of Binary Tree - Medium.md",
-    "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md",
-    "06.Google/01.基本模版/05.DFS.md",
-    "Untitled.md"
+    "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md"
   ]
 }
