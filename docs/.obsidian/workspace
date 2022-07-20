@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/023.715 - Range Module - Hard.md",
+                "file": "06.Google/01.基本模版/12.Segment Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b8010c343e62502e",
+  "active": "4c2aaadcec75d634",
   "lastOpenFiles": [
-    "06.Google/02.Completed/023.715 - Range Module - Hard.md",
     "06.Google/01.基本模版/12.Segment Tree.md",
+    "06.Google/02.Completed/023.715 - Range Module - Hard.md",
     "06.Google/02.Completed/027.1554 - Strings Differ by One Character - Medium.md",
     "06.Google/02.Completed/028.329 - Longest Increasing Path in a Matrix - Hard.md",
     "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
