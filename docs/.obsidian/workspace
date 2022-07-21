@@ -6,22 +6,26 @@
       {
         "id": "b8010c343e62502e",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "06.Google/02.Completed/023.715 - Range Module - Hard.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4c2aaadcec75d634",
-        "type": "leaf",
+        "dimension": 32.45,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "06.Google/01.基本模版/12.Segment Tree.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "13db8b7f7278c040",
+        "type": "leaf",
+        "dimension": 67.55,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02.LS/02.LS - completed/149.732-My Calendar III (Hard).md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "岛屿问题",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 207
   },
   "right": {
     "id": "22c68facfa6d562e",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/01.基本模版/12.Segment Tree.md",
+                "file": "02.LS/02.LS - completed/149.732-My Calendar III (Hard).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c2aaadcec75d634",
+  "active": "13db8b7f7278c040",
   "lastOpenFiles": [
     "06.Google/01.基本模版/12.Segment Tree.md",
+    "02.LS/02.LS - completed/149.732-My Calendar III (Hard).md",
+    "Excalidraw/Drawing 2022-07-20 23.33.13.excalidraw.md",
     "06.Google/02.Completed/023.715 - Range Module - Hard.md",
+    "06.Google/02.Completed/045.729 - My Calendar I - Medium.md",
     "06.Google/02.Completed/027.1554 - Strings Differ by One Character - Medium.md",
     "06.Google/02.Completed/028.329 - Longest Increasing Path in a Matrix - Hard.md",
     "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
     "06.Google/02.Completed/008.2034 - Stock Price Fluctuation - Medium.md",
-    "06.Google/02.Completed/058.253 - Meeting Rooms II - Medium.md",
-    "06.Google/02.Completed/235.1854 - Maximum Population Year - Easy.md",
-    "06.Google/02.Completed/007.2115 - Find All Possible Recipes from Given Supplies - Medium.md",
-    "06.Google/01.基本模版/11.Topological Sort.md"
+    "06.Google/02.Completed/058.253 - Meeting Rooms II - Medium.md"
   ]
 }
