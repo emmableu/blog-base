@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b8010c343e62502e",
-        "type": "leaf",
-        "dimension": 36.21810905452726,
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "06.Google/01.基本模版/12.Segment Tree.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "13db8b7f7278c040",
         "type": "leaf",
-        "dimension": 63.78189094547274,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/015.2178 - Maximum Split of Positive Even Integers - Medium.md",
+            "file": "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/015.2178 - Maximum Split of Positive Even Integers - Medium.md",
+                "file": "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +89,15 @@
   },
   "active": "13db8b7f7278c040",
   "lastOpenFiles": [
-    "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md",
-    "06.Google/02.Completed/015.2178 - Maximum Split of Positive Even Integers - Medium.md",
-    "06.Google/02.Completed/016.843 - Guess the Word - Hard.md",
     "06.Google/02.Completed/011.1937 - Maximum Number of Points with Cost - Medium.md",
-    "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md",
-    "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
-    "06.Google/01.基本模版/12.Segment Tree.md",
-    "06.Google/02.Completed/010.150 - Evaluate Reverse Polish Notation - Medium.md",
+    "06.Google/02.Completed/015.2178 - Maximum Split of Positive Even Integers - Medium.md",
+    "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md",
+    "06.Google/02.Completed/012.1048 - Longest String Chain - Medium.md",
+    "06.Google/02.Completed/013.359 - Logger Rate Limiter - Easy.md",
     "06.Google/02.Completed/009.539 - Minimum Time Difference - Medium.md",
-    "06.Google/02.Completed/023.715 - Range Module - Hard.md"
+    "06.Google/02.Completed/008.2034 - Stock Price Fluctuation - Medium.md",
+    "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
+    "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md",
+    "06.Google/02.Completed/007.2115 - Find All Possible Recipes from Given Supplies - Medium.md"
   ]
 }
