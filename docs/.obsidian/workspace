@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b940a13eb35cf525",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "6822ad7ac2af33e4",
         "type": "leaf",
         "state": {
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
+                "file": "06.Google/02.Completed/479.509 - Fibonacci Number - Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +96,10 @@
     "width": 190,
     "collapsed": true
   },
-  "active": "b940a13eb35cf525",
+  "active": "6822ad7ac2af33e4",
   "lastOpenFiles": [
-    "06.Google/02.Completed/479.509 - Fibonacci Number - Easy.md",
     "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
+    "06.Google/02.Completed/479.509 - Fibonacci Number - Easy.md",
     "06.Google/02.Completed/346.46 - Permutations - Medium.md",
     "06.Google/03.Incomplete/025.552 - Student Attendance Record II - Hard.md",
     "06.Google/02.Completed/435.78 - Subsets - Medium.md",
