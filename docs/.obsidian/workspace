@@ -6,6 +6,7 @@
       {
         "id": "6822ad7ac2af33e4",
         "type": "leaf",
+        "dimension": 26.97160883280757,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -20,10 +21,11 @@
       {
         "id": "695eac03fb27d973",
         "type": "leaf",
+        "dimension": 73.02839116719242,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/420.322 - Coin Change - Medium.md",
+            "file": "06.Google/03.Incomplete/025.552 - Student Attendance Record II - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/420.322 - Coin Change - Medium.md",
+                "file": "06.Google/03.Incomplete/025.552 - Student Attendance Record II - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +114,15 @@
   },
   "active": "695eac03fb27d973",
   "lastOpenFiles": [
+    "[.md",
+    "06.Google/03.Incomplete/025.552 - Student Attendance Record II - Hard.md",
+    "01.leetcode/02.leetcode problems/04.04-Median of Two Sorted Arrays (Hard).md",
+    "06.Google/02.Completed/316.787 - Cheapest Flights Within K Stops - Medium.md",
+    "06.Google/02.Completed/252.64 - Minimum Path Sum - Medium.md",
+    "06.Google/01.基本模版/11.拓扑排序 - Topological Sort - 模版.md",
+    "06.Google/01.基本模版/12.线段树 - Segment Tree - 模版.md",
     "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
     "06.Google/02.Completed/420.322 - Coin Change - Medium.md",
-    "06.Google/02.Completed/479.509 - Fibonacci Number - Easy.md",
-    "06.Google/02.Completed/346.46 - Permutations - Medium.md",
-    "06.Google/03.Incomplete/025.552 - Student Attendance Record II - Hard.md",
-    "06.Google/02.Completed/435.78 - Subsets - Medium.md",
-    "06.Google/01.基本模版/06.DFS - Backtracking 模版.md",
-    "06.Google/01.基本模版/14.背包问题.md",
-    "06.Google/01.基本模版/13.位运算 bit manupulation API.md",
-    "06.Google/01.基本模版/12.Segment Tree.md"
+    "06.Google/02.Completed/479.509 - Fibonacci Number - Easy.md"
   ]
 }
