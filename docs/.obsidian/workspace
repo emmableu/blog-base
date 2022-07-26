@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/012.1048 - Longest String Chain - Medium.md",
+            "file": "06.Google/03.Incomplete/025.552 - Student Attendance Record II - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/012.1048 - Longest String Chain - Medium.md",
+                "file": "06.Google/03.Incomplete/025.552 - Student Attendance Record II - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 190,
     "collapsed": true
   },
-  "active": "1f2df8a3887a3e5c",
+  "active": "59c9faeaefb31533",
   "lastOpenFiles": [
-    "06.Google/03.Incomplete/025.552 - Student Attendance Record II - Hard.md",
+    "06.Google/02.Completed/028.329 - Longest Increasing Path in a Matrix - Hard.md",
+    "06.Google/02.Completed/024.777 - Swap Adjacent in LR String - Medium.md",
+    "06.Google/02.Completed/023.715 - Range Module - Hard.md",
+    "06.Google/02.Completed/022.68 - Text Justification - Hard.md",
     "06.Google/02.Completed/021.2135 - Count Words Obtained After Adding a Letter - Medium.md",
-    "06.Google/02.Completed/027.1554 - Strings Differ by One Character - Medium.md",
-    "06.Google/02.Completed/029.1423 - Maximum Points You Can Obtain from Cards - Medium.md",
-    "06.Google/02.Completed/012.1048 - Longest String Chain - Medium.md",
-    "06.Google/02.Completed/152.300-Longest Increasing Subsequence - Medium.md",
-    "06.Google/03.Incomplete/016.843 - Guess the Word - Hard.md",
-    "06.Google/03.Incomplete/018.1610 - Maximum Number of Visible Points - Hard.md",
-    "06.Google/03.Incomplete/026.489 - Robot Room Cleaner - Hard.md",
-    "06.Google/02.Completed/470.238 - Product of Array Except Self - Medium.md"
+    "06.Google/02.Completed/020.528 - Random Pick with Weight - Medium.md",
+    "06.Google/02.Completed/019.833 - Find And Replace in String - Medium.md",
+    "06.Google/02.Completed/017.1146 - Snapshot Array - Medium.md",
+    "06.Google/02.Completed/015.2178 - Maximum Split of Positive Even Integers - Medium.md",
+    "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md"
   ]
 }
