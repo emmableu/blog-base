@@ -4,22 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b8010c343e62502e",
+        "id": "6822ad7ac2af33e4",
         "type": "leaf",
+        "dimension": 26.819407008086255,
         "pinned": true,
         "state": {
-          "type": "empty",
-          "state": {},
+          "type": "markdown",
+          "state": {
+            "file": "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
+            "mode": "source",
+            "source": false
+          },
           "pinned": true
         }
       },
       {
-        "id": "a588814af068464d",
+        "id": "6080598b066cb1d8",
         "type": "leaf",
+        "dimension": 73.18059299191376,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md",
+            "file": "06.Google/03.Incomplete/011.1937 - Maximum Number of Points with Cost - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -50,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "岛屿问题",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 207
   },
   "right": {
     "id": "22c68facfa6d562e",
@@ -79,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md",
+                "file": "06.Google/03.Incomplete/011.1937 - Maximum Number of Points with Cost - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,25 +95,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ce42625f2d9bda16",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 190,
     "collapsed": true
   },
-  "active": "a588814af068464d",
+  "active": "6080598b066cb1d8",
   "lastOpenFiles": [
-    "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md",
-    "06.Google/02.Completed/012.1048 - Longest String Chain - Medium.md",
-    "06.Google/02.Completed/010.150 - Evaluate Reverse Polish Notation - Medium.md",
-    "06.Google/02.Completed/009.539 - Minimum Time Difference - Medium.md",
-    "06.Google/02.Completed/008.2034 - Stock Price Fluctuation - Medium.md",
-    "06.Google/02.Completed/007.2115 - Find All Possible Recipes from Given Supplies - Medium.md",
-    "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
-    "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md",
-    "06.Google/02.Completed/003.2096 - Step-By-Step Directions From a Binary Tree Node to Another - Medium.md",
-    "06.Google/02.Completed/011.1937 - Maximum Number of Points with Cost - Medium.md"
+    "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
+    "06.Google/03.Incomplete/011.1937 - Maximum Number of Points with Cost - Medium.md",
+    "06.Google/03.Incomplete/018.1610 - Maximum Number of Visible Points - Hard.md",
+    "06.Google/01.基本模版/03.快速乘法-快速幂 fast multiplication or power.md",
+    "06.Google/02.Completed/025.552 - Student Attendance Record II - Hard.md",
+    "Excalidraw/Drawing 2022-07-27 00.18.00.excalidraw.md",
+    "06.Google/02.Completed/337.8 - String to Integer (atoi) - Medium.md",
+    "06.Google/02.Completed/164.393 - UTF-8 Validation - Medium.md",
+    "[.md",
+    "01.leetcode/02.leetcode problems/04.04-Median of Two Sorted Arrays (Hard).md"
   ]
 }
