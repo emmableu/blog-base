@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/011.1937 - Maximum Number of Points with Cost - Medium.md",
+            "file": "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/011.1937 - Maximum Number of Points with Cost - Medium.md",
+                "file": "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "a588814af068464d",
   "lastOpenFiles": [
+    "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
     "06.Google/02.Completed/011.1937 - Maximum Number of Points with Cost - Medium.md",
     "06.Google/02.Completed/008.2034 - Stock Price Fluctuation - Medium.md",
     "06.Google/02.Completed/007.2115 - Find All Possible Recipes from Given Supplies - Medium.md",
@@ -111,7 +112,6 @@
     "06.Google/02.Completed/045.729 - My Calendar I - Medium.md",
     "06.Google/02.Completed/020.528 - Random Pick with Weight - Medium.md",
     "06.Google/01.基本模版/12.Segment Tree.md",
-    "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md",
-    "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md"
+    "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md"
   ]
 }
