@@ -109,20 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 190,
-    "collapsed": true
+    "width": 190
   },
   "active": "695eac03fb27d973",
   "lastOpenFiles": [
-    "[.md",
+    "06.Google/02.Completed/337.8 - String to Integer (atoi) - Medium.md",
+    "06.Google/02.Completed/164.393 - UTF-8 Validation - Medium.md",
     "06.Google/03.Incomplete/025.552 - Student Attendance Record II - Hard.md",
+    "[.md",
     "01.leetcode/02.leetcode problems/04.04-Median of Two Sorted Arrays (Hard).md",
     "06.Google/02.Completed/316.787 - Cheapest Flights Within K Stops - Medium.md",
     "06.Google/02.Completed/252.64 - Minimum Path Sum - Medium.md",
     "06.Google/01.基本模版/11.拓扑排序 - Topological Sort - 模版.md",
     "06.Google/01.基本模版/12.线段树 - Segment Tree - 模版.md",
-    "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
-    "06.Google/02.Completed/420.322 - Coin Change - Medium.md",
-    "06.Google/02.Completed/479.509 - Fibonacci Number - Easy.md"
+    "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md"
   ]
 }
