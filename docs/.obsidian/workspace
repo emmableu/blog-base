@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b8010c343e62502e",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "empty",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "a588814af068464d",
+        "id": "6080598b066cb1d8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md",
+            "file": "06.Google/03.Incomplete/016.843 - Guess the Word - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -50,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "岛屿问题",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 207
   },
   "right": {
     "id": "22c68facfa6d562e",
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md",
+                "file": "06.Google/03.Incomplete/016.843 - Guess the Word - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,25 +79,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ce42625f2d9bda16",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 190
   },
-  "active": "a588814af068464d",
+  "active": "6080598b066cb1d8",
   "lastOpenFiles": [
-    "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md",
-    "06.Google/02.Completed/012.1048 - Longest String Chain - Medium.md",
-    "06.Google/02.Completed/010.150 - Evaluate Reverse Polish Notation - Medium.md",
-    "06.Google/02.Completed/009.539 - Minimum Time Difference - Medium.md",
-    "06.Google/02.Completed/008.2034 - Stock Price Fluctuation - Medium.md",
-    "06.Google/02.Completed/007.2115 - Find All Possible Recipes from Given Supplies - Medium.md",
-    "06.Google/02.Completed/006.2158 - Amount of New Area Painted Each Day - Hard.md",
-    "06.Google/02.Completed/005.2128 - Remove All Ones With Row and Column Flips - Medium.md",
-    "06.Google/02.Completed/003.2096 - Step-By-Step Directions From a Binary Tree Node to Another - Medium.md",
+    "06.Google/02.Completed/026.489 - Robot Room Cleaner - Hard.md",
+    "06.Google/02.Completed/435.78 - Subsets - Medium.md",
+    "01.leetcode/02.leetcode problems/1041.1041-Robot Bounced In Circle.md",
+    "06.Google/01.基本模版/10.岛屿问题 - 网格dfs.md",
+    "06.Google/01.基本模版/06.DFS - Backtracking 模版.md",
+    "06.Google/01.基本模版/05.DFS - Tree 模版.md",
+    "06.Google/03.Incomplete/018.1610 - Maximum Number of Visible Points - Hard.md",
+    "06.Google/03.Incomplete/016.843 - Guess the Word - Hard.md",
+    "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
     "06.Google/02.Completed/011.1937 - Maximum Number of Points with Cost - Medium.md"
   ]
 }
