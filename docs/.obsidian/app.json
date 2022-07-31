@@ -2,5 +2,6 @@
   "attachmentFolderPath": "assets",
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "strictLineBreaks": false
 }
