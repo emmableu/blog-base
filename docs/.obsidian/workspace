@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/018.1610 - Maximum Number of Visible Points - Hard.md",
+            "file": "06.Google/02.Completed/018.1610 - Maximum Number of Visible Points - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/018.1610 - Maximum Number of Visible Points - Hard.md",
+                "file": "06.Google/02.Completed/018.1610 - Maximum Number of Visible Points - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
     "direction": "horizontal",
     "width": 190
   },
-  "active": "6080598b066cb1d8",
+  "active": "1f2df8a3887a3e5c",
   "lastOpenFiles": [
     "06.Google/02.Completed/016.843 - Guess the Word - Hard.md",
     "06.Google/02.Completed/026.489 - Robot Room Cleaner - Hard.md",
@@ -104,7 +104,7 @@
     "06.Google/01.基本模版/10.岛屿问题 - 网格dfs.md",
     "06.Google/01.基本模版/06.DFS - Backtracking 模版.md",
     "06.Google/01.基本模版/05.DFS - Tree 模版.md",
-    "06.Google/03.Incomplete/018.1610 - Maximum Number of Visible Points - Hard.md",
+    "06.Google/02.Completed/018.1610 - Maximum Number of Visible Points - Hard.md",
     "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
     "06.Google/02.Completed/011.1937 - Maximum Number of Points with Cost - Medium.md"
   ]
