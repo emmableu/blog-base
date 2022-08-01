@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/032.2162 - Minimum Cost to Set Cooking Time - Medium.md",
+            "file": "06.Google/03.Incomplete/036.1996 - The Number of Weak Characters in the Game - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/032.2162 - Minimum Cost to Set Cooking Time - Medium.md",
+                "file": "06.Google/03.Incomplete/036.1996 - The Number of Weak Characters in the Game - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "direction": "horizontal",
     "width": 190
   },
-  "active": "1f2df8a3887a3e5c",
+  "active": "6080598b066cb1d8",
   "lastOpenFiles": [
-    "06.Google/02.Completed/031.939 - Minimum Area Rectangle - Medium.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
     "06.Google/03.Incomplete/036.1996 - The Number of Weak Characters in the Game - Medium.md",
     "06.Google/03.Incomplete/035.975 - Odd Even Jump - Hard.md",
     "06.Google/03.Incomplete/034.2018 - Check if Word Can Be Placed In Crossword - Medium.md",
+    "06.Google/01.基本模版/07.单调栈.md",
+    "06.Google/03.Incomplete/037.720 - Longest Word in Dictionary - Medium.md",
     "06.Google/03.Incomplete/033.1240 - Tiling a Rectangle with the Fewest Squares - Hard.md",
     "06.Google/02.Completed/032.2162 - Minimum Cost to Set Cooking Time - Medium.md",
-    "06.Google/02.Completed/039.419 - Battleships in a Board - Medium.md",
-    "06.Google/02.Completed/029.1423 - Maximum Points You Can Obtain from Cards - Medium.md",
-    "06.Google/02.Completed/022.68 - Text Justification - Hard.md"
+    "06.Google/02.Completed/031.939 - Minimum Area Rectangle - Medium.md",
+    "06.Google/02.Completed/039.419 - Battleships in a Board - Medium.md"
   ]
 }
