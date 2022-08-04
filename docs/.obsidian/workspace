@@ -6,7 +6,7 @@
       {
         "id": "6080598b066cb1d8",
         "type": "leaf",
-        "dimension": 25.4278728606357,
+        "dimension": 21.50234741784038,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,7 +21,7 @@
       {
         "id": "3fa826123f81a113",
         "type": "leaf",
-        "dimension": 74.57212713936431,
+        "dimension": 78.49765258215962,
         "state": {
           "type": "markdown",
           "state": {
@@ -114,13 +114,13 @@
   },
   "active": "3fa826123f81a113",
   "lastOpenFiles": [
+    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+    "06.Google/01.基本模版/16.字典树 Trie 模版.md",
     "06.Google/02.Completed/432.144 - Binary Tree Preorder Traversal - Easy.md",
     "01.leetcode/02.leetcode problems/94.94-Binary Tree Inorder Traversal.md",
-    "06.Google/01.基本模版/16.字典树 Trie 模版.md",
     "06.Google/02.Completed/034.2018 - Check if Word Can Be Placed In Crossword - Medium.md",
     "06.Google/03.Incomplete/037.720 - Longest Word in Dictionary - Medium.md",
     "06.Google/02.Completed/038.1376 - Time Needed to Inform All Employees - Medium.md",
-    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
     "06.Google/02.Completed/032.2162 - Minimum Cost to Set Cooking Time - Medium.md",
     "06.Google/02.Completed/036.1996 - The Number of Weak Characters in the Game - Medium.md",
     "06.Google/03.Incomplete/033.1240 - Tiling a Rectangle with the Fewest Squares - Hard.md"
