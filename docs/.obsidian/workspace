@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6080598b066cb1d8",
+        "id": "a588814af068464d",
         "type": "leaf",
-        "dimension": 23.18840579710145,
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "837dd380157e7c0a",
-        "type": "leaf",
-        "dimension": 76.81159420289855,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "06.Google/03.Incomplete/037.720 - Longest Word in Dictionary - Medium.md",
+            "file": "06.Google/03.Incomplete/040.1397 - Find All Good Strings - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "岛屿问题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 214
   },
   "right": {
     "id": "22c68facfa6d562e",
@@ -85,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/037.720 - Longest Word in Dictionary - Medium.md",
+                "file": "06.Google/03.Incomplete/040.1397 - Find All Good Strings - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,34 +79,25 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "ce42625f2d9bda16",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 190,
+    "width": 300,
     "collapsed": true
   },
-  "active": "837dd380157e7c0a",
+  "active": "a588814af068464d",
   "lastOpenFiles": [
-    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/03.Incomplete/037.720 - Longest Word in Dictionary - Medium.md",
-    "02.LS/06.非LC题/03.Check If A List of Length n Contains Unique Range(n) Values.md",
     "06.Google/01.基本模版/16.字典树 Trie 模版.md",
-    "06.Google/02.Completed/432.144 - Binary Tree Preorder Traversal - Easy.md",
-    "01.leetcode/02.leetcode problems/94.94-Binary Tree Inorder Traversal.md",
-    "06.Google/02.Completed/034.2018 - Check if Word Can Be Placed In Crossword - Medium.md",
-    "06.Google/02.Completed/038.1376 - Time Needed to Inform All Employees - Medium.md",
-    "06.Google/02.Completed/032.2162 - Minimum Cost to Set Cooking Time - Medium.md",
-    "06.Google/02.Completed/036.1996 - The Number of Weak Characters in the Game - Medium.md"
+    "06.Google/03.Incomplete/040.1397 - Find All Good Strings - Hard.md",
+    "06.Google/02.Completed/037.720 - Longest Word in Dictionary - Medium.md",
+    "06.Google/03.Incomplete/035.975 - Odd Even Jump - Hard.md",
+    "06.Google/03.Incomplete/033.1240 - Tiling a Rectangle with the Fewest Squares - Hard.md",
+    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+    "06.Google/03.Incomplete/036.1996 - The Number of Weak Characters in the Game - Medium.md",
+    "06.Google/02.Completed/014.2013 - Detect Squares - Medium.md",
+    "06.Google/02.Completed/012.1048 - Longest String Chain - Medium.md",
+    "06.Google/02.Completed/010.150 - Evaluate Reverse Polish Notation - Medium.md"
   ]
 }
