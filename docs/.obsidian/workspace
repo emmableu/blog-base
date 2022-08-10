@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/055.1820 - Maximum Number of Accepted Invitations - Medium.md",
+            "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/055.1820 - Maximum Number of Accepted Invitations - Medium.md",
+                "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a588814af068464d",
   "lastOpenFiles": [
+    "06.Google/02.Completed/220.954 - Array of Doubled Pairs - Medium.md",
+    "06.Google/03.Incomplete/050.2007 - Find Original Array From Doubled Array - Medium.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/03.Incomplete/055.1820 - Maximum Number of Accepted Invitations - Medium.md",
+    "06.Google/02.Completed/055.1820 - Maximum Number of Accepted Invitations - Medium.md",
     "06.Google/03.Incomplete/054.562 - Longest Line of Consecutive One in Matrix - Medium.md",
     "06.Google/03.Incomplete/052.1632 - Rank Transform of a Matrix - Hard.md",
     "06.Google/03.Incomplete/051.2242 - Maximum Score of a Node Sequence - Hard.md",
-    "06.Google/03.Incomplete/050.2007 - Find Original Array From Doubled Array - Medium.md",
     "06.Google/03.Incomplete/049.900 - RLE Iterator - Medium.md",
     "06.Google/03.Incomplete/048.1631 - Path With Minimum Effort - Medium.md",
-    "06.Google/03.Incomplete/046.1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md",
-    "06.Google/03.Incomplete/042.1055 - Shortest Way to Form String - Medium.md"
+    "06.Google/03.Incomplete/046.1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md"
   ]
 }
