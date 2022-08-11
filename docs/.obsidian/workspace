@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/048.1631 - Path With Minimum Effort - Medium.md",
+            "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/048.1631 - Path With Minimum Effort - Medium.md",
+                "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "a588814af068464d",
   "lastOpenFiles": [
-    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
     "06.Google/03.Incomplete/048.1631 - Path With Minimum Effort - Medium.md",
+    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
     "06.Google/02.Completed/030.778 - Swim in Rising Water - Hard.md",
     "06.Google/03.Incomplete/046.1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md",
     "06.Google/03.Incomplete/042.1055 - Shortest Way to Form String - Medium.md",
