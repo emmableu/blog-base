@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a588814af068464d",
+        "id": "6f35d5296a927538",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+            "file": "06.Google/03.Incomplete/041.642 - Design Search Autocomplete System - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+                "file": "06.Google/03.Incomplete/041.642 - Design Search Autocomplete System - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a588814af068464d",
+  "active": "6f35d5296a927538",
   "lastOpenFiles": [
-    "06.Google/03.Incomplete/048.1631 - Path With Minimum Effort - Medium.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/02.Completed/030.778 - Swim in Rising Water - Hard.md",
-    "06.Google/03.Incomplete/046.1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md",
-    "06.Google/03.Incomplete/042.1055 - Shortest Way to Form String - Medium.md",
     "06.Google/03.Incomplete/041.642 - Design Search Autocomplete System - Hard.md",
-    "06.Google/03.Incomplete/035.975 - Odd Even Jump - Hard.md",
-    "06.Google/03.Incomplete/033.1240 - Tiling a Rectangle with the Fewest Squares - Hard.md",
-    "06.Google/02.Completed/043.792 - Number of Matching Subsequences - Medium.md",
-    "06.Google/02.Completed/004.366 - Find Leaves of Binary Tree - Medium.md"
+    "06.Google/03.Incomplete/063.1352 - Product of the Last K Numbers - Medium.md",
+    "06.Google/03.Incomplete/062.1088 - Confusing Number II - Hard.md",
+    "06.Google/03.Incomplete/061.1218 - Longest Arithmetic Subsequence of Given Difference - Medium.md",
+    "06.Google/03.Incomplete/060.418 - Sentence Screen Fitting - Medium.md",
+    "06.Google/03.Incomplete/054.562 - Longest Line of Consecutive One in Matrix - Medium.md",
+    "06.Google/03.Incomplete/042.1055 - Shortest Way to Form String - Medium.md",
+    "06.Google/02.Completed/048.1631 - Path With Minimum Effort - Medium.md",
+    "06.Google/02.Completed/030.778 - Swim in Rising Water - Hard.md"
   ]
 }
