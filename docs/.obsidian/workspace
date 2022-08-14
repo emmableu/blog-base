@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6f35d5296a927538",
+        "id": "b7393091b7d9abd6",
         "type": "leaf",
+        "dimension": 22.455403987408186,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/041.642 - Design Search Autocomplete System - Hard.md",
+            "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "dd3370dd0c0fe33b",
+        "type": "leaf",
+        "dimension": 77.54459601259181,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "06.Google/01.基本模版/08.并查集 Union Find 模版.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/041.642 - Design Search Autocomplete System - Hard.md",
+                "file": "06.Google/01.基本模版/08.并查集 Union Find 模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f35d5296a927538",
+  "active": "1f2df8a3887a3e5c",
   "lastOpenFiles": [
+    "06.Google/01.基本模版/07.单调栈 Monotonic Stack 模版.md",
+    "06.Google/01.基本模版/06.DFS - Backtracking 模版.md",
+    "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
+    "06.Google/01.基本模版/16.字典树 Trie 模版.md",
+    "06.Google/01.基本模版/17.字符串匹配的KMP算法.md",
+    "06.Google/01.基本模版/02.滑动窗口 Sliding Window.md",
+    "06.Google/01.基本模版/01.二分搜索 Binary Search.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/03.Incomplete/041.642 - Design Search Autocomplete System - Hard.md",
-    "06.Google/03.Incomplete/063.1352 - Product of the Last K Numbers - Medium.md",
-    "06.Google/03.Incomplete/062.1088 - Confusing Number II - Hard.md",
-    "06.Google/03.Incomplete/061.1218 - Longest Arithmetic Subsequence of Given Difference - Medium.md",
-    "06.Google/03.Incomplete/060.418 - Sentence Screen Fitting - Medium.md",
-    "06.Google/03.Incomplete/054.562 - Longest Line of Consecutive One in Matrix - Medium.md",
-    "06.Google/03.Incomplete/042.1055 - Shortest Way to Form String - Medium.md",
-    "06.Google/02.Completed/048.1631 - Path With Minimum Effort - Medium.md",
-    "06.Google/02.Completed/030.778 - Swim in Rising Water - Hard.md"
+    "06.Google/01.基本模版/18.并查集 Union Find 模版.md",
+    "06.Google/03.Incomplete/057.839 - Similar String Groups - Hard.md"
   ]
 }
