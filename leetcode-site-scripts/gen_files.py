@@ -2,7 +2,7 @@ import os, sys
 import shutil
 
 # Open a file
-path = '/Users/wwang33/Documents/vuepress/blog-base/docs/06.Google/03.Incomplete'
+path = '/Users/wwang33/Documents/vuepress/blog-base/docs/06.Google/02.Completed'
 # path = './03.Incomplete'
 dirs = os.listdir( path )
 
