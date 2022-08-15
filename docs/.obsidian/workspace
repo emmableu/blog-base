@@ -6,7 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
-        "dimension": 22.58064516129032,
+        "dimension": 25.54585152838428,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,13 +19,13 @@
         }
       },
       {
-        "id": "dd3370dd0c0fe33b",
+        "id": "bc59f33797449bc7",
         "type": "leaf",
-        "dimension": 77.41935483870968,
+        "dimension": 74.45414847161572,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+            "file": "06.Google/03.Incomplete/052.052 - 1632 - Rank Transform of a Matrix - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+                "file": "06.Google/03.Incomplete/052.052 - 1632 - Rank Transform of a Matrix - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd3370dd0c0fe33b",
+  "active": "bc59f33797449bc7",
   "lastOpenFiles": [
-    "06.Google/03.Incomplete/161.161 - 990 - Satisfiability of Equality Equations - Medium.md",
-    "06.Google/02.Completed/176.130 - Surrounded Regions - Medium.md",
+    "06.Google/03.Incomplete/042.042 - 1055 - Shortest Way to Form String - Medium.md",
+    "06.Google/03.Incomplete/040.040 - 1397 - Find All Good Strings - Hard.md",
+    "06.Google/03.Incomplete/033.033 - 1240 - Tiling a Rectangle with the Fewest Squares - Hard.md",
+    "06.Google/02.Completed/058.058 - 253 - Meeting Rooms II - Medium.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/01.基本模版/08.并查集 Union Find 模版.md",
-    "06.Google/03.Incomplete/057.839 - Similar String Groups - Hard.md",
-    "06.Google/02.Completed/041.642 - Design Search Autocomplete System - Hard.md",
-    "06.Google/01.基本模版/07.单调栈 Monotonic Stack 模版.md",
-    "06.Google/01.基本模版/06.DFS - Backtracking 模版.md",
-    "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
-    "06.Google/01.基本模版/16.字典树 Trie 模版.md"
+    "06.Google/03.Incomplete/053.053 - 759 - Employee Free Time - Hard.md",
+    "06.Google/03.Incomplete/052.052 - 1632 - Rank Transform of a Matrix - Hard.md",
+    "06.Google/03.Incomplete/051.051 - 2242 - Maximum Score of a Node Sequence - Hard.md",
+    "06.Google/03.Incomplete/062.062 - 1088 - Confusing Number II - Hard.md",
+    "06.Google/03.Incomplete/061.061 - 1218 - Longest Arithmetic Subsequence of Given Difference - Medium.md"
   ]
 }

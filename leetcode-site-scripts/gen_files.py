@@ -2,18 +2,26 @@ import os, sys
 import shutil
 
 # Open a file
-# path = '/Users/wwang33/Documents/vuepress/blog-base/docs/06.Google/03.Incomplete'
-path = '/Users/wwang33/Documents/vuepress/Google - 03.Incomplete'
+path = '/Users/wwang33/Documents/vuepress/blog-base/docs/06.Google/03.Incomplete'
+# path = './03.Incomplete'
 dirs = os.listdir( path )
 
 # This would print all the files and directories
 cnt = 0
 for file in dirs:
     if file.endswith("md"):
-        idx = file.split('.')
-        newfile = f"{idx[0]}.{idx[0]} - {idx[1]}.{idx[2]}"
-        os.rename(os.path.join(path,file), os.path.join(path, newfile))
-        print(newfile)
+        idx = file.split('.')[0]
+        # newfile = f"{idx[0]}.{idx[0]} - {idx[1]}.{idx[2]}"
+        # os.rename(os.path.join(path,file), os.path.join(path, newfile))
+        # print(newfile)
+        with open(os.path.join(path, file)) as f:
+            lines = f.readlines()
+        # print(lines)
+        lines[1] = lines[1].replace('title:', f"title: {idx} - ")
+        # print(lines)
+        with open(os.path.join(path, file), "w") as f:
+            f.writelines(lines)
+
 
 
 
