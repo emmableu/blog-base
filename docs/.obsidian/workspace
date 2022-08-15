@@ -6,7 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
-        "dimension": 22.455403987408186,
+        "dimension": 22.58064516129032,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,11 +21,11 @@
       {
         "id": "dd3370dd0c0fe33b",
         "type": "leaf",
-        "dimension": 77.54459601259181,
+        "dimension": 77.41935483870968,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/01.基本模版/08.并查集 Union Find 模版.md",
+            "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/01.基本模版/08.并查集 Union Find 模版.md",
+                "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f2df8a3887a3e5c",
+  "active": "dd3370dd0c0fe33b",
   "lastOpenFiles": [
+    "06.Google/03.Incomplete/161.161 - 990 - Satisfiability of Equality Equations - Medium.md",
+    "06.Google/02.Completed/176.130 - Surrounded Regions - Medium.md",
+    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+    "06.Google/01.基本模版/08.并查集 Union Find 模版.md",
+    "06.Google/03.Incomplete/057.839 - Similar String Groups - Hard.md",
+    "06.Google/02.Completed/041.642 - Design Search Autocomplete System - Hard.md",
     "06.Google/01.基本模版/07.单调栈 Monotonic Stack 模版.md",
     "06.Google/01.基本模版/06.DFS - Backtracking 模版.md",
     "06.Google/01.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
-    "06.Google/01.基本模版/16.字典树 Trie 模版.md",
-    "06.Google/01.基本模版/17.字符串匹配的KMP算法.md",
-    "06.Google/01.基本模版/02.滑动窗口 Sliding Window.md",
-    "06.Google/01.基本模版/01.二分搜索 Binary Search.md",
-    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/01.基本模版/18.并查集 Union Find 模版.md",
-    "06.Google/03.Incomplete/057.839 - Similar String Groups - Hard.md"
+    "06.Google/01.基本模版/16.字典树 Trie 模版.md"
   ]
 }
