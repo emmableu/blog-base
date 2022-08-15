@@ -6,7 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
-        "dimension": 25.54585152838428,
+        "dimension": 36.47859922178988,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,13 +19,13 @@
         }
       },
       {
-        "id": "bc59f33797449bc7",
+        "id": "3ef1bf663da91da8",
         "type": "leaf",
-        "dimension": 74.45414847161572,
+        "dimension": 63.521400778210115,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/052.052 - 1632 - Rank Transform of a Matrix - Hard.md",
+            "file": "06.Google/03.Incomplete/081.081 - 756 - Pyramid Transition Matrix - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/052.052 - 1632 - Rank Transform of a Matrix - Hard.md",
+                "file": "06.Google/03.Incomplete/081.081 - 756 - Pyramid Transition Matrix - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc59f33797449bc7",
+  "active": "3ef1bf663da91da8",
   "lastOpenFiles": [
-    "06.Google/03.Incomplete/042.042 - 1055 - Shortest Way to Form String - Medium.md",
-    "06.Google/03.Incomplete/040.040 - 1397 - Find All Good Strings - Hard.md",
-    "06.Google/03.Incomplete/033.033 - 1240 - Tiling a Rectangle with the Fewest Squares - Hard.md",
-    "06.Google/02.Completed/058.058 - 253 - Meeting Rooms II - Medium.md",
-    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/03.Incomplete/053.053 - 759 - Employee Free Time - Hard.md",
-    "06.Google/03.Incomplete/052.052 - 1632 - Rank Transform of a Matrix - Hard.md",
-    "06.Google/03.Incomplete/051.051 - 2242 - Maximum Score of a Node Sequence - Hard.md",
-    "06.Google/03.Incomplete/062.062 - 1088 - Confusing Number II - Hard.md",
-    "06.Google/03.Incomplete/061.061 - 1218 - Longest Arithmetic Subsequence of Given Difference - Medium.md"
+    "06.Google/03.Incomplete/082.082 - 428 - Serialize and Deserialize N-ary Tree - Hard.md",
+    "06.Google/03.Incomplete/081.081 - 756 - Pyramid Transition Matrix - Medium.md",
+    "06.Google/03.Incomplete/080.080 - 1882 - Process Tasks Using Servers - Medium.md",
+    "06.Google/03.Incomplete/079.079 - 551 - Student Attendance Record I - Easy.md",
+    "06.Google/03.Incomplete/078.078 - 394 - Decode String - Medium.md",
+    "06.Google/03.Incomplete/077.077 - 920 - Number of Music Playlists - Hard.md",
+    "06.Google/03.Incomplete/075.075 - 1606 - Find Servers That Handled Most Number of Requests - Hard.md",
+    "06.Google/03.Incomplete/073.073 - 1825 - Finding MK Average - Hard.md",
+    "06.Google/03.Incomplete/072.072 - 302 - Smallest Rectangle Enclosing Black Pixels - Hard.md",
+    "06.Google/03.Incomplete/071.071 - 1101 - The Earliest Moment When Everyone Become Friends - Medium.md"
   ]
 }

@@ -2,7 +2,7 @@ import os, sys
 import shutil
 
 # Open a file
-path = '/Users/wwang33/Documents/vuepress/blog-base/docs/06.Google/02.Completed'
+path = '/Users/wwang33/Documents/vuepress/blog-base/docs/06.Google/03.Incomplete'
 # path = './03.Incomplete'
 dirs = os.listdir( path )
 
@@ -17,7 +17,7 @@ for file in dirs:
         with open(os.path.join(path, file)) as f:
             lines = f.readlines()
         # print(lines)
-        lines[1] = lines[1].replace('title:', f"title: {idx} - ")
+        lines[1] = lines[1].replace('  ', " ")
         # print(lines)
         with open(os.path.join(path, file), "w") as f:
             f.writelines(lines)
