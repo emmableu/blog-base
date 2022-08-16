@@ -6,7 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
-        "dimension": 36.47859922178988,
+        "dimension": 24.539877300613497,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,11 +21,11 @@
       {
         "id": "3ef1bf663da91da8",
         "type": "leaf",
-        "dimension": 63.521400778210115,
+        "dimension": 75.4601226993865,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/081.081 - 756 - Pyramid Transition Matrix - Medium.md",
+            "file": "06.Google/03.Incomplete/101.101 - 425 - Word Squares - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/081.081 - 756 - Pyramid Transition Matrix - Medium.md",
+                "file": "06.Google/03.Incomplete/101.101 - 425 - Word Squares - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "3ef1bf663da91da8",
   "lastOpenFiles": [
-    "06.Google/03.Incomplete/082.082 - 428 - Serialize and Deserialize N-ary Tree - Hard.md",
-    "06.Google/03.Incomplete/081.081 - 756 - Pyramid Transition Matrix - Medium.md",
-    "06.Google/03.Incomplete/080.080 - 1882 - Process Tasks Using Servers - Medium.md",
-    "06.Google/03.Incomplete/079.079 - 551 - Student Attendance Record I - Easy.md",
-    "06.Google/03.Incomplete/078.078 - 394 - Decode String - Medium.md",
-    "06.Google/03.Incomplete/077.077 - 920 - Number of Music Playlists - Hard.md",
-    "06.Google/03.Incomplete/075.075 - 1606 - Find Servers That Handled Most Number of Requests - Hard.md",
-    "06.Google/03.Incomplete/073.073 - 1825 - Finding MK Average - Hard.md",
-    "06.Google/03.Incomplete/072.072 - 302 - Smallest Rectangle Enclosing Black Pixels - Hard.md",
-    "06.Google/03.Incomplete/071.071 - 1101 - The Earliest Moment When Everyone Become Friends - Medium.md"
+    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+    "06.Google/01.基本模版/06.DFS - Backtracking 模版.md",
+    "06.Google/03.Incomplete/101.101 - 425 - Word Squares - Hard.md",
+    "06.Google/03.Incomplete/102.102 - 692 - Top K Frequent Words - Medium.md",
+    "06.Google/03.Incomplete/100.100 - 947 - Most Stones Removed with Same Row or Column - Medium.md",
+    "06.Google/03.Incomplete/099.099 - 930 - Binary Subarrays With Sum - Medium.md",
+    "06.Google/03.Incomplete/098.098 - 2250 - Count Number of Rectangles Containing Each Point - Medium.md",
+    "06.Google/03.Incomplete/097.097 - 2184 - Number of Ways to Build Sturdy Brick Wall - Medium.md",
+    "06.Google/03.Incomplete/096.096 - 358 - Rearrange String k Distance Apart - Hard.md",
+    "06.Google/03.Incomplete/095.095 - 2092 - Find All People With Secret - Hard.md"
   ]
 }
