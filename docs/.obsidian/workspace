@@ -6,7 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
-        "dimension": 24.539877300613497,
+        "dimension": 27.8125,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,11 +21,11 @@
       {
         "id": "3ef1bf663da91da8",
         "type": "leaf",
-        "dimension": 75.4601226993865,
+        "dimension": 72.1875,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/101.101 - 425 - Word Squares - Hard.md",
+            "file": "06.Google/03.Incomplete/104.104 - 444 - Sequence Reconstruction - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "岛屿问题",
+                "query": "topological",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/101.101 - 425 - Word Squares - Hard.md",
+                "file": "06.Google/03.Incomplete/104.104 - 444 - Sequence Reconstruction - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "3ef1bf663da91da8",
   "lastOpenFiles": [
-    "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/01.基本模版/06.DFS - Backtracking 模版.md",
-    "06.Google/03.Incomplete/101.101 - 425 - Word Squares - Hard.md",
-    "06.Google/03.Incomplete/102.102 - 692 - Top K Frequent Words - Medium.md",
-    "06.Google/03.Incomplete/100.100 - 947 - Most Stones Removed with Same Row or Column - Medium.md",
-    "06.Google/03.Incomplete/099.099 - 930 - Binary Subarrays With Sum - Medium.md",
-    "06.Google/03.Incomplete/098.098 - 2250 - Count Number of Rectangles Containing Each Point - Medium.md",
-    "06.Google/03.Incomplete/097.097 - 2184 - Number of Ways to Build Sturdy Brick Wall - Medium.md",
-    "06.Google/03.Incomplete/096.096 - 358 - Rearrange String k Distance Apart - Hard.md",
-    "06.Google/03.Incomplete/095.095 - 2092 - Find All People With Secret - Hard.md"
+    "06.Google/02.Completed/177.177 - 146 - LRU Cache - Medium.md",
+    "06.Google/02.Completed/176.176 - 130 - Surrounded Regions - Medium.md",
+    "06.Google/02.Completed/173.173 - 210 - Course Schedule II - Medium.md",
+    "06.Google/02.Completed/171.171 - 346 - Moving Average from Data Stream - Easy.md",
+    "06.Google/02.Completed/167.167 - 1004 - Max Consecutive Ones III - Medium.md",
+    "06.Google/02.Completed/164.164 - 393 - UTF-8 Validation - Medium.md",
+    "06.Google/02.Completed/163.163 - 161 - One Edit Distance - Medium.md",
+    "06.Google/02.Completed/162.162 - 315 - Count of Smaller Numbers After Self - Hard.md",
+    "06.Google/02.Completed/161.161 - 990 - Satisfiability of Equality Equations - Medium.md",
+    "06.Google/02.Completed/159.159 - 200 - Number of Islands - Medium.md"
   ]
 }
