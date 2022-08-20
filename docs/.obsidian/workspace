@@ -6,7 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
-        "dimension": 31.06508875739645,
+        "dimension": 31.26232741617357,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,13 +19,13 @@
         }
       },
       {
-        "id": "fdfc636fff08f910",
+        "id": "85ceda9e3f9f2bc3",
         "type": "leaf",
-        "dimension": 68.93491124260355,
+        "dimension": 68.73767258382642,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/217.217 - 53 - Maximum Subarray - Medium.md",
+            "file": "06.Google/02.Completed/086.086 - 2277 - Closest Node to Path in Tree - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/217.217 - 53 - Maximum Subarray - Medium.md",
+                "file": "06.Google/02.Completed/086.086 - 2277 - Closest Node to Path in Tree - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdfc636fff08f910",
+  "active": "1f2df8a3887a3e5c",
   "lastOpenFiles": [
-    "06.Google/02.Completed/269.269 - 918 - Maximum Sum Circular Subarray - Medium.md",
+    "06.Google/02.Completed/123.123 - 679 - 24 Game - Hard.md",
+    "06.Google/02.Completed/114.114 - 1499 - Max Value of Equation - Hard.md",
+    "06.Google/02.Completed/086.086 - 2277 - Closest Node to Path in Tree - Hard.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/02.Completed/217.217 - 53 - Maximum Subarray - Medium.md",
-    "06.Google/02.Completed/135.135 - 239 - Sliding Window Maximum - Hard.md",
-    "06.Google/01.基本模版/18. Monotonic Queue  单调队列 模版.md",
-    "06.Google/01.基本模版/02.滑动窗口 Sliding Window.md",
-    "06.Google/02.Completed/167.167 - 1004 - Max Consecutive Ones III - Medium.md",
-    "06.Google/03.Incomplete/053.053 - 759 - Employee Free Time - Hard.md",
-    "06.Google/02.Completed/134.134 - 560 - Subarray Sum Equals K - Medium.md",
-    "06.Google/02.Completed/058.058 - 253 - Meeting Rooms II - Medium.md"
+    "06.Google/02.Completed/245.245 - 415 - Add Strings - Easy.md",
+    "pages/1b033f.md",
+    "06.Google/02.Completed/241.241 - 282 - Expression Add Operators - Hard.md",
+    "06.Google/02.Completed/162.162 - 315 - Count of Smaller Numbers After Self - Hard.md",
+    "06.Google/04.NewProblems/150 - 2172 - Maximum And Sum Of Array.md",
+    "06.Google/03.Incomplete/063.063 - 1352 - Product of the Last K Numbers - Medium.md"
   ]
 }
