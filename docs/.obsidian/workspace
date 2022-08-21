@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/086.086 - 2277 - Closest Node to Path in Tree - Hard.md",
+            "file": "06.Google/03.Incomplete/113.113 - 722 - Remove Comments - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/086.086 - 2277 - Closest Node to Path in Tree - Hard.md",
+                "file": "06.Google/03.Incomplete/113.113 - 722 - Remove Comments - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f2df8a3887a3e5c",
+  "active": "85ceda9e3f9f2bc3",
   "lastOpenFiles": [
-    "06.Google/02.Completed/123.123 - 679 - 24 Game - Hard.md",
-    "06.Google/02.Completed/114.114 - 1499 - Max Value of Equation - Hard.md",
-    "06.Google/02.Completed/086.086 - 2277 - Closest Node to Path in Tree - Hard.md",
+    "06.Google/03.Incomplete/115.115 - 2271 - Maximum White Tiles Covered by a Carpet - Medium.md",
+    "06.Google/03.Incomplete/108.108 - 1948 - Delete Duplicate Folders in System - Hard.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/02.Completed/245.245 - 415 - Add Strings - Easy.md",
-    "pages/1b033f.md",
-    "06.Google/02.Completed/241.241 - 282 - Expression Add Operators - Hard.md",
-    "06.Google/02.Completed/162.162 - 315 - Count of Smaller Numbers After Self - Hard.md",
-    "06.Google/04.NewProblems/150 - 2172 - Maximum And Sum Of Array.md",
-    "06.Google/03.Incomplete/063.063 - 1352 - Product of the Last K Numbers - Medium.md"
+    "06.Google/02.Completed/082.082 - 428 - Serialize and Deserialize N-ary Tree - Hard.md",
+    "06.Google/02.Completed/101.101 - 425 - Word Squares - Hard.md",
+    "02.LS/02.LS - completed/186.1233-Remove Sub-Folders from the Filesystem (Medium).md",
+    "06.Google/02.Completed/204.204 - 208 - Implement Trie (Prefix Tree) - Medium.md",
+    "06.Google/02.Completed/041.041 - 642 - Design Search Autocomplete System - Hard.md",
+    "06.Google/02.Completed/037.037 - 720 - Longest Word in Dictionary - Medium.md",
+    "06.Google/02.Completed/043.043 - 792 - Number of Matching Subsequences - Medium.md"
   ]
 }
