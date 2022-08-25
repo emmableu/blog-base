@@ -6,7 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
-        "dimension": 31.26232741617357,
+        "dimension": 18.527177089421393,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,11 +21,11 @@
       {
         "id": "85ceda9e3f9f2bc3",
         "type": "leaf",
-        "dimension": 68.73767258382642,
+        "dimension": 81.4728229105786,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/113.113 - 722 - Remove Comments - Medium.md",
+            "file": "06.Google/03.Incomplete/095.095 - 2092 - Find All People With Secret - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/113.113 - 722 - Remove Comments - Medium.md",
+                "file": "06.Google/03.Incomplete/095.095 - 2092 - Find All People With Secret - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "85ceda9e3f9f2bc3",
   "lastOpenFiles": [
-    "06.Google/03.Incomplete/115.115 - 2271 - Maximum White Tiles Covered by a Carpet - Medium.md",
-    "06.Google/03.Incomplete/108.108 - 1948 - Delete Duplicate Folders in System - Hard.md",
+    "06.Google/03.Incomplete/094.094 - 420 - Strong Password Checker - Hard.md",
+    "06.Google/03.Incomplete/092.092 - 471 - Encode String with Shortest Length - Hard.md",
+    "06.Google/03.Incomplete/091.091 - 427 - Construct Quad Tree - Medium.md",
+    "06.Google/02.Completed/089.089 - 549 - Binary Tree Longest Consecutive Sequence II - Medium.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/02.Completed/082.082 - 428 - Serialize and Deserialize N-ary Tree - Hard.md",
-    "06.Google/02.Completed/101.101 - 425 - Word Squares - Hard.md",
-    "02.LS/02.LS - completed/186.1233-Remove Sub-Folders from the Filesystem (Medium).md",
-    "06.Google/02.Completed/204.204 - 208 - Implement Trie (Prefix Tree) - Medium.md",
-    "06.Google/02.Completed/041.041 - 642 - Design Search Autocomplete System - Hard.md",
-    "06.Google/02.Completed/037.037 - 720 - Longest Word in Dictionary - Medium.md",
-    "06.Google/02.Completed/043.043 - 792 - Number of Matching Subsequences - Medium.md"
+    "06.Google/03.Incomplete/088.088 - 1277 - Count Square Submatrices with All Ones - Medium.md",
+    "06.Google/02.Completed/085.085 - 499 - The Maze III - Hard.md",
+    "06.Google/03.Incomplete/078.078 - 394 - Decode String - Medium.md",
+    "06.Google/03.Incomplete/080.080 - 1882 - Process Tasks Using Servers - Medium.md",
+    "06.Google/02.Completed/084.084 - 772 - Basic Calculator III - Hard.md"
   ]
 }
