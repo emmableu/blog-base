@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/199.199 - 1074 - Number of Submatrices That Sum to Target - Hard.md",
+            "file": "06.Google/03.Incomplete/131.131 - 267 - Palindrome Permutation II - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Incomplete/199.199 - 1074 - Number of Submatrices That Sum to Target - Hard.md",
+                "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85ceda9e3f9f2bc3",
+  "active": "b7393091b7d9abd6",
   "lastOpenFiles": [
-    "06.Google/02.Completed/247.247 - 304 - Range Sum Query 2D - Immutable - Medium.md",
-    "06.Google/03.Incomplete/199.199 - 1074 - Number of Submatrices That Sum to Target - Hard.md",
-    "06.Google/02.Completed/134.134 - 560 - Subarray Sum Equals K - Medium.md",
+    "06.Google/03.Incomplete/131.131 - 267 - Palindrome Permutation II - Medium.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
-    "pages/f1384b.md",
-    "03.机器学习八股文/00.Machine Learning General/00.ML资源.md",
-    "06.Google/03.Incomplete/200.200 - 1986 - Minimum Number of Work Sessions to Finish the Tasks - Medium.md",
-    "06.Google/02.Completed/285.285 - 935 - Knight Dialer - Medium.md",
-    "06.Google/02.Completed/282.282 - 297 - Serialize and Deserialize Binary Tree - Hard.md",
-    "06.Google/02.Completed/280.280 - 658 - Find K Closest Elements - Medium.md"
+    "06.Google/02.Completed/369.369 - 16 - 3Sum Closest - Medium.md",
+    "06.Google/02.Completed/340.340 - 15 - 3Sum - Medium.md",
+    "06.Google/03.Incomplete/130.130 - 465 - Optimal Account Balancing - Hard.md",
+    "06.Google/03.Incomplete/128.128 - 807 - Max Increase to Keep City Skyline - Medium.md",
+    "06.Google/03.Incomplete/127.127 - 1597 - Build Binary Expression Tree From Infix Expression - Hard.md",
+    "06.Google/03.Incomplete/125.125 - 354 - Russian Doll Envelopes - Hard.md",
+    "06.Google/03.Incomplete/124.124 - 57 - Insert Interval - Medium.md",
+    "06.Google/03.Incomplete/123.123 - 679 - 24 Game - Hard.md"
   ]
 }
