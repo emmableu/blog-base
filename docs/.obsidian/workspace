@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/146.146 - 731 - My Calendar II - Medium.md",
+            "file": "06.Google/03.Incomplete/144.144 - 743 - Network Delay Time - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
+                "file": "06.Google/03.Incomplete/144.144 - 743 - Network Delay Time - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +103,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7393091b7d9abd6",
+  "active": "85ceda9e3f9f2bc3",
   "lastOpenFiles": [
-    "06.Google/03.Incomplete/146.146 - 731 - My Calendar II - Medium.md",
+    "06.Google/02.Completed/146.146 - 731 - My Calendar II - Medium.md",
     "06.Google/01.基本模版/00.Problem Categories 题目汇总.md",
     "06.Google/03.Incomplete/145.145 - 1793 - Maximum Score of a Good Subarray - Hard.md",
     "06.Google/03.Incomplete/144.144 - 743 - Network Delay Time - Medium.md",
