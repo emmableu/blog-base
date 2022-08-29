@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/01.面经/00.面经总结.md",
+            "file": "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/01.面经/00.面经总结.md",
+                "file": "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +105,8 @@
   },
   "active": "85ceda9e3f9f2bc3",
   "lastOpenFiles": [
-    "06.Google/03.Incomplete/136.136 - 62 - Unique Paths - Medium.md",
     "06.Google/01.面经/00.面经总结.md",
+    "06.Google/03.Incomplete/136.136 - 62 - Unique Paths - Medium.md",
     "06.Google/03.Incomplete/144.144 - 743 - Network Delay Time - Medium.md",
     "06.Google/02.Completed/146.146 - 731 - My Calendar II - Medium.md",
     "06.Google/00.基本模版/00.Problem Categories 题目汇总.md",
