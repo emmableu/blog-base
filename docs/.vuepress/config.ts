@@ -28,6 +28,14 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     nav: [
       { text: '首页', link: '/' },
       { text: 'Google', link:'/google/'},
+      {
+        text: '机器学习',
+        link: '/ml/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
+      },
+      {
+        text: 'BQ',
+        link: '/bq/',
+      },
 
       { text: 'Companies',
         items: [
@@ -35,10 +43,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
             text: '脸家',
             link: '/ls/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
           },
-          {
-            text: '机器学习',
-            link: '/ml/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
-          },
+
           {
             text: '系统设计',
             link: '/design/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
