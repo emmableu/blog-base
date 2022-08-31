@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/01.面经/00.面经总结 Mianjing Mian Jing.md",
+            "file": "06.Google/02.Completed/406.406 - 973 - K Closest Points to Origin - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 214,
+    "collapsed": true
   },
   "right": {
     "id": "22c68facfa6d562e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/01.面经/00.面经总结 Mianjing Mian Jing.md",
+                "file": "06.Google/02.Completed/406.406 - 973 - K Closest Points to Origin - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +106,15 @@
   },
   "active": "85ceda9e3f9f2bc3",
   "lastOpenFiles": [
-    "06.Google/02.Completed/085.085 - 499 - The Maze III - Hard (minimum path for ball to target hole).md",
+    "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md",
+    "06.Google/02.Completed/297.297 - 215 - Kth Largest Element in an Array - Medium.md",
+    "06.Google/02.Completed/406.406 - 973 - K Closest Points to Origin - Medium.md",
     "06.Google/01.面经/00.面经总结 Mianjing Mian Jing.md",
+    "06.Google/02.Completed/085.085 - 499 - The Maze III - Hard (minimum path for ball to target hole).md",
     "06.Google/00.基本模版/00.Problem Categories 题目汇总.md",
     "06.Google/02.Completed/084.084 - 772 - Basic Calculator III - Hard.md",
     "06.Google/02.Completed/083.083 - 202 - Happy Number - Easy.md",
     "06.Google/02.Completed/082.082 - 428 - Serialize and Deserialize N-ary Tree - Hard.md",
-    "06.Google/02.Completed/079.079 - 551 - Student Attendance Record I - Easy.md",
-    "06.Google/02.Completed/076.076 - 56 - Merge Intervals - Medium.md",
-    "06.Google/02.Completed/074.074 - 224 - Basic Calculator - Hard.md",
-    "06.Google/02.Completed/071.071 - 1101 - The Earliest Moment When Everyone Become Friends - Medium.md"
+    "06.Google/02.Completed/079.079 - 551 - Student Attendance Record I - Easy.md"
   ]
 }
