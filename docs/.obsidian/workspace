@@ -6,7 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
-        "dimension": 56.209150326797385,
+        "dimension": 28.99931926480599,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,11 +21,11 @@
       {
         "id": "cb6de16dd807abc7",
         "type": "leaf",
-        "dimension": 43.790849673202615,
+        "dimension": 71.00068073519401,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05.标准差/00.Code/02.Huffman Encoding And Decoding.md",
+            "file": "06.Google/02.Completed/085.085 - 499 - The Maze III - Hard (minimum path for ball to target hole).md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.标准差/00.Code/02.Huffman Encoding And Decoding.md",
+                "file": "06.Google/02.Completed/085.085 - 499 - The Maze III - Hard (minimum path for ball to target hole).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "cb6de16dd807abc7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-09-03 17.58.45.excalidraw.md",
-    "05.标准差/00.Code/02.Huffman Encoding And Decoding.md",
     "06.Google/00.基本模版/00.Problem Categories 题目汇总.md",
+    "06.Google/02.Completed/085.085 - 499 - The Maze III - Hard (minimum path for ball to target hole).md",
     "06.Google/01.面经/00.面经总结 Mianjing Mian Jing.md",
+    "06.Google/02.Completed/297.297 - 215 - Kth Largest Element in an Array - Medium.md",
+    "05.标准差/00.Code/02.Huffman Encoding And Decoding.md",
+    "Excalidraw/Drawing 2022-09-03 17.58.45.excalidraw.md",
     "06.Google/02.Completed/159.159 - 200 - Number of Islands - Medium.md",
     "06.Google/00.基本模版/08.并查集 Union Find 模版.md",
     "07.BQ/00.General/01.Leadership Principles.md",
-    "07.BQ/00.General/00.Self Introduction.md",
-    "06.Google/02.Completed/406.406 - 973 - K Closest Points to Origin - Medium.md",
-    "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md"
+    "07.BQ/00.General/00.Self Introduction.md"
   ]
 }
