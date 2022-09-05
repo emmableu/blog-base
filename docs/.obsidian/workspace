@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/085.085 - 499 - The Maze III - Hard (minimum path for ball to target hole).md",
+            "file": "06.Google/01.面经/00.面经总结 Mianjing Mian Jing.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214,
-    "collapsed": true
+    "width": 214
   },
   "right": {
     "id": "22c68facfa6d562e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/085.085 - 499 - The Maze III - Hard (minimum path for ball to target hole).md",
+                "file": "06.Google/01.面经/00.面经总结 Mianjing Mian Jing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +105,15 @@
   },
   "active": "cb6de16dd807abc7",
   "lastOpenFiles": [
-    "06.Google/00.基本模版/00.Problem Categories 题目汇总.md",
-    "06.Google/02.Completed/085.085 - 499 - The Maze III - Hard (minimum path for ball to target hole).md",
+    "06.Google/02.Completed/010.010 - 150 - Evaluate Reverse Polish Notation - Medium.md",
     "06.Google/01.面经/00.面经总结 Mianjing Mian Jing.md",
-    "06.Google/02.Completed/297.297 - 215 - Kth Largest Element in an Array - Medium.md",
-    "05.标准差/00.Code/02.Huffman Encoding And Decoding.md",
-    "Excalidraw/Drawing 2022-09-03 17.58.45.excalidraw.md",
-    "06.Google/02.Completed/159.159 - 200 - Number of Islands - Medium.md",
-    "06.Google/00.基本模版/08.并查集 Union Find 模版.md",
-    "07.BQ/00.General/01.Leadership Principles.md",
-    "07.BQ/00.General/00.Self Introduction.md"
+    "06.Google/03.Incomplete/073.073 - 1825 - Finding MK Average - Hard.md",
+    "06.Google/03.Incomplete/105.105 - 353 - Design Snake Game - Medium.md",
+    "06.Google/03.Incomplete/087.087 - 524 - Longest Word in Dictionary through Deleting - Medium.md",
+    "06.Google/03.Incomplete/081.081 - 756 - Pyramid Transition Matrix - Medium.md",
+    "06.Google/03.Incomplete/075.075 - 1606 - Find Servers That Handled Most Number of Requests - Hard.md",
+    "06.Google/03.Incomplete/077.077 - 920 - Number of Music Playlists - Hard.md",
+    "06.Google/03.Incomplete/187.187 - 752 - Open the Lock - Medium.md",
+    "06.Google/03.Incomplete/188.188 - 1237 - Find Positive Integer Solution for a Given Equation - Medium.md"
   ]
 }
