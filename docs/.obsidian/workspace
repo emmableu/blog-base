@@ -6,7 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
-        "dimension": 44.96042216358839,
+        "dimension": 24.691358024691358,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,11 +21,11 @@
       {
         "id": "cb6de16dd807abc7",
         "type": "leaf",
-        "dimension": 55.03957783641161,
+        "dimension": 75.30864197530865,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/03.Incomplete/053.053 - 759 - Employee Free Time - Hard.md",
+            "file": "06.Google/03.Incomplete/057.057 - 839 - Similar String Groups - Hard.md",
             "mode": "source",
             "source": false
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214,
-    "collapsed": true
+    "width": 214
   },
   "right": {
     "id": "22c68facfa6d562e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/00.基本模版/00.Problem Categories 题目汇总.md",
+                "file": "06.Google/03.Incomplete/057.057 - 839 - Similar String Groups - Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7393091b7d9abd6",
+  "active": "cb6de16dd807abc7",
   "lastOpenFiles": [
-    "06.Google/03.Incomplete/053.053 - 759 - Employee Free Time - Hard.md",
-    "pages/leetcode56.md",
-    "06.Google/02.Completed/076.076 - 56 - Merge Intervals - Medium.md",
     "06.Google/00.基本模版/00.Problem Categories 题目汇总.md",
+    "06.Google/00.基本模版/17.字符串匹配的KMP算法.md",
+    "06.Google/03.Incomplete/057.057 - 839 - Similar String Groups - Hard.md",
+    "06.Google/03.Incomplete/054.054 - 562 - Longest Line of Consecutive One in Matrix - Medium.md",
     "06.Google/03.Incomplete/052.052 - 1632 - Rank Transform of a Matrix - Hard.md",
-    "06.Google/03.Incomplete/033.033 - 1240 - Tiling a Rectangle with the Fewest Squares - Hard.md",
-    "06.Google/02.Completed/261.261 - 380 - Insert Delete GetRandom O(1) - Medium.md",
-    "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md",
-    "06.Google/02.Completed/064.064 - 317 - Shortest Distance from All Buildings - Hard.md",
-    "06.Google/01.面经/00.面经总结 Mianjing Mian Jing.md"
+    "06.Google/03.Incomplete/051.051 - 2242 - Maximum Score of a Node Sequence - Hard.md",
+    "06.Google/03.Incomplete/042.042 - 1055 - Shortest Way to Form String - Medium.md",
+    "06.Google/03.Incomplete/040.040 - 1397 - Find All Good Strings - Hard.md",
+    "06.Google/03.Incomplete/035.035 - 975 - Odd Even Jump - Hard.md",
+    "06.Google/03.Incomplete/033.033 - 1240 - Tiling a Rectangle with the Fewest Squares - Hard.md"
   ]
 }
