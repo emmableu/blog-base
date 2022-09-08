@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/057.057 - 839 - Similar String Groups - Hard.md",
+            "file": "06.Google/04.NewProblems/70.70 - 295 - Find Median from Data Stream.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/057.057 - 839 - Similar String Groups - Hard.md",
+                "file": "06.Google/04.NewProblems/70.70 - 295 - Find Median from Data Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "cb6de16dd807abc7",
   "lastOpenFiles": [
+    "06.Google/00.基本模版/00.Problem Categories 题目汇总.md",
+    "06.Google/04.NewProblems/70.70 - 295 - Find Median from Data Stream.md",
+    "06.Google/00.基本模版/20.APIs.md",
+    "06.Google/04.NewProblems/150 - 2172 - Maximum And Sum Of Array.md",
+    "06.Google/02.Completed/057.057 - 839 - Similar String Groups - Hard.md",
     "00.目录页/07.BQ.md",
     "00.目录页/06.Google.md",
     "00.目录页/01.leetcode.md",
     "00.目录页/03.机器学习八股文.md",
-    "00.目录页/04.系统设计.md",
-    "00.目录页/05.标准差.md",
-    "06.Google/03.Incomplete/062.062 - 1088 - Confusing Number II - Hard.md",
-    "06.Google/03.Incomplete/061.061 - 1218 - Longest Arithmetic Subsequence of Given Difference - Medium.md",
-    "06.Google/02.Completed/057.057 - 839 - Similar String Groups - Hard.md",
-    "06.Google/00.基本模版/00.Problem Categories 题目汇总.md"
+    "00.目录页/04.系统设计.md"
   ]
 }
