@@ -6,6 +6,7 @@
       {
         "id": "b7393091b7d9abd6",
         "type": "leaf",
+        "dimension": 26.296296296296294,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -20,10 +21,11 @@
       {
         "id": "365e79f3a7d00f28",
         "type": "leaf",
+        "dimension": 73.70370370370371,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md",
+            "file": "1000.1000 - 346 - Moving Average From Data Stream.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md",
+                "file": "06.Google/00.基本模版/00.Problem Categories 小分类题汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "365e79f3a7d00f28",
+  "active": "b7393091b7d9abd6",
   "lastOpenFiles": [
+    "1000.1000 - 346 - Moving Average From Data Stream.md",
+    "06.Google/04.NewProblems/70.70 - 295 - Find Median from Data Stream.md",
+    "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md",
     "06.Google/00.基本模版/18. Monotonic Queue  单调队列 模版.md",
     "06.Google/00.基本模版/17.字符串匹配的KMP算法.md",
     "06.Google/00.基本模版/16.字典树 Trie 模版.md",
     "06.Google/00.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
     "06.Google/00.基本模版/14.背包问题.md",
     "06.Google/00.基本模版/13.位运算 bit manupulation API.md",
-    "06.Google/00.基本模版/12.线段树 - Segment Tree - 模版.md",
-    "06.Google/00.基本模版/11.拓扑排序 - Topological Sort - 模版.md",
-    "06.Google/00.基本模版/10.岛屿问题 - 网格dfs.md",
-    "06.Google/00.基本模版/09.洗牌算法 Shuffle Algorithm.md"
+    "06.Google/00.基本模版/12.线段树 - Segment Tree - 模版.md"
   ]
 }
