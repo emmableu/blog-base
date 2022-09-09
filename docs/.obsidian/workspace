@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/046.046 - 1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md",
+            "file": "06.Google/02.Completed/126.126 - 1110 - Delete Nodes And Return Forest - Medium.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/046.046 - 1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md",
+                "file": "06.Google/02.Completed/126.126 - 1110 - Delete Nodes And Return Forest - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "365e79f3a7d00f28",
   "lastOpenFiles": [
+    "06.Google/00.基本模版/05.DFS - Tree 模版.md",
+    "06.Google/02.Completed/408.408 - 543 - Diameter of Binary Tree - Easy.md",
+    "06.Google/02.Completed/046.046 - 1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md",
+    "06.Google/00.基本模版/13.位运算 bit manupulation API.md",
     "06.Google/02.Completed/182.182 - 1091 - Shortest Path in Binary Matrix - Medium.md",
     "06.Google/02.Completed/001.001 - 1293 - Shortest Path in a Grid with Obstacles Elimination - Hard.md",
     "06.Google/02.Completed/257.257 - 286 - Walls and Gates - Medium.md",
     "03.机器学习八股文/00.Machine Learning General/00.ML资源.md",
     "06.Google/02.Completed/378.378 - 76 - Minimum Window Substring - Hard.md",
-    "pages/d66aaa.md",
-    "06.Google/00.基本模版/02.滑动窗口 Sliding Window.md",
-    "06.Google/02.Completed/167.167 - 1004 - Max Consecutive Ones III - Medium.md",
-    "06.Google/00.基本模版/13.位运算 bit manupulation API.md",
-    "06.Google/02.Completed/135.135 - 239 - Sliding Window Maximum - Hard.md"
+    "pages/d66aaa.md"
   ]
 }
