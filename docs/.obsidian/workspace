@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06.Google/02.Completed/126.126 - 1110 - Delete Nodes And Return Forest - Medium.md",
+            "file": "06.Google/00.基本模版/07.单调栈 Monotonic Stack 模版.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214,
-    "collapsed": true
+    "width": 214
   },
   "right": {
     "id": "22c68facfa6d562e",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/02.Completed/126.126 - 1110 - Delete Nodes And Return Forest - Medium.md",
+                "file": "06.Google/00.基本模版/07.单调栈 Monotonic Stack 模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "365e79f3a7d00f28",
   "lastOpenFiles": [
+    "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md",
+    "06.Google/00.基本模版/07.单调栈 Monotonic Stack 模版.md",
+    "pages/5226f0.md",
+    "06.Google/02.Completed/223.223 - 1944 - Number of Visible People in a Queue - Hard.md",
+    "06.Google/02.Completed/470.470 - 238 - Product of Array Except Self - Medium.md",
+    "06.Google/02.Completed/126.126 - 1110 - Delete Nodes And Return Forest - Medium.md",
     "06.Google/00.基本模版/06.DFS - Backtracking 模版.md",
     "06.Google/02.Completed/026.026 - 489 - Robot Room Cleaner - Hard.md",
-    "06.Google/02.Completed/126.126 - 1110 - Delete Nodes And Return Forest - Medium.md",
     "06.Google/00.基本模版/05.DFS - Tree 模版.md",
-    "06.Google/02.Completed/408.408 - 543 - Diameter of Binary Tree - Easy.md",
-    "06.Google/02.Completed/046.046 - 1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md",
-    "06.Google/00.基本模版/13.位运算 bit manupulation API.md",
-    "06.Google/02.Completed/182.182 - 1091 - Shortest Path in Binary Matrix - Medium.md",
-    "06.Google/02.Completed/001.001 - 1293 - Shortest Path in a Grid with Obstacles Elimination - Hard.md",
-    "06.Google/02.Completed/257.257 - 286 - Walls and Gates - Medium.md"
+    "06.Google/02.Completed/408.408 - 543 - Diameter of Binary Tree - Easy.md"
   ]
 }
