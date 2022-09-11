@@ -7,8 +7,12 @@
         "id": "365e79f3a7d00f28",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "06.Google/03.Incomplete/197.197 - 247 - Strobogrammatic Number II - Medium.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06.Google/03.Incomplete/197.197 - 247 - Strobogrammatic Number II - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "365e79f3a7d00f28",
   "lastOpenFiles": [
+    "06.Google/00.基本模版/06.DFS - Backtracking 模版.md",
+    "06.Google/03.Incomplete/062.062 - 1088 - Confusing Number II - Hard.md",
+    "06.Google/03.Incomplete/197.197 - 247 - Strobogrammatic Number II - Medium.md",
+    "02.LS/02.LS - completed/256.246-Strobogrammatic Number (Easy).md",
     "06.Google/03.Incomplete/152.152 - 300 - Longest Increasing Subsequence - Medium.md",
     "06.Google/02.Completed/152.152 - 300-Longest Increasing Subsequence - Medium.md",
     "06.Google/00.基本模版/15.动态规划 - Dynamic Programming - 模版.md",
     "06.Google/00.基本模版/00.Problem Categories 小分类题汇总.md",
     "06.Google/02.Completed/350.350 - 236 - Lowest Common Ancestor of a Binary Tree - 只有left right 指针.md",
-    "06.Google/02.Completed/326.326 - 347 - Top K Frequent Elements - Medium.md",
-    "06.Google/00.基本模版/05.DFS - Tree 模版.md",
-    "06.Google/02.Completed/457.457 - 724 - Find Pivot Index - Easy.md",
-    "06.Google/00.基本模版/21.Prefix Sum 前缀和 模版.md",
-    "06.Google/02.Completed/134.134 - 560 - Subarray Sum Equals K - Medium.md"
+    "06.Google/02.Completed/326.326 - 347 - Top K Frequent Elements - Medium.md"
   ]
 }
