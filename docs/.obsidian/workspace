@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "365e79f3a7d00f28",
+        "id": "c1206679b9f152f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04.系统设计/02.Other System Design Notes/101. 异步原理， Async, Await.md",
+            "file": "03.机器学习八股文/03.Neural Network/02.Backpropagation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04.系统设计/02.Other System Design Notes/101. 异步原理， Async, Await.md",
+                "file": "03.机器学习八股文/03.Neural Network/02.Backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "365e79f3a7d00f28",
+  "active": "c1206679b9f152f2",
   "lastOpenFiles": [
+    "03.机器学习八股文/04.FudanNLP/01.Task 2 - CNN and RNN on Sentiment Analysis.md",
+    "03.机器学习八股文/03.Neural Network/05.Loss Functions.md",
+    "03.机器学习八股文/05.PyTorch 101/02.PyTorch - Neural Network Classification.md",
+    "03.机器学习八股文/03.Neural Network/02.Backpropagation.md",
+    "03.机器学习八股文/03.Neural Network/Untitled.md",
+    "01.leetcode/02.leetcode problems/1242.Web Crawler Multithreaded.md",
+    "04.系统设计/02.Other System Design Notes/100.Multithreading in Python.md",
+    "04.系统设计/02.Other System Design Notes/101. javascript 异步原理.md",
     "06.Google/02.Completed/297.297 - 215 - Kth Largest Element in an Array - Medium.md",
-    "06.Google/03.Incomplete/102.102 - 692 - Top K Frequent Words - Medium.md",
-    "04.系统设计/02.Other System Design Notes/02.Others.md",
-    "03.机器学习八股文/03.Neural Network/01.Gradient Descent (Best Explanation).md",
-    "03.机器学习八股文/02.Deep Learning Problems/00.DL Concepts.md",
-    "03.机器学习八股文/02.Deep Learning Problems/04.百面机器学习 - 答案.md",
-    "03.机器学习八股文/01.Machine Learning Models/03.Logistic Regression.md",
-    "03.机器学习八股文/02.Deep Learning Problems/03.百面机器学习 - 题目.md",
-    "04.系统设计/01.ML System Design/01.Search Ranking System Design.md",
-    "03.机器学习八股文/00.Machine Learning General/01.ML General.md"
+    "06.Google/03.Incomplete/102.102 - 692 - Top K Frequent Words - Medium.md"
   ]
 }
