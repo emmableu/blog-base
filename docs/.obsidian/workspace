@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03.机器学习八股文/03.Neural Network/02.Backpropagation.md",
+            "file": "03.机器学习八股文/03.Neural Network/01.Gradient Descent (Best Explanation).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.机器学习八股文/03.Neural Network/02.Backpropagation.md",
+                "file": "03.机器学习八股文/03.Neural Network/01.Gradient Descent (Best Explanation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c1206679b9f152f2",
   "lastOpenFiles": [
+    "03.机器学习八股文/03.Neural Network/02.Backpropagation.md",
+    "03.机器学习八股文/03.Neural Network/03.Multiple Inputs and Outputs.md",
+    "03.机器学习八股文/05.PyTorch 101/01.PyTorch - Neural Network Regression.md",
+    "03.机器学习八股文/05.PyTorch 101/02.PyTorch - Neural Network Classification.md",
     "03.机器学习八股文/04.FudanNLP/01.Task 2 - CNN and RNN on Sentiment Analysis.md",
     "03.机器学习八股文/03.Neural Network/05.Loss Functions.md",
-    "03.机器学习八股文/05.PyTorch 101/02.PyTorch - Neural Network Classification.md",
-    "03.机器学习八股文/03.Neural Network/02.Backpropagation.md",
     "03.机器学习八股文/03.Neural Network/Untitled.md",
     "01.leetcode/02.leetcode problems/1242.Web Crawler Multithreaded.md",
     "04.系统设计/02.Other System Design Notes/100.Multithreading in Python.md",
-    "04.系统设计/02.Other System Design Notes/101. javascript 异步原理.md",
-    "06.Google/02.Completed/297.297 - 215 - Kth Largest Element in an Array - Medium.md",
-    "06.Google/03.Incomplete/102.102 - 692 - Top K Frequent Words - Medium.md"
+    "04.系统设计/02.Other System Design Notes/101. javascript 异步原理.md"
   ]
 }
