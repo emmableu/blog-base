@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.leetcode/02.leetcode problems/51.51-N-Queens.md",
+            "file": "07.BQ/00.General/01.Leadership Principles.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.leetcode/02.leetcode problems/51.51-N-Queens.md",
+                "file": "07.BQ/00.General/01.Leadership Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c1206679b9f152f2",
   "lastOpenFiles": [
-    "06.Google/00.基本模版/06.DFS - Backtracking 模版.md",
-    "01.leetcode/02.leetcode problems/51.51-N-Queens.md",
-    "06.Google/00.基本模版/20.APIs.md",
-    "06.Google/00.基本模版/10.岛屿问题 - 网格dfs - grid dfs.md",
-    "01.leetcode/02.leetcode problems/980.Unique Paths III.md",
-    "06.Google/00.基本模版/05.DFS - Tree 模版.md",
-    "03.机器学习八股文/03.Neural Network/01.Gradient Descent (Best Explanation).md",
+    "00.目录页/07.BQ.md",
+    "03.机器学习八股文/02.Deep Learning Problems/04.百面机器学习 - 答案 Bai Mian Baimian Solution.md",
+    "03.机器学习八股文/02.Deep Learning Problems/03.百面机器学习 - 题目 Bai Mian Baimian - Problems.md",
     "03.机器学习八股文/03.Neural Network/02.Backpropagation.md",
-    "03.机器学习八股文/03.Neural Network/03.Multiple Inputs and Outputs.md",
-    "03.机器学习八股文/05.PyTorch 101/01.PyTorch - Neural Network Regression.md"
+    "03.机器学习八股文/05.PyTorch 101/02.PyTorch - Neural Network Classification.md",
+    "03.机器学习八股文/05.PyTorch 101/01.PyTorch - Neural Network Regression.md",
+    "03.机器学习八股文/03.Neural Network/01.Gradient Descent (Best Explanation).md",
+    "03.机器学习八股文/02.Deep Learning Problems/00.DL Concepts.md",
+    "03.机器学习八股文/02.Deep Learning Problems/01.DL model questions.md",
+    "03.机器学习八股文/01.Machine Learning Models/04.Decision Tree.md"
   ]
 }
