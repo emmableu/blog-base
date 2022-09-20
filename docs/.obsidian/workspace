@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "07.BQ/00.General/00.Self Introduction.md",
+            "file": "03.机器学习八股文/01.Machine Learning Models/09.Support Vector Machine (SVM).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.BQ/00.General/00.Self Introduction.md",
+                "file": "03.机器学习八股文/01.Machine Learning Models/09.Support Vector Machine (SVM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "c1206679b9f152f2",
   "lastOpenFiles": [
+    "07.BQ/00.General/00.Self Introduction.md",
+    "03.机器学习八股文/01.Machine Learning Models/09.Support Vector Machine (SVM).md",
     "06.Google/00.基本模版/06.DFS - Backtracking 模版.md",
     "03.机器学习八股文/03.Neural Network/02.Backpropagation.md",
     "06.Google/00.基本模版/10.岛屿问题 - 网格dfs - grid dfs.md",
@@ -96,8 +98,6 @@
     "03.机器学习八股文/02.Deep Learning Problems/04.百面机器学习 - 答案 Bai Mian Baimian Solution.md",
     "03.机器学习八股文/02.Deep Learning Problems/03.百面机器学习 - 题目 Bai Mian Baimian - Problems.md",
     "03.机器学习八股文/02.Deep Learning Problems/00.DL Concepts.md",
-    "03.机器学习八股文/02.Deep Learning Problems/01.DL model questions.md",
-    "07.BQ/00.General/01.Leadership Principles.md",
-    "00.目录页/07.BQ.md"
+    "03.机器学习八股文/02.Deep Learning Problems/01.DL model questions.md"
   ]
 }
