@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03.机器学习八股文/03.Deep Learning Problems/04.百面机器学习 - 答案 Bai Mian Baimian Solution.md",
+            "file": "03.机器学习八股文/00.Machine Learning General/11.Pros and ons of various Machine Learning algorithms.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.机器学习八股文/03.Deep Learning Problems/04.百面机器学习 - 答案 Bai Mian Baimian Solution.md",
+                "file": "03.机器学习八股文/00.Machine Learning General/11.Pros and ons of various Machine Learning algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c1206679b9f152f2",
   "lastOpenFiles": [
+    "03.机器学习八股文/03.Deep Learning Problems/04.百面机器学习 - 答案 Bai Mian Baimian Solution.md",
+    "03.机器学习八股文/01.Machine Learning Models/06.Naive Bayes and Generative Model.md",
+    "03.机器学习八股文/00.Machine Learning General/02.Feature Scaling.md",
     "03.机器学习八股文/03.Deep Learning Problems/03.百面机器学习 - 题目 Bai Mian Baimian - Problems.md",
     "03.机器学习八股文/02.Neural Network/06.Batch Normalization.md",
     "03.机器学习八股文/02.Neural Network/07.Dropout.md",
     "03.机器学习八股文/00.Machine Learning General/12.常见问题 Common ML Problems.md",
-    "03.机器学习八股文/03.Deep Learning Problems/04.百面机器学习 - 答案 Bai Mian Baimian Solution.md",
     "03.机器学习八股文/00.Machine Learning General/14.Mutual Information.md",
     "03.机器学习八股文/01.Machine Learning Models/11.EM Algorithm.md",
-    "03.机器学习八股文/01.Machine Learning Models/12.K-Means Clustering.md",
-    "03.机器学习八股文/01.Machine Learning Models/10.Hierarchical Clustering.md",
-    "03.机器学习八股文/01.Machine Learning Models/05.Ensemble Learning.md"
+    "03.机器学习八股文/01.Machine Learning Models/12.K-Means Clustering.md"
   ]
 }
