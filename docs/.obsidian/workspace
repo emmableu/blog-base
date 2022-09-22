@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f2df8a3887a3e5c",
+  "active": "c1206679b9f152f2",
   "lastOpenFiles": [
-    "03.机器学习八股文/00.Machine Learning General/55.Loss Functions.md",
-    "03.机器学习八股文/00.Machine Learning General/57.Dropout.md",
-    "03.机器学习八股文/00.Machine Learning General/56.Batch Normalization.md",
-    "03.机器学习八股文/00.Machine Learning General/104.百面机器学习 - 答案 Bai Mian Baimian Solution.md",
-    "03.机器学习八股文/00.Machine Learning General/25.Ensemble Learning.md",
-    "03.机器学习八股文/00.Machine Learning General/28.Principle Component Analysis (PCA).md",
+    "03.机器学习八股文/00.Machine Learning General/12.常见问题 Common ML Problems.md",
+    "03.机器学习八股文/00.Machine Learning General/11.Pros and ons of various Machine Learning algorithms.md",
+    "03.机器学习八股文/00.Machine Learning General/13.Distributions.md",
+    "03.机器学习八股文/00.Machine Learning General/14.Mutual Information.md",
+    "03.机器学习八股文/00.Machine Learning General/21.Linear Regression.md",
+    "03.机器学习八股文/00.Machine Learning General/23.Logistic Regression.md",
+    "03.机器学习八股文/00.Machine Learning General/26.Naive Bayes and Generative Model.md",
+    "03.机器学习八股文/00.Machine Learning General/27.Linear Discrimitive Analysis (LDA).md",
     "03.机器学习八股文/00.Machine Learning General/29.Support Vector Machine (SVM).md",
-    "03.机器学习八股文/00.Machine Learning General/50.Neural Network Intro.md",
-    "03.机器学习八股文/00.Machine Learning General/31.EM Algorithm.md",
-    "03.机器学习八股文/00.Machine Learning General/34.Other Models.md"
+    "03.机器学习八股文/00.Machine Learning General/30.Hierarchical Clustering.md"
   ]
 }
