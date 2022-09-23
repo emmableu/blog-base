@@ -7,8 +7,12 @@
         "id": "c1206679b9f152f2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "04.系统设计/03.OO-Design/02.停车场 Parking Lot - OOD.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04.系统设计/03.OO-Design/02.停车场 Parking Lot - OOD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "c1206679b9f152f2",
   "lastOpenFiles": [
-    "03.机器学习八股文/00.Machine Learning General/12.常见问题 Common ML Problems.md",
-    "03.机器学习八股文/00.Machine Learning General/11.Pros and ons of various Machine Learning algorithms.md",
-    "03.机器学习八股文/00.Machine Learning General/13.Distributions.md",
-    "03.机器学习八股文/00.Machine Learning General/14.Mutual Information.md",
-    "03.机器学习八股文/00.Machine Learning General/21.Linear Regression.md",
-    "03.机器学习八股文/00.Machine Learning General/23.Logistic Regression.md",
-    "03.机器学习八股文/00.Machine Learning General/26.Naive Bayes and Generative Model.md",
-    "03.机器学习八股文/00.Machine Learning General/27.Linear Discrimitive Analysis (LDA).md",
-    "03.机器学习八股文/00.Machine Learning General/29.Support Vector Machine (SVM).md",
-    "03.机器学习八股文/00.Machine Learning General/30.Hierarchical Clustering.md"
+    "04.系统设计/03.OO-Design/01.电梯系统 Elevator System - OOD.md",
+    "04.系统设计/03.OO-Design/00. OOD Basic Concepts.md",
+    "04.系统设计/03.OO-Design/02.停车场 Parking Lot - OOD.md",
+    "04.系统设计/Untitled.md",
+    "03.机器学习八股文/00.Machine Learning General/00.ML资源.md",
+    "03.机器学习八股文/00.Machine Learning General/03.Likelihood Basics.md",
+    "03.机器学习八股文/00.Machine Learning General/05.Bias and Variance.md",
+    "03.机器学习八股文/00.Machine Learning General/06.Classification Metric.md",
+    "03.机器学习八股文/00.Machine Learning General/104.百面机器学习 - 答案 Bai Mian Baimian Solution.md",
+    "03.机器学习八股文/00.Machine Learning General/11.Pros and ons of various Machine Learning algorithms.md"
   ]
 }
