@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03.机器学习八股文/00.Machine Learning General/62.LSTM.md",
+            "file": "03.机器学习八股文/00.Machine Learning General/68.Attention Mechanism.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.机器学习八股文/00.Machine Learning General/62.LSTM.md",
+                "file": "03.机器学习八股文/00.Machine Learning General/68.Attention Mechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c1206679b9f152f2",
   "lastOpenFiles": [
-    "03.机器学习八股文/00.Machine Learning General/61. Recurrent Neural Network - RNN.md",
+    "07.BQ/00.General/00.Self Introduction.md",
+    "03.机器学习八股文/00.Machine Learning General/67.Encoder-Decoder 编码器-解码器.md",
+    "03.机器学习八股文/00.Machine Learning General/66.ResNet 残差网络.md",
     "03.机器学习八股文/00.Machine Learning General/62.LSTM.md",
+    "03.机器学习八股文/00.Machine Learning General/61. Recurrent Neural Network - RNN.md",
     "03.机器学习八股文/00.Machine Learning General/32.KNN.md",
     "03.机器学习八股文/00.Machine Learning General/63.Transformer.md",
     "03.机器学习八股文/00.Machine Learning General/65.GAN.md",
     "03.机器学习八股文/00.Machine Learning General/64.BERT.md",
-    "03.机器学习八股文/00.Machine Learning General/69.Gradient Boost 细节.md",
-    "03.机器学习八股文/00.Machine Learning General/51.Gradient Descent (Best Explanation).md",
-    "[.md",
-    "03.机器学习八股文/00.Machine Learning General/104.百面机器学习 - 答案 Bai Mian Baimian Solution.md"
+    "03.机器学习八股文/00.Machine Learning General/69.Gradient Boost 细节.md"
   ]
 }
