@@ -10,19 +10,31 @@ tags:
 ---
 5. implementation 、推导类
 写代码实现两层fully connected网络
+
 手写CNN
+
 手写KNN
+
 手写K-means
+
 手写softmax的backpropagation
+
 给一个LSTM network的结构要你计算how many parameters
+
 convolution layer的output size怎么算? 写出公式
+
        
 6.项目经验类
 训练好的模型在现实中不work,问你可能的原因
+
 Loss趋于Inf或者NaN的可能的原因
+
 生产和开发时候data发生了一些shift应该如何detect和补救
+
 annotation有限的情況下你要怎麼Train model
+
 假设有个model要放production了但是发现online one important feature missing不能重新train model 你怎么办
+
 
 7. NLP/RNN相关
 LSTM的公式是什么

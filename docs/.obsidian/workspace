@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03.机器学习八股文/00.Machine Learning General/51.Gradient Descent (Best Explanation).md",
+            "file": "03.机器学习八股文/00.Machine Learning General/62.LSTM.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.机器学习八股文/00.Machine Learning General/51.Gradient Descent (Best Explanation).md",
+                "file": "03.机器学习八股文/00.Machine Learning General/62.LSTM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c1206679b9f152f2",
   "lastOpenFiles": [
-    "03.机器学习八股文/00.Machine Learning General/104.百面机器学习 - 答案 Bai Mian Baimian Solution.md",
-    "01.leetcode/02.leetcode problems/145.145 - Binary Tree Postorder Traversal.md",
-    "04.系统设计/03.OO-Design/02.停车场 Parking Lot - OOD.md",
-    "04.系统设计/03.OO-Design/01.电梯系统 Elevator System - OOD.md",
-    "04.系统设计/03.OO-Design/00. OOD Basic Concepts.md",
-    "04.系统设计/Untitled.md",
-    "03.机器学习八股文/00.Machine Learning General/00.ML资源.md",
-    "03.机器学习八股文/00.Machine Learning General/03.Likelihood Basics.md",
-    "03.机器学习八股文/00.Machine Learning General/05.Bias and Variance.md",
-    "03.机器学习八股文/00.Machine Learning General/06.Classification Metric.md"
+    "03.机器学习八股文/00.Machine Learning General/61. Recurrent Neural Network - RNN.md",
+    "03.机器学习八股文/00.Machine Learning General/62.LSTM.md",
+    "03.机器学习八股文/00.Machine Learning General/32.KNN.md",
+    "03.机器学习八股文/00.Machine Learning General/63.Transformer.md",
+    "03.机器学习八股文/00.Machine Learning General/65.GAN.md",
+    "03.机器学习八股文/00.Machine Learning General/64.BERT.md",
+    "03.机器学习八股文/00.Machine Learning General/69.Gradient Boost 细节.md",
+    "03.机器学习八股文/00.Machine Learning General/51.Gradient Descent (Best Explanation).md",
+    "[.md",
+    "03.机器学习八股文/00.Machine Learning General/104.百面机器学习 - 答案 Bai Mian Baimian Solution.md"
   ]
 }
