@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03.机器学习八股文/00.Machine Learning General/25.Ensemble Learning.md",
+            "file": "03.机器学习八股文/00.Machine Learning General/101.Definition Glossary.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 214,
+    "collapsed": true
   },
   "right": {
     "id": "22c68facfa6d562e",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.机器学习八股文/00.Machine Learning General/25.Ensemble Learning.md",
+                "file": "03.机器学习八股文/00.Machine Learning General/101.Definition Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "c1206679b9f152f2",
   "lastOpenFiles": [
+    "03.机器学习八股文/00.Machine Learning General/55.Loss Functions.md",
+    "03.机器学习八股文/00.Machine Learning General/101.Definition Glossary.md",
+    "03.机器学习八股文/00.Machine Learning General/11.评价模型好坏 Model Comparison.md",
+    "03.机器学习八股文/00.Machine Learning General/34.Principle Component Analysis - PCA.md",
+    "03.机器学习八股文/00.Machine Learning General/33.SoftMax and Cross-Entropy Loss Function.md",
+    "03.机器学习八股文/00.Machine Learning General/26.Naive Bayes and Generative Model.md",
+    "03.机器学习八股文/00.Machine Learning General/25.Ensemble Learning.md",
     "03.机器学习八股文/00.Machine Learning General/24.Decision Tree.md",
     "03.机器学习八股文/00.Machine Learning General/21.Linear Regression.md",
-    "03.机器学习八股文/00.Machine Learning General/14.Mutual Information.md",
-    "03.机器学习八股文/00.Machine Learning General/13.Distributions.md",
-    "03.机器学习八股文/00.Machine Learning General/11.评价模型好坏 Model Comparison.md",
-    "03.机器学习八股文/00.Machine Learning General/10.Regularization.md",
-    "03.机器学习八股文/00.Machine Learning General/23.Logistic Regression.md",
-    "03.机器学习八股文/00.Machine Learning General/06.Classification Metric.md",
-    "03.机器学习八股文/00.Machine Learning General/05.Bias and Variance.md",
-    "03.机器学习八股文/00.Machine Learning General/03.Likelihood Basics.md"
+    "03.机器学习八股文/00.Machine Learning General/14.Mutual Information.md"
   ]
 }
