@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1206679b9f152f2",
+        "id": "2996edb2b1d300b6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "03.机器学习八股文/00.Machine Learning General/39.Gradient Boost 细节.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.机器学习八股文/00.Machine Learning General/39.Gradient Boost 细节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1206679b9f152f2",
+  "active": "2996edb2b1d300b6",
   "lastOpenFiles": [
-    "03.机器学习八股文/00.Machine Learning General/1001.Definition Glossary.md",
+    "03.机器学习八股文/00.Machine Learning General/31.EM Algorithm.md",
+    "03.机器学习八股文/00.Machine Learning General/30.Hierarchical Clustering.md",
     "03.机器学习八股文/00.Machine Learning General/39.Gradient Boost 细节.md",
+    "03.机器学习八股文/00.Machine Learning General/1001.Definition Glossary.md",
     "03.机器学习八股文/00.Machine Learning General/25.Ensemble Learning.md",
     "03.机器学习八股文/00.Machine Learning General/34.Principle Component Analysis - PCA.md",
     "03.机器学习八股文/00.Machine Learning General/55.Loss Functions.md",
     "03.机器学习八股文/00.Machine Learning General/11.评价模型好坏 Model Comparison.md",
     "03.机器学习八股文/00.Machine Learning General/33.SoftMax and Cross-Entropy Loss Function.md",
-    "03.机器学习八股文/00.Machine Learning General/26.Naive Bayes and Generative Model.md",
-    "03.机器学习八股文/00.Machine Learning General/24.Decision Tree.md",
-    "03.机器学习八股文/00.Machine Learning General/21.Linear Regression.md"
+    "03.机器学习八股文/00.Machine Learning General/26.Naive Bayes and Generative Model.md"
   ]
 }
