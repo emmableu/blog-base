@@ -7,8 +7,12 @@
         "id": "2996edb2b1d300b6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "03.机器学习八股文/00.Machine Learning General/35.Introduction to Learning to Rank.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03.机器学习八股文/00.Machine Learning General/35.Introduction to Learning to Rank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
