@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03.机器学习八股文/00.Machine Learning General/56.Batch Normalization.md",
+            "file": "03.机器学习八股文/00.Machine Learning General/30.Hierarchical Clustering.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.机器学习八股文/00.Machine Learning General/1001.Definition Glossary.md",
+                "file": "03.机器学习八股文/00.Machine Learning General/30.Hierarchical Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2996edb2b1d300b6",
+  "active": "c221681ef1c9d3a8",
   "lastOpenFiles": [
-    "03.机器学习八股文/00.Machine Learning General/56.Batch Normalization.md",
     "03.机器学习八股文/00.Machine Learning General/1001.Definition Glossary.md",
+    "03.机器学习八股文/00.Machine Learning General/30.Hierarchical Clustering.md",
+    "03.机器学习八股文/00.Machine Learning General/32.KNN - K Nearest Neighbor.md",
+    "03.机器学习八股文/00.Machine Learning General/56.Batch Normalization.md",
     "03.机器学习八股文/00.Machine Learning General/35.Learning to Rank.md",
     "03.机器学习八股文/00.Machine Learning General/1112.Model Compare 比较模型好坏.md",
     "03.机器学习八股文/00.Machine Learning General/1111.评价模型 Model Review.md",
     "03.机器学习八股文/00.Machine Learning General/36.GMM - Gaussian Mixed Models.md",
     "03.机器学习八股文/00.Machine Learning General/25.Ensemble Learning.md",
-    "03.机器学习八股文/00.Machine Learning General/39.Gradient Boost 细节.md",
-    "pages/63f233.md",
-    "03.机器学习八股文/00.Machine Learning General/34.Principle Component Analysis - PCA.md"
+    "03.机器学习八股文/00.Machine Learning General/39.Gradient Boost 细节.md"
   ]
 }
