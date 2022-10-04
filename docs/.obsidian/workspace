@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2996edb2b1d300b6",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "03.机器学习八股文/00.Machine Learning General/1001.Definition Glossary.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "c221681ef1c9d3a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03.机器学习八股文/00.Machine Learning General/30.Hierarchical Clustering.md",
+            "file": "07.BQ/01.Stories/14.Story placeholder.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.机器学习八股文/00.Machine Learning General/30.Hierarchical Clustering.md",
+                "file": "07.BQ/01.Stories/14.Story placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +89,15 @@
   },
   "active": "c221681ef1c9d3a8",
   "lastOpenFiles": [
-    "03.机器学习八股文/00.Machine Learning General/1001.Definition Glossary.md",
-    "03.机器学习八股文/00.Machine Learning General/30.Hierarchical Clustering.md",
-    "03.机器学习八股文/00.Machine Learning General/32.KNN - K Nearest Neighbor.md",
-    "03.机器学习八股文/00.Machine Learning General/56.Batch Normalization.md",
-    "03.机器学习八股文/00.Machine Learning General/35.Learning to Rank.md",
-    "03.机器学习八股文/00.Machine Learning General/1112.Model Compare 比较模型好坏.md",
-    "03.机器学习八股文/00.Machine Learning General/1111.评价模型 Model Review.md",
-    "03.机器学习八股文/00.Machine Learning General/36.GMM - Gaussian Mixed Models.md",
-    "03.机器学习八股文/00.Machine Learning General/25.Ensemble Learning.md",
-    "03.机器学习八股文/00.Machine Learning General/39.Gradient Boost 细节.md"
+    "07.BQ/01.Stories/13.Story placeholder.md",
+    "07.BQ/01.Stories/12.Story placeholder.md",
+    "07.BQ/01.Stories/11.Story placeholder.md",
+    "07.BQ/01.Stories/10.Story placeholder.md",
+    "07.BQ/01.Stories/09.Story holder.md",
+    "07.BQ/00.General/01.Leadership Principles.md",
+    "07.BQ/00.General/02.Code2Vec Project Experience.md",
+    "07.BQ/01.Stories/08.Intern 项目修改小方向.md",
+    "07.BQ/01.Stories/07.Intern 项目 data pipeline.md",
+    "07.BQ/01.Stories/06.Covid 2020 summer camp.md"
   ]
 }
