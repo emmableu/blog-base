@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "07.BQ/01.Stories/114.Story Template.md",
+            "file": "07.BQ/01.Stories/14.Story Template copy 2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.BQ/01.Stories/114.Story Template.md",
+                "file": "07.BQ/01.Stories/14.Story Template copy 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f2df8a3887a3e5c",
+  "active": "c221681ef1c9d3a8",
   "lastOpenFiles": [
-    "07.BQ/01.Stories/13.ProgSnap data format项目.md",
+    "07.BQ/01.Stories/15.Story Template copy 3.md",
+    "07.BQ/01.Stories/16.Story Template copy 4.md",
+    "07.BQ/01.Stories/17.Story Template copy 5.md",
+    "07.BQ/01.Stories/18.Story Template copy 6.md",
+    "07.BQ/01.Stories/19.Story Template copy.md",
     "07.BQ/01.Stories/114.Story Template.md",
+    "07.BQ/01.Stories/14.Story Template copy 2.md",
+    "07.BQ/01.Stories/13.ProgSnap data format项目.md",
     "07.BQ/00.General/01.Leadership Principles.md",
-    "07.BQ/01.Stories/10.Whisker Journal Missing Deadline.md",
-    "07.BQ/01.Stories/12.Project Member Left.md",
-    "07.BQ/01.Stories/11.Whisker Project CI CD.md",
-    "07.BQ/01.Stories/09.Idea Builder Bad Feedback.md",
-    "07.BQ/01.Stories/08.Intern 项目修改小方向.md",
-    "07.BQ/01.Stories/07.Intern 项目 data pipeline.md",
-    "07.BQ/01.Stories/05.模型错了model wrong.md"
+    "07.BQ/01.Stories/10.Whisker Journal Missing Deadline.md"
   ]
 }
