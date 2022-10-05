@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "07.BQ/00.General/01.Leadership Principles.md",
+            "file": "04.系统设计/02.Other System Design Notes/102.Visitor Pattern.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.BQ/00.General/01.Leadership Principles.md",
+                "file": "04.系统设计/02.Other System Design Notes/102.Visitor Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c221681ef1c9d3a8",
   "lastOpenFiles": [
-    "07.BQ/01.Stories/14.Intern结束 knowledge transfer.md",
+    "07.BQ/01.Stories/16.自学program analysis.md",
     "07.BQ/00.General/01.Leadership Principles.md",
-    "07.BQ/01.Stories/13.ProgSnap data format项目.md",
-    "07.BQ/01.Stories/114.Story Template.md",
-    "07.BQ/01.Stories/15.Story Template copy 3.md",
-    "07.BQ/01.Stories/16.Story Template copy 4.md",
-    "07.BQ/01.Stories/17.Story Template copy 5.md",
-    "07.BQ/01.Stories/18.Story Template copy 6.md",
-    "07.BQ/01.Stories/19.Story Template copy.md",
-    "07.BQ/01.Stories/10.Whisker Journal Missing Deadline.md"
+    "07.BQ/01.Stories/09.Idea Builder Bad Feedback.md",
+    "07.BQ/01.Stories/12.Project Member Left.md",
+    "07.BQ/01.Stories/11.Whisker Project CI CD.md",
+    "07.BQ/01.Stories/17.intern 项目用 alchemy.md",
+    "07.BQ/01.Stories/02.Pinpoint 项目.md",
+    "07.BQ/01.Stories/03.Phd 项目修改方向 change direction.md",
+    "07.BQ/01.Stories/07.Intern 项目 data pipeline.md",
+    "07.BQ/01.Stories/06.Covid 2020 summer camp.md"
   ]
 }
