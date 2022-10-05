@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "07.BQ/01.Stories/13.ProgSnap data format项目.md",
+            "file": "07.BQ/01.Stories/114.Story Template.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.BQ/01.Stories/13.ProgSnap data format项目.md",
+                "file": "07.BQ/01.Stories/114.Story Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c221681ef1c9d3a8",
+  "active": "1f2df8a3887a3e5c",
   "lastOpenFiles": [
+    "07.BQ/01.Stories/13.ProgSnap data format项目.md",
     "07.BQ/01.Stories/114.Story Template.md",
     "07.BQ/00.General/01.Leadership Principles.md",
     "07.BQ/01.Stories/10.Whisker Journal Missing Deadline.md",
@@ -97,7 +98,6 @@
     "07.BQ/01.Stories/09.Idea Builder Bad Feedback.md",
     "07.BQ/01.Stories/08.Intern 项目修改小方向.md",
     "07.BQ/01.Stories/07.Intern 项目 data pipeline.md",
-    "07.BQ/01.Stories/05.模型错了model wrong.md",
-    "07.BQ/01.Stories/03.Phd 项目修改方向 change direction.md"
+    "07.BQ/01.Stories/05.模型错了model wrong.md"
   ]
 }
