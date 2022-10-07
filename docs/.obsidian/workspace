@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "07.BQ/01.Stories/101.Leadership Principles.md",
+            "file": "03.机器学习八股文/00.Machine Learning General/40.T-SNE or tSNE or tsne.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.BQ/01.Stories/101.Leadership Principles.md",
+                "file": "03.机器学习八股文/00.Machine Learning General/40.T-SNE or tSNE or tsne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c221681ef1c9d3a8",
   "lastOpenFiles": [
+    "03.机器学习八股文/00.Machine Learning General/1001.Definition Glossary.md",
+    "03.机器学习八股文/00.Machine Learning General/40.T-SNE or tSNE or tsne.md",
+    "07.BQ/00.General/02.Code2Vec Project Experience.md",
+    "07.BQ/00.General/00.Self Introduction.md",
+    "07.BQ/01.Stories/101.Leadership Principles.md",
     "07.BQ/01.Stories/07.Intern 项目 data pipeline.md",
     "07.BQ/01.Stories/08.Intern 项目修改小方向(说过了).md",
     "07.BQ/01.Stories/18.Planning Dive Deep.md",
-    "07.BQ/01.Stories/101.Leadership Principles.md",
     "07.BQ/01.Stories/19.Story Template 1 1.md",
-    "07.BQ/01.Stories/114.Story Template.md",
-    "07.BQ/01.Stories/03.Phd 项目 open-ended programming.md",
-    "07.BQ/01.Stories/02.Pinpoint 项目 (说过了).md",
-    "07.BQ/00.General/03.ETF - Execution-Trace-Based Feature Engineering.md",
-    "07.BQ/01.Stories/05.模型错了model wrong.md"
+    "07.BQ/01.Stories/114.Story Template.md"
   ]
 }
