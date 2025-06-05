@@ -1,10 +1,15 @@
-#!/usr/bin/env sh
-
 # 确保脚本抛出遇到的错误
 set -e
+if [ -f docs/Excalidraw/*.md ]; then
+  mv docs/Excalidraw/*.md ../Excalidraw
+fi
+rm -i -f docs/Excalidraw/*
+git add .
+git commit -m 'updated'
+git push origin master
 
 
-push_addr=`git remote get-url --push origin` # git提交地址，也可以手动设置，比如：push_addr=git@github.com:xugaoyi/vuepress-theme-vdoing.git
+push_addr=git@github.com:emmableu/blog.git # git提交地址，也可以手动设置，比如：push_addr=git@github.com:xugaoyi/vuepress-theme-vdoing.git
 commit_info=`git describe --all --always --long`
 dist_path=docs/.vuepress/dist # 打包生成的文件夹路径
 push_branch=gh-pages # 推送的分支
