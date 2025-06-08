@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3efbf41abbf881d",
+        "id": "ccc8b49fd01ed8ec",
         "type": "tabs",
         "children": [
           {
-            "id": "f81a0252eca25fe2",
+            "id": "635f8b316e65edfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.Google/03.Completed/435.435 - 78 - Subsets - Medium.md",
+                "file": "06.Google/00.基本模版/05.DFS - Tree 模版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "435.435 - 78 - Subsets - Medium"
+              "title": "05.DFS - Tree 模版"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subsets",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/03.Completed/435.435 - 78 - Subsets - Medium.md",
+                "file": "06.Google/00.基本模版/05.DFS - Tree 模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 435.435 - 78 - Subsets - Medium"
+              "title": "Backlinks for 05.DFS - Tree 模版"
             }
           }
         ]
@@ -126,34 +125,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f81a0252eca25fe2",
+  "active": "18a2820aed0f8617",
   "lastOpenFiles": [
-    "06.Google/00.基本模版/06.DFS - Backtracking 模版.md",
-    "06.Google/00.基本模版/01.二分搜索 Binary Search.md",
-    "06.Google/00.基本模版/02.滑动窗口 Sliding Window.md",
-    "06.Google/00.基本模版/11.拓扑排序 - Topological Sort - 模版.md",
-    "06.Google/00.基本模版/10.岛屿问题 - 网格dfs - grid dfs.md",
-    "06.Google/00.基本模版/09.洗牌算法 Shuffle Algorithm.md",
-    "06.Google/00.基本模版/08.并查集 Union Find 模版.md",
-    "06.Google/00.基本模版/20.APIs.md",
-    "06.Google/00.基本模版/19. Sorting Algorithms 排序算法.md",
-    "06.Google/00.基本模版/18. Monotonic Queue  单调队列 模版.md",
-    "06.Google/00.基本模版/17.字符串匹配的KMP算法.md",
-    "06.Google/00.基本模版/00.Problem Categories 小分类题汇总.md",
-    "01.leetcode/02.leetcode problems/03.03-Longest Substring Without Repeating Characters (Medium).md",
-    "pages/c2e0c3.md",
-    "pages/ad2d8e.md",
-    "pages/7322b2.md",
-    "pages/16db16.md",
-    "pages/11c420.md",
-    "06.Google/02.2025 Problems/912.912 - Sort an Array.md",
-    "06.Google/01.面经/00.面经总结 Mianjing Mian Jing.md",
-    "06.Google/00.基本模版/21.Prefix Sum 前缀和 模版.md",
-    "06.Google/00.基本模版/16.字典树 Trie 模版.md",
-    "06.Google/00.基本模版/14.背包问题.md",
-    "06.Google/00.基本模版/12.线段树 - Segment Tree - 模版.md",
-    "06.Google/00.基本模版/07.单调栈 Monotonic Stack 模版.md",
+    "06.Google/03.Completed/408.408 - 543 - Diameter of Binary Tree - Easy.md",
+    "Untitled.md",
     "06.Google/00.基本模版/05.DFS - Tree 模版.md",
+    "06.Google/03.Completed/432.432 - 144 - Binary Tree Preorder Traversal - Easy.md",
+    "06.Google/03.Completed/431.431 - 22 - Generate Parentheses - Medium.md",
+    "06.Google/03.Completed/392.392 - 127 - Word Ladder - Hard.md",
+    "06.Google/03.Completed/006.006 - 2158 - Amount of New Area Painted Each Day - Hard.md",
+    "06.Google/03.Completed/001.001 - 1293 - Shortest Path in a Grid with Obstacles Elimination - Hard.md",
+    "06.Google/03.Completed/002.002 - 818 - Race Car - Hard.md",
+    "06.Google/03.Completed/022.022 - 68 - Text Justification - Hard.md",
+    "06.Google/03.Completed/026.026 - 489 - Robot Room Cleaner - Hard.md",
+    "06.Google/03.Completed/049.049 - 900 - RLE Iterator - Medium.md",
+    "06.Google/03.Completed/082.082 - 428 - Serialize and Deserialize N-ary Tree - Hard.md",
+    "06.Google/03.Completed/079.079 - 551 - Student Attendance Record I - Easy.md",
+    "06.Google/03.Completed/055.055 - 1820 - Maximum Number of Accepted Invitations - Medium.md",
+    "06.Google/03.Completed/059.059 - 1345 - Jump Game IV - Hard.md",
+    "06.Google/03.Completed/058.058 - 253 - Meeting Rooms II - Medium.md",
+    "06.Google/03.Completed/053.053 - 759 - Employee Free Time - Hard.md",
+    "06.Google/03.Completed/047.047 - 388 - Longest Absolute File Path - Medium.md",
+    "06.Google/03.Completed/046.046 - 1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md",
+    "06.Google/03.Completed/045.045 - 729 - My Calendar I - Medium.md",
+    "06.Google/03.Completed/039.039 - 419 - Battleships in a Board - Medium.md",
+    "06.Google/03.Completed/037.037 - 720 - Longest Word in Dictionary - Medium.md",
+    "06.Google/03.Completed/036.036 - 1996 - The Number of Weak Characters in the Game - Medium.md",
+    "06.Google/03.Completed/034.034 - 2018 - Check if Word Can Be Placed In Crossword - Medium.md",
+    "06.Google/03.Completed/012.012 - 1048 - Longest String Chain - Medium.md",
+    "pages",
     "06.Google/02.2025 Problems"
   ]
 }
