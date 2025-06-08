@@ -30,6 +30,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     // 导航配置
     nav: [
       { text: '首页', link: '/' },
+      { text: 'By Tag', link:'/bytag/'},
       { text: 'Google', link:'/google/'},
       {
         text: '机器学习',

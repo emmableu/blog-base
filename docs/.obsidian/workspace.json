@@ -11,14 +11,10 @@
             "id": "635f8b316e65edfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06.Google/00.基本模版/05.DFS - Tree 模版.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "05.DFS - Tree 模版"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "longest subst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Google/00.基本模版/05.DFS - Tree 模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05.DFS - Tree 模版"
+              "title": "Backlinks"
             }
           }
         ]
@@ -125,35 +120,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18a2820aed0f8617",
+  "active": "635f8b316e65edfc",
   "lastOpenFiles": [
-    "06.Google/03.Completed/408.408 - 543 - Diameter of Binary Tree - Easy.md",
-    "Untitled.md",
-    "06.Google/00.基本模版/05.DFS - Tree 模版.md",
-    "06.Google/03.Completed/432.432 - 144 - Binary Tree Preorder Traversal - Easy.md",
-    "06.Google/03.Completed/431.431 - 22 - Generate Parentheses - Medium.md",
-    "06.Google/03.Completed/392.392 - 127 - Word Ladder - Hard.md",
-    "06.Google/03.Completed/006.006 - 2158 - Amount of New Area Painted Each Day - Hard.md",
-    "06.Google/03.Completed/001.001 - 1293 - Shortest Path in a Grid with Obstacles Elimination - Hard.md",
-    "06.Google/03.Completed/002.002 - 818 - Race Car - Hard.md",
-    "06.Google/03.Completed/022.022 - 68 - Text Justification - Hard.md",
-    "06.Google/03.Completed/026.026 - 489 - Robot Room Cleaner - Hard.md",
-    "06.Google/03.Completed/049.049 - 900 - RLE Iterator - Medium.md",
-    "06.Google/03.Completed/082.082 - 428 - Serialize and Deserialize N-ary Tree - Hard.md",
-    "06.Google/03.Completed/079.079 - 551 - Student Attendance Record I - Easy.md",
-    "06.Google/03.Completed/055.055 - 1820 - Maximum Number of Accepted Invitations - Medium.md",
-    "06.Google/03.Completed/059.059 - 1345 - Jump Game IV - Hard.md",
-    "06.Google/03.Completed/058.058 - 253 - Meeting Rooms II - Medium.md",
-    "06.Google/03.Completed/053.053 - 759 - Employee Free Time - Hard.md",
-    "06.Google/03.Completed/047.047 - 388 - Longest Absolute File Path - Medium.md",
-    "06.Google/03.Completed/046.046 - 1284 - Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Hard.md",
-    "06.Google/03.Completed/045.045 - 729 - My Calendar I - Medium.md",
-    "06.Google/03.Completed/039.039 - 419 - Battleships in a Board - Medium.md",
-    "06.Google/03.Completed/037.037 - 720 - Longest Word in Dictionary - Medium.md",
-    "06.Google/03.Completed/036.036 - 1996 - The Number of Weak Characters in the Game - Medium.md",
-    "06.Google/03.Completed/034.034 - 2018 - Check if Word Can Be Placed In Crossword - Medium.md",
-    "06.Google/03.Completed/012.012 - 1048 - Longest String Chain - Medium.md",
-    "pages",
-    "06.Google/02.2025 Problems"
+    "01.bytag/Union Find/990.990 - Satisfiability of Equality Equations - Medium.md",
+    "01.bytag/Union Find/839.839 - Similar String Groups - Hard.md",
+    "01.bytag/Union Find/130.130 - Surrounded Regions - Medium.md",
+    "01.bytag/Union Find/1101.1101 - The Earliest Moment When Everyone Become Friends - Medium.md",
+    "01.bytag/Union Find/08.并查集 Union Find 模版.md",
+    "01.bytag/Stack/772.772 - Basic Calculator III - Hard.md",
+    "01.bytag/Stack/739.739 - Daily Temperatures (Medium).md",
+    "01.bytag/Stack/503.503 - Next Greater Element II (Medium).md",
+    "01.bytag/Stack/496.496 - Next Greater Element I (Easy).md",
+    "01.bytag/Stack/1996.1996 - The Number of Weak Characters in the Game - Medium.md",
+    "01.bytag/Stack/1944.1944 - Number of Visible People in a Queue - Hard.md",
+    "01.bytag/Stack/1249.1249 - Minimum Remove to Make Valid Parentheses - Medium.md",
+    "01.bytag/Stack/1047.1047 - Remove All Adjacent Duplicates In String - Easy.md",
+    "01.bytag/Stack/1209.1209 - Remove All Adjacent Duplicates in String II (Medium).md",
+    "01.bytag/Stack/00.单调栈 Monotonic Stack 模版.md",
+    "01.bytag/Sliding Window/76.76 - Minimum Window Substring - Hard.md",
+    "01.bytag/Sliding Window/340.340 - Longest Substring with At Most K Distinct Characters (Medium).md",
+    "01.bytag/Sliding Window/239.239 - Sliding Window Maximum - Hard.md",
+    "01.bytag/Sliding Window/1610.1610 - Maximum Number of Visible Points - Hard.md",
+    "01.bytag/Sliding Window/1004.1004 - Max Consecutive Ones III - Medium.md",
+    "01.bytag/Sliding Window/03.03-Longest Substring Without Repeating Characters (Medium).md",
+    "01.bytag/Sliding Window/00.滑动窗口 Sliding Window.md",
+    "01.bytag/Other/987.987 - Vertical Order Traversal of a Binary Tree (Hard).md",
+    "01.bytag/Other/986.986 - Interval List Intersections - Medium.md",
+    "01.bytag/Other/983.983 - Minimum Cost For Tickets (Medium).md",
+    "01.bytag/Other/980.Unique Paths III.md",
+    "01.bytag/Union Find",
+    "01.bytag/String Processing",
+    "01.bytag/Stack",
+    "01.bytag/Sliding Window",
+    "01.bytag/Shuffle Algorithm",
+    "01.bytag/Segment Tree",
+    "01.bytag/Prefix Sum",
+    "01.bytag/Other",
+    "01.bytag/Mono Stack",
+    "01.bytag/Mono Queue"
   ]
 }
