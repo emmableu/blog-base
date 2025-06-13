@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.bytag/02.Binary Search/00.二分搜索 Binary Search.md",
+                "file": "03.机器学习八股文/05.PyTorch/03. dim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.二分搜索 Binary Search"
+              "title": "03. dim"
+            }
+          },
+          {
+            "id": "86f697ef74f012dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "questions"
             }
           }
         ]
@@ -126,8 +140,23 @@
   },
   "active": "635f8b316e65edfc",
   "lastOpenFiles": [
-    "01.bytag/02.Binary Search/209. 209 - Minimum Size Subarray Sum.md",
+    "03.机器学习八股文/05.PyTorch/02. Indexing multiple items in torch.md",
+    "03.机器学习八股文/05.PyTorch/03. dim.md",
+    "03.机器学习八股文/05.PyTorch/01. BroadCasting Rules.md",
+    "03.机器学习八股文/05.PyTorch/121.PyTorch - Text Classification Using TorchText.md",
+    "03.机器学习八股文/05.PyTorch/120.PyTorch - Dropout.md",
+    "03.机器学习八股文/05.PyTorch/103.PyTorch - DataLoader.md",
+    "03.机器学习八股文/05.PyTorch/102.PyTorch - Neural Network Classification.md",
+    "03.机器学习八股文/05.PyTorch/101.PyTorch - Neural Network Regression.md",
+    "03.机器学习八股文/05.PyTorch/100.Graph in PyTorch.md",
+    "03.机器学习八股文/00.Zero To Hero/02.Makemore 1.1 - bigram.md",
+    "03.机器学习八股文/0.md",
+    "03.机器学习八股文/00.Zero To Hero/02.Makemore 1.2 - trigram 1.md",
+    "03.机器学习八股文/00.Zero To Hero/01.Micrograd.md",
     "01.bytag/02.Binary Search/00.二分搜索 Binary Search.md",
+    "03.机器学习八股文/00.Zero To Hero",
+    "questions.md",
+    "01.bytag/02.Binary Search/209. 209 - Minimum Size Subarray Sum.md",
     "01.bytag/02.Binary Search/162. 162 - Find Peak Element.md",
     "01.bytag/04.DFS/04.04 - Median of Two Sorted Arrays (Hard).md",
     "01.bytag/02.Binary Search/04.04 - Median of Two Sorted Arrays (Hard).md",
@@ -138,20 +167,6 @@
     "01.bytag/99.Other/274. 274 - H Index.md",
     "01.bytag/12.Prefix Sum/274. 274 - H Index.md",
     "01.bytag/15.Sliding Window/03.03-Longest Substring Without Repeating Characters (Medium).md",
-    "pages/d66aaa.md",
-    "01.bytag/Union Find/990.990 - Satisfiability of Equality Equations - Medium.md",
-    "01.bytag/Union Find/839.839 - Similar String Groups - Hard.md",
-    "01.bytag/Union Find/130.130 - Surrounded Regions - Medium.md",
-    "01.bytag/Union Find/1101.1101 - The Earliest Moment When Everyone Become Friends - Medium.md",
-    "01.bytag/Union Find/08.并查集 Union Find 模版.md",
-    "01.bytag/Stack/772.772 - Basic Calculator III - Hard.md",
-    "01.bytag/Stack/739.739 - Daily Temperatures (Medium).md",
-    "01.bytag/Stack/503.503 - Next Greater Element II (Medium).md",
-    "01.bytag/Stack/496.496 - Next Greater Element I (Easy).md",
-    "01.bytag/Stack/1996.1996 - The Number of Weak Characters in the Game - Medium.md",
-    "01.bytag/Stack/1944.1944 - Number of Visible People in a Queue - Hard.md",
-    "01.bytag/Stack/1249.1249 - Minimum Remove to Make Valid Parentheses - Medium.md",
-    "01.bytag/Stack/1047.1047 - Remove All Adjacent Duplicates In String - Easy.md",
     "01.bytag/Union Find",
     "01.bytag/String Processing",
     "01.bytag/Stack",
@@ -160,7 +175,6 @@
     "01.bytag/Segment Tree",
     "01.bytag/Prefix Sum",
     "01.bytag/Other",
-    "01.bytag/Mono Stack",
-    "01.bytag/Mono Queue"
+    "01.bytag/Mono Stack"
   ]
 }
