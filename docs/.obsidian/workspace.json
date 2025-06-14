@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.机器学习八股文/05.PyTorch/03. dim.md",
+                "file": "03.机器学习八股文/00.Zero To Hero/02.Makemore 1.1 - bigram - Train and Evaluate a Bigram Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. dim"
+              "title": "02.Makemore 1.1 - bigram - Train and Evaluate a Bigram Model"
             }
           },
           {
@@ -140,16 +140,20 @@
   },
   "active": "635f8b316e65edfc",
   "lastOpenFiles": [
-    "03.机器学习八股文/05.PyTorch/02. Indexing multiple items in torch.md",
+    "03.机器学习八股文/05.PyTorch/07. `torch.full()` 使用指南（问答 + 示例）.md",
+    "03.机器学习八股文/00.Zero To Hero/02.Makemore 1.1 - bigram - Train and Evaluate a Bigram Model.md",
+    "03.机器学习八股文/05.PyTorch/05. PyTorch 中的 `F.one_hot()` 详解.md",
+    "03.机器学习八股文/05.PyTorch/06. torch.randperm.md",
+    "03.机器学习八股文/05.PyTorch/04. Sampling from a distribution.md",
     "03.机器学习八股文/05.PyTorch/03. dim.md",
+    "03.机器学习八股文/05.PyTorch/02. Indexing multiple items in torch.md",
+    "03.机器学习八股文/05.PyTorch/101.PyTorch - Neural Network Regression.md",
     "03.机器学习八股文/05.PyTorch/01. BroadCasting Rules.md",
     "03.机器学习八股文/05.PyTorch/121.PyTorch - Text Classification Using TorchText.md",
     "03.机器学习八股文/05.PyTorch/120.PyTorch - Dropout.md",
     "03.机器学习八股文/05.PyTorch/103.PyTorch - DataLoader.md",
     "03.机器学习八股文/05.PyTorch/102.PyTorch - Neural Network Classification.md",
-    "03.机器学习八股文/05.PyTorch/101.PyTorch - Neural Network Regression.md",
     "03.机器学习八股文/05.PyTorch/100.Graph in PyTorch.md",
-    "03.机器学习八股文/00.Zero To Hero/02.Makemore 1.1 - bigram.md",
     "03.机器学习八股文/0.md",
     "03.机器学习八股文/00.Zero To Hero/02.Makemore 1.2 - trigram 1.md",
     "03.机器学习八股文/00.Zero To Hero/01.Micrograd.md",
@@ -163,10 +167,6 @@
     "01.bytag/02.Binary Search/704. 704 - Binary Search.md",
     "01.bytag/02.Binary Search/278.278 - First Bad Version - Easy.md",
     "01.bytag/12.Prefix Sum/21.Prefix Sum 前缀和 模版.md",
-    "01.bytag/15.Sliding Window/00.滑动窗口 Sliding Window.md",
-    "01.bytag/99.Other/274. 274 - H Index.md",
-    "01.bytag/12.Prefix Sum/274. 274 - H Index.md",
-    "01.bytag/15.Sliding Window/03.03-Longest Substring Without Repeating Characters (Medium).md",
     "01.bytag/Union Find",
     "01.bytag/String Processing",
     "01.bytag/Stack",
