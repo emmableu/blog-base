@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.机器学习八股文/05.PyTorch/07. torch.full() 使用指南（问答 + 示例）.md",
+                "file": "03.机器学习八股文/05.PyTorch/07. torch.full 使用指南（问答 + 示例）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. torch.full() 使用指南（问答 + 示例）"
+              "title": "07. torch.full 使用指南（问答 + 示例）"
             }
           },
           {
@@ -141,7 +141,7 @@
   "active": "635f8b316e65edfc",
   "lastOpenFiles": [
     "03.机器学习八股文/00.Zero To Hero/02.Makemore 1.1 - bigram - Train and Evaluate a Bigram Model.md",
-    "03.机器学习八股文/05.PyTorch/07. torch.full() 使用指南（问答 + 示例）.md",
+    "03.机器学习八股文/05.PyTorch/07. torch.full 使用指南（问答 + 示例）.md",
     "03.机器学习八股文/05.PyTorch/05. PyTorch 中的 `F.one_hot()` 详解.md",
     "03.机器学习八股文/05.PyTorch/06. torch.randperm.md",
     "03.机器学习八股文/05.PyTorch/04. Sampling from a distribution.md",
