@@ -240,6 +240,13 @@ plugins: <UserPlugins>[
         },
       },
     ],
+
+    ['mathjax', {
+      target: 'svg', // or 'chtml'
+      macros: {
+        '*': '\\times',
+      },
+    }],
   ],
   markdown: {
     lineNumbers: true,

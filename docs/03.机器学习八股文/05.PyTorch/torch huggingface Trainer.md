@@ -1,3 +1,15 @@
+---
+title: torch huggingface Trainer
+date: 2025-06-15 14:34:26
+permalink: /pages/412b34/
+categories:
+  - 机器学习八股文
+  - PyTorch
+tags:
+  - 
+author: 
+  name: emmableu
+---
 
 ```
 Trainer.evaluate() ───────────────┐
