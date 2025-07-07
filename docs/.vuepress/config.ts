@@ -247,6 +247,9 @@ plugins: <UserPlugins>[
         '*': '\\times',
       },
     }],
+    [
+    'vuepress-plugin-mathjax'
+  ]
   ],
   markdown: {
     lineNumbers: true,
