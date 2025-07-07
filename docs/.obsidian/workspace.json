@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.机器学习八股文/00.Zero To Hero/05. Makemore 3 - Activations & Gradients, BatchNorm.md",
+                "file": "03.机器学习八股文/10. Complete ML Projects/00. Wine Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. Makemore 3 - Activations & Gradients, BatchNorm"
-            }
-          },
-          {
-            "id": "21e535f14a641dc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "temp"
-            }
-          },
-          {
-            "id": "bf435e01ae328c56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.机器学习八股文/03.Reinforcement Learning/00. Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00. Resources"
+              "title": "00. Wine Classification"
             }
           }
         ]
@@ -154,8 +126,8 @@
   },
   "active": "d0301ee8221ccd2b",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "03.机器学习八股文/00.Zero To Hero/05. Makemore 3 - Activations & Gradients, BatchNorm.md",
+    "Untitled 3.md",
     "Untitled 2.md",
     "temp.md",
     "03.机器学习八股文/00.Zero To Hero/07. Makemore 5 - WaveNet.md",
